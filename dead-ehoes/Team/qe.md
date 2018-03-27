@@ -24,9 +24,10 @@ Homeworld:
 | Acrobatics (Dex) | +3 | 1 ||
 | **Athletics (Str)** | -1 | 0 ||
 | Bluff (Cha) | +0 | 0 ||
-| **Computers (Int:T)** | +8 | 1 |bypass|
+| **Computers (Int:T)** | +11 | 1 |bypass, feat|
 | Culture (Int:T) | - | 0 ||
 | Diplomacy (Cha) | +0 | 0 ||
+| Disguise (Cha) | +0 | 0 ||
 | **Engineering (Int:T)** | +10 | 1 |racial,bypass|
 | Intimidate (Cha) | +0 | 0 ||
 | Life Science (Int:T) | - | 0 ||
@@ -56,9 +57,11 @@ Homeworld:
 | Resolve | 0 | 0 |
 
 #### Defense
+- stationwear flightsuit
+
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
-| 10 | 10 | 18 |
+| 12 | 13 | 21 |
 
 #### Attack Bonuses
 
@@ -68,6 +71,8 @@ Homeworld:
 
 | Weapon | Lvl | Attack | Dmg | Crit | Notes |
 | ------ | --- | ------ | --- | ---- | ----- |
+| laser rifle (azimuth) | 1 | +3 | 1d8F | Burn 1d6 | 120 ft range, 20 charges |
+| tactical baton | 1 | +2 | 1d4B | | analog, operative|
 
 
 ### Abilities
@@ -91,18 +96,24 @@ Homeworld:
 
 #### Mechanic
 
-- **Artificial Intelligence (Drone)**:
+- **Artificial Intelligence (Exocortex)**:
+	- **Combat Tracking**: As a move action during combat, you can designate a foe for your exocortex to track. As long as that target is in sight, you make attacks against that target as if your base attack bonus from your mechanic levels were equal to your mechanic level. Designating another target causes you to immediately lose this bonus against the previous target.
+	- **Memory Module**: Once per day, as a reaction while not in combat, you can reroll a failed skill check to recall knowledge.
+	- **Skill Focus**: Computers
 - **Bypass**: +1 insight bonus to Computers and Engineering skill checks.
 - **Custom Rig (Handheld Device)**:
 	- satisfies any tool or kit for Computers and Engineering checks.
 	- works as Mk I comm unit
-	-  
+
+#### Feats
+
+- **Weapon Focus (longarms)**: +1 attack bonus with longarms
 
 ### Proficiencies
 
-- light armor
+- light armor, heavy armor
 - basic melee weapons
-- small arms
+- small arms, long arms
 - grenades
 
 ### Languages
@@ -111,7 +122,7 @@ Common, Ysoki
 
 ## Gear
 
-**Credits:** 
+**Credits:** 365
 
 | Carry | Weight |
 | ----- | ------ |
@@ -119,6 +130,8 @@ Common, Ysoki
 | Encumbered |
 
 ### Equipment
+
+- industrial backpack
 
 ## Background
 
