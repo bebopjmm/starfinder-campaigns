@@ -1,11 +1,10 @@
-# Qe 'Redacted'
-*Qe is a *
+# 'Redacted'
+*Redacted is a adjective ysoki hacker that ...*
 
 ![]()
 
-Alignment Female Ysoki Outlaw Operative(Hacker) (1)
-
-Homeworld: 
+Female Ysoki Outlaw Operative(Hacker) (1)  
+Homeworld: Kodrara
 
 ## Stats
 
@@ -58,20 +57,28 @@ Homeworld:
 
 #### Defense
 
+| Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
+| ----- | :-: | :-: | :-: | :-----: | :-: | :---: | :---: | :--: |
+| second skin | 1 | +1 | +2 | +5 | - | - | 1 | L |
+
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
-| 10 | 10 | 18 |
+| 14 | 15 | 23 |
 
 #### Attack Bonuses
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
-| 0 | 0 | 0 |
+| -1 | +3 | -1 |
 
-| Weapon | Lvl | Attack | Dmg | Crit | Notes |
-| ------ | --- | ------ | --- | ---- | ----- |
+| Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
+| ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
+| tactical baton | 1 | +3 | 1d4 B | - | - | L | analog, operative |
+| tactical semi-auto pistol | 1 | +3 | 1d6 P | - | 9/1 |L | analog, 30 ft range, 9/1 
 
-
+| Ammunition | Lvl | Charges | Bulk | Notes |
+| ---------- | :-: | :-----: | :--: | ----- |
+| small arms rounds | 1 | 60 | 2L ||
 
 ### Abilities
 
@@ -115,17 +122,26 @@ Common, Ysoki
 
 ## Gear
 
-**Credits:** 1000
+**Credits:** 456
 
 | Carry | Weight |
 | ----- | ------ |
-| Unencumbered | |
-| Encumbered |
+| Unencumbered | 6 |
+| Encumbered | 10 |
+| Current | 0 |
 
 ### Equipment
 
+| Item | Bulk | Capacity/Usage | Notes |
+| ---- | :--: | :------------: | ----- |
+| industrial backpack | 0 | - | add 2 bulk to carry capacity |
+| hacker kit | L | - ||
+| personal comm | L | 80 / 1/hr || 
+
 
 ## Background
+
+Qe had always been a bit of a rebel and drawn to technology, dabbling on the edges of the hacker community. She and her brother started a small but promising start-up company that was crushed by a mega-corp when they wouldn't accept the ridiculous buyout offer. This caused her brother to commit suicide and pushed her fully into the criminal tech community, taking up the moniker Redacted. She caused a lot of embarrassment for the mega-corp and ended up with a serious bouny on her head, forcing her to flee to core systems to the Koschei Expanse. There she hooked up with VENTURE CAPTAIN.
 
 ## Personality
 ### Traits
@@ -134,14 +150,15 @@ Common, Ysoki
 
 ### Ideals
 
-- 
+- people should be free to pursue their dreams
 
 ### Driving Motivations
 
-- 
+- expose corruption in the mega-corporations
+- promote individual liberties hindered by the system
 
 ### Flaws
 
-- 
+- serious trust issues
 
 ## Character Developmennt
