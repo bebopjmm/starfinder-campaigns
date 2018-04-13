@@ -1,5 +1,5 @@
 # 'Redacted'
-*Redacted is a adjective ysoki hacker that ...*
+*Redacted is a fervent ysoki hacker that ...*
 
 ![]()
 
