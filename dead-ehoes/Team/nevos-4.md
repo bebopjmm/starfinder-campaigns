@@ -1,91 +1,80 @@
 # Nevos-4
-*tagline*
+*Nevos-4 is a justice-oriented android soldier whose purpose is the defense of others*
 
-![]()
+![Nevos-4](https://www.dropbox.com/s/hzvxqqys19cezwh/nevos-4.jpg?raw=1)
 
-Alignment Gender Android Ace Pilot Operative (1)
-
-Homeworld: 
+Genderless Android Ace Pilot Soldier (1)  
+**Homeworld**: Aballon
 
 ## Stats
 
 |**Ability**|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|Mod (Val)| +0 (10) | +3 (16) | +0 (11) | +2 (14) | +0 (10) | +1 (12) |
+|Mod (Val)| +1 (13) | +3 (16) | +2 (14) | +1 (12) | +0 (10) | -1 (8) |
 
 | Save | Mod |
 | ---- | --- |
-| Fort (Con) | +0 |
-| Reflex (Dex) | +5 |
+| Fort (Con) | +4 |
+| Reflex (Dex) | +3 |
 | Will (Wis) | +2 |
 
 | Skill | Mod | Ranks | Notes
 | ---- | :--: | :---: | ----- |
-| **Acrobatics (Dex)** | +8 | 1 |edge|
-| **Athletics (Str)** | +1 | 0 |edge|
-| **Bluff (Cha)** | +6 | 1 |edge|
-| **Computers (Int:T)** | +7 | 1 |edge|
-| **Culture (Int:T)** | +7 | 1 |theme, edge|
-| Diplomacy (Cha) | +2 | 0 |edge|
-| **Disguise (Cha)** | +2 | 0 |edge|
-| **Engineering (Int:T)** | +3 | 0 |edge|
-| **Intimidate (Cha)** | +2 | 0 |edge|
+| **Acrobatics (Dex)** | +7/+5 | 1 |acp|
+| **Athletics (Str)** | +5/+3 | 1 |acp|
+| Bluff (Cha) | -1 | 0 ||
+| Computers (Int:T) | - | 0 ||
+| Culture (Int:T) | +3 | 1 ||
+| Diplomacy (Cha) | -1 | 0 ||
+| Disguise (Cha) | -1 | 0 ||
+| **Engineering (Int:T)** | - | 0 ||
+| **Intimidate (Cha)** | -1 | 0 ||
 | Life Science (Int:T) | - | 0 ||
-| **Medicine (Int)**| +7 | 1 |edge|
+| **Medicine (Int)**| +1 | 0 ||
 | Mysticism (Wis:T) | - | 0 ||
-| **Perception (Wis)** | +5 | 1 |edge|
+| Perception (Wis) | +0 | 0 ||
 | Physical Science (Int:T) | - | 0 ||
-| **Piloting (Dex)** | +9 | 1 |theme, edge|
-| Profession (varies:T) | - | 0 ||
-| **Sense Motive (Wis)** | -1 | 0 |racial, edge|
-| **Sleight of Hand (Dex:T)** | +8 | 1 |edge|
-| **Stealth (Dex)** | +8 | 1 |edge|
-| **Survival (Wis)** | +5 | 1 |edge|
+| **Piloting (Dex)** | +8 | 1 ||
+| Profession (varies:T) | +0 | 0 ||
+| Sense Motive (Wis) | -2 | 0 |racial|
+| Sleight of Hand (Dex:T) | - | 0 |acp|
+| Stealth (Dex) | +3/+1 | 0 |acp|
+| **Survival (Wis)** | +4 | 1 ||
 
 | Stat | Value |
 | ---- | ----- |
 | Size | Medium |
-| Speed ||
-| Init ||
+| Speed | 30/20 |
+| Init | +3 |
 
 ### Combat
 
 | Health | Nominal | Current |
 | ------ | :-----: | :-----: |
-| Hp | 10 | 10 |
-| Stamina | 8 | 8 |
+| Hp | 11 | 11 |
+| Stamina | 10 | 10 |
 | Resolve | 0 | 0 |
 
 #### Defense
+
+| Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
+| ----- | :-: | :-: | :-: | :-----: | :-: | :---: | :---: | :--: |
+| Ceremonial Plate | 1 | +1 | +3 | +3 * | -2 * | -10 | 3 | 3 |
+
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
-| 10 | 10 | 18 |
+| 14 | 16 | 24 |
 
 #### Attack Bonuses
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
-| 0 | 0 | 0 |
+| +2 | +4 | +2 |
 
-| Weapon | Lvl | Attack | Dmg | Crit | Notes |
-| ------ | --- | ------ | --- | ---- | ----- |
-
-### Spells
-
-#### 0 - Known: 0
-
-| Name | Effect |
-| ---- | ------ |
-
-
-#### 1
-
-| Known | Slots Per Day | Slots Used |
-| :---: | :-----------: | :--------: |
-| 0 | 0 | 0 |
-
-| Name | Effect |
-| ---- | ------ |
+| Weapon | Lvl | Atk | Dmg | Crit | Bulk | Usage | Notes |
+| ------ | :-: | :-: | :-: | :--: | :--: | :---: | ----- |
+| hunting rifle | 1 | +4 | 1d8 P | - | ? | 1 | 6 rds, 90ft range, analog |
+| assault hammer | 1 | +2 | 1d6 B | - | ? | - | analog | 
 
 ### Abilities
 
@@ -103,30 +92,41 @@ Homeworld:
 
 - **Ace Pilot Knowledge**: Reduce the DC of Culture checks to recall knowledge about starship and vehicle models and parts as well as famous hotshot pilots by 5. Piloting is a class skill for you, though if it is a class skill from the class you take at 1st level, you instead gain a +1 bonus to your Piloting checks.
 
-#### Operative
+#### Soldier (Guard)
 
-- **Operative's Edge**: +1 insight bonus to initiative checks and to skill checks.
-- Trick Attack (+1d4)
-- Daredevil Specialization
+- **Armor Training**: reduce the armor check penalty of armor you wear by 1 (to a minimum of 0) and increase the maximum Dexterity bonus allowed by your armor by 1.
+
+#### Feats
+
+- **Toughness**: For every character level you have (and whenever you gain a new level), you gain 1 Stamina Point. In addition, you gain a +4 bonus to Constitution checks to continue running, to avoid damage from a forced march, to hold your breath, and to avoid damage from starvation or thirst. You also gain a +4 bonus to Fortitude saving throws to avoid taking damage from hot or cold environments, to withstand the harmful effects of thick and thin atmospheres, to avoid choking when breathing in heavy smoke, and to avoid fatigue caused by sleep deprivation.
+
 
 ### Proficiencies
 
-- light armor
-- basic melee weapons
-- small arms, sniper weapons
+- light and heavy armor
+- basic and advance melee weapons
+- small arms, long arms, heavy weapons, sniper weapons
+- grenades
 
 ### Languages
 
+- Common, Vesk
+
 ## Gear
 
-**Credits:** 1000
+**Credits:** 555
 
 | Carry | Weight |
 | ----- | ------ |
-| Unencumbered | |
-| Encumbered |
+| Unencumbered | 9 |
+| Encumbered | 15 |
+| Current | 5 |
 
 ### Equipment
+
+| Item | Bulk | Capacity/Usage | Notes |
+| ---- | :--: | :------------: | ----- |
+| industrial backpack | 0 | - | add 2 bulk to carry capacity |
 
 ## Background
 
@@ -137,11 +137,8 @@ Homeworld:
 
 ### Ideals
 
-- 
-
-### Driving Motivations
-
-- 
+- A soldier's duty is to place their life in peril for the defense of others.
+- I do what I must and obey just authority.
 
 ### Flaws
 

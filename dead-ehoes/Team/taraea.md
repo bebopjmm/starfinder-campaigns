@@ -1,0 +1,151 @@
+# Taraea
+*Taraea is ...*
+
+![]()
+
+Female Lashunta(damaya) Xenoseeker Solarian (1)  
+**Homeworld**: Castrovel
+
+## Stats
+
+|**Ability**|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+|Mod (Val)| +2 (14) | +1 (12) | -1 (8) | +1 (13) | +0 (10) | +3 (16) |
+
+| Save | Mod |
+| ---- | --- |
+| Fort (Con) | +1 |
+| Reflex (Dex) | +1 |
+| Will (Wis) | +2 |
+
+| Skill | Mod | Ranks | Notes
+| ---- | :--: | :---: | ----- |
+| **Acrobatics (Dex)** | +1 | 0 ||
+| **Athletics (Str)** | +6 | 1 ||
+| Bluff (Cha) | +3 | 0 ||
+| Computers (Int:T) | - | 0 ||
+| **Culture (Int:T)** | - | 0 ||
+| **Diplomacy (Cha)** | +9 | 1 |racial|
+| Disguise (Cha) | +3 | 0 ||
+| Engineering (Int:T) | - | 0 ||
+| **Intimidate (Cha)** | +7 | 1 ||
+| **Life Science (Int:T)** | +7 | 1 |theme, racial|
+| Medicine (Int)| +1 | 0 ||
+| **Mysticism (Wis:T)** | +4 | 1 ||
+| **Perception (Wis)** | +0 | 0 ||
+| **Physical Science (Int:T)** | - | 0 ||
+| Piloting (Dex) | +1 | 0 ||
+| Profession (varies:T) | - | 0 ||
+| **Sense Motive (Wis)** | +0 | 0 ||
+| Sleight of Hand (Dex:T) | - | 0 ||
+| **Stealth (Dex)** | +1 | 0 ||
+| **Survival (Wis)** | +0 | 0 ||
+
+| Stat | Value |
+| ---- | ----- |
+| Size | Medium |
+| Speed | 30 |
+| Init | +1 |
+
+### Combat
+
+| Health | Nominal | Current |
+| ------ | :-----: | :-----: |
+| Hp | 11 | 11 |
+| Stamina | 6 | 6 |
+| Resolve | 0 | 0 |
+
+#### Defense
+
+| Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
+| ----- | :-: | :-: | :-: | :-----: | :---: | :---: | :---: | :--: |
+|  |  |  |  |  |  |  | | |
+
+| EAC | KAC | AC vs CM |
+| :-: | :-: | :------: |
+| 10 | 10 | 18 |
+
+#### Attack Bonuses
+
+| Melee | Ranged | Thrown |
+| :---: | :----: | :----: |
+| +3 | +2 | +3 |
+
+| Weapon | Lvl | Attack | Dmg | Crit | Notes |
+| ------ | --- | ------ | --- | ---- | ----- |
+
+### Abilities
+
+#### Racial
+
+- **Lashunta Magic**: Lashuntas gain the following spell-like abilities: 
+	- At will: daze, psychokinetic hand
+	- 1/day: detect thoughts
+- **Limited Telepathy**: Lashuntas can mentally communicate with any creatures within 30 feet with whom they share a language. Conversing telepathically with multiple creatures simultaneously is just as difficult as listening to multiple people speaking.
+- **Student**: +2 to 2 chosen skills (diplomacy, life sciences)
+
+#### Xenoseeker
+
+- **Xenoseeker Knowledge**: You are trained to seek out, identify, and interact with alien life-forms. Reduce the DC to identify a rare creature using Life Science by 5. Life Science is a class skill for you, though if it is a class skill from the class you take at 1st level, you instead gain a +1 bonus to Life Science checks.
+
+#### Solarian
+
+- **Skill Adept**: proficient in culture and survival
+- **Solar Armor**: +1 to KAC and EAC, move action to summon/dismiss
+- **Stellar Mode**: As long as you have 1 or 2 attunement points in a mode, you are attuned to that mode. Once you reach 3 attunement points in a mode, you become fully attuned to that mode.
+	- **Graviton Mode**: When you enter graviton mode, you gain 1 graviton attunement point and become graviton-attuned. Some of your stellar revelations are graviton powers and get stronger if you’re graviton-attuned. While graviton-attuned, you gain a +1 insight bonus to Reflex saves.
+	- **Photon Mode**: When you enter photon mode, you gain 1 photon attunement point and become photon-attuned. Some of your stellar revelations are photon powers and get stronger if you’re photon-attuned. While photon-attuned, you gain a +1 insight bonus to damage rolls (including damage rolls for your stellar powers).
+	- **Unattuned**: While unattuned, you gain no attunement points and you are neither photon-attuned nor graviton-attuned. You lose all attunement points you’ve accrued so far and gain no benefits while unattuned.
+- **Stellar Revelation**:
+	- **Black Hole**: When you’re fully graviton-attuned, as a standard action, you can pull any number of creatures within 20 feet of you closer. You choose which creatures are affected and which ones aren’t. Each target must succeed at a Fortitude save or be pulled 10 feet toward you. The range of this revelation and the distance pulled increase by 5 feet at 5th level and every 4 levels thereafter. Solid objects do not block this ability, but any creature that runs into a solid object ceases moving closer to you. Creatures moved by this ability do not provoke attacks of opportunity from this movement. 
+		- After you use this revelation, you immediately become unattuned. 
+		- Black hole functions as a zenith revelation for the purposes of abilities that reference them.
+	- **Supernova**: When you’re fully photon-attuned, as a standard action, you can deal 1d6 fire damage plus 1d6 additional fire damage per solarian level to all creatures within 10 feet of you. A creature that succeeds at a Reflex save takes half damage.
+		- After you use this revelation, you immediately become unattuned. 
+		- Supernova functions as a zenith revelation for the purposes of abilities that reference them.
+
+#### Feats
+
+- Minor Pyschic Ability or Weapon Focus
+
+### Proficiencies
+
+- light armor
+- basic and advanced melee weapons
+- small arms
+
+### Languages
+
+- Common, Castrovelian, Triaxian
+
+## Gear
+
+**Credits:** 1000
+
+| Carry | Weight |
+| ----- | ------ |
+| Unencumbered | |
+| Encumbered |
+
+### Equipment
+
+## Background
+
+## Personality
+### Traits
+
+- 
+
+### Ideals
+
+- 
+
+### Driving Motivations
+
+- 
+
+### Flaws
+
+- 
+
+## Character Developmennt

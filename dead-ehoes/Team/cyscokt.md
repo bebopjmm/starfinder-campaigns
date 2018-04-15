@@ -3,9 +3,9 @@
 
 ![]()
 
-Gender Shirren Spacefarer Mystic (Level)
+Male Shirren Spacefarer Mystic (Level)
 
-Homeworld: 
+Homeworld: The Diaspora
 
 ## Stats
 
@@ -136,6 +136,8 @@ Homeworld:
 - small arms
 
 ### Languages
+
+- Common, Shirren, Celestial
 
 ## Gear
 

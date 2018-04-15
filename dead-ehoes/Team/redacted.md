@@ -1,10 +1,10 @@
 # 'Redacted'
-*Redacted is a fervent ysoki hacker that ...*
+*Redacted is a fervent ysoki hacker that seeks to expose corruption*
 
-![]()
+![Redacted](https://www.dropbox.com/s/21mqefasnx12apx/redacted.jpg?raw=1)
 
 Female Ysoki Outlaw Operative(Hacker) (1)  
-Homeworld: Kodrara
+**Homeworld**: Kodrara
 
 ## Stats
 
@@ -118,7 +118,7 @@ Homeworld: Kodrara
 
 ### Languages
 
-Common, Ysoki
+Common, Ysoki, Akitonian, Kasatha, Vercite
 
 ## Gear
 
@@ -141,24 +141,21 @@ Common, Ysoki
 
 ## Background
 
-Qe had always been a bit of a rebel and drawn to technology, dabbling on the edges of the hacker community. She and her brother started a small but promising start-up company that was crushed by a mega-corp when they wouldn't accept the ridiculous buyout offer. This caused her brother to commit suicide and pushed her fully into the criminal tech community, taking up the moniker Redacted. She caused a lot of embarrassment for the mega-corp and ended up with a serious bouny on her head, forcing her to flee to core systems to the Koschei Expanse. There she hooked up with VENTURE CAPTAIN.
+Qe had always been a bit of a rebel and drawn to technology, dabbling on the edges of the hacker community. She and her brother started a small but promising start-up company that was crushed by a mega-corp when they wouldn't accept the ridiculous buyout offer. This caused her brother to commit suicide and pushed her fully into the criminal tech community, taking up the moniker Redacted. She caused a lot of embarrassment for the mega-corp and ended up with a sizable bounty on her head, forcing her to flee to core systems to the Koschei Expanse. There she hooked up with VENTURE CAPTAIN.
 
 ## Personality
 ### Traits
 
-- 
+- I always check the escape routes of every building I enter.
+- I make a game of speculating what people around me do for a living, and what secrets they are hiding.
 
 ### Ideals
 
-- people should be free to pursue their dreams
-
-### Driving Motivations
-
-- expose corruption in the mega-corporations
-- promote individual liberties hindered by the system
+- **Exposure**: The evils of the system must be exposed.
+- **Liberty**: Individual liberties must not be crushed by the system
 
 ### Flaws
 
-- serious trust issues
+- I egregiously underestimate the risks a job represents.
 
 ## Character Developmennt
