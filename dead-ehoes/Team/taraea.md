@@ -145,21 +145,23 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 
 ## Background
 
+Taraea was born on Castrovel to a prosperous Lashunta family of artisans. As she entered her formative years of study, Taraea became engrossed with the solarian path. Although they didn't understand her fascination, her family supported her choice to apprentice at the Cosmonastery of the Empty Orbit on Absalom Station. They do, however, have expectations that her endeavors will at some point benefit Castrovel, and naturally the family.
+
+Taraea graduated from her training shortly after the disasterous Scoured Stars incident. The subsequent  Starfinder Society recruitment push appealed strongly to her desire to seek out and understand alien life. The Wayfinders faction took interest in her application, and Taraea received a recruitment offer with instructions to meet Starfinder representative, Duravor Kreel.
+
 ## Personality
 ### Traits
 
-- 
+- I am very goal-oriented and stay focused on the task to be accomplished
 
 ### Ideals
 
-- 
+Taraea wants to explore and learn what the universe has to offer. She believes sharing this knowledge is a duty, but not just with Castrovel, but all free citizens of the Pact Worlds.
 
-### Driving Motivations
-
-- 
+- **Knowledge**: The path to power and self-improvement is through knowledge.
 
 ### Flaws
 
-- 
+- I am easily enticed by the promise of new discoveries
 
 ## Character Developmennt

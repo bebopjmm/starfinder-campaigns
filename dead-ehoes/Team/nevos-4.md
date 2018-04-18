@@ -132,18 +132,22 @@ Genderless Android Ace Pilot Soldier (1)
 
 ## Background
 
+Nevos-4 was 'born' at a foundry on Aballon, where it was immediately transitioned into military training. Upon certification as a soldier class android with piloting specialization, it decided against the traditional path of military or corporate security service. Instead Nevos-4 chose freelance for the greater independence and better opportunity to help eliminate the illegal manufacture and slavery of androids. 
+
+The Starfinder Society's recent recruitment drive following the disasterous Scoured Stars incident caught Nevos-4's attention. It believes that by aligning with the Starfinder Society it will be able to do the most good towards protecting the Pact Worlds. The Exo-Guardian took interest in it's application, and Nevos-4 received a recruitment offer with starship passage to Absalom Station to meet Duravor Kreel. 
 ## Personality
 ### Traits
 
-- 
+- I can stare down a nihili without flinching.
+- I can't stand the sight of an unfair fight.
 
 ### Ideals
 
-- A soldier's duty is to place their life in peril for the defense of others.
-- I do what I must and obey just authority.
+- **Greater Good**: A soldier's duty is to place their life in peril for the defense of others.
+- **Responsibility**: I do what I must and obey just authority.
 
 ### Flaws
 
-- 
+- I am afraid of any form of enslavement, but particularly one that would force me to fight against my will
 
 ## Character Developmennt

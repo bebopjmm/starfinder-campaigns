@@ -135,21 +135,23 @@ Male Human Icon Envoy (1)
 
 ## Background
 
+Newlin was born to wealth and privilege at Absalom Station as the oldest son of a very prominent corporate executive specializing at negotiating business deals. He was being groomed to eventually take over the business and had achieved great publicity and recognition. Newlin had become very disenchanted, however, with the corruption between corporations and governments and the ever expanding income inequality. 
+
+When the Starfinder Society's initiated a recruitment drive following the disasterous Scoured Stars incident, Newlin reached out to them through backchannels. He believed that they represented an opportunity to make a difference for the good all individuals rather than shareholders and a elite few. The Second Seeker faction took immediate notice and had a recruitment offer covertly issued. Newlin's father found out about the offer and threatened to totally cut Newlin off if he pursued it. Undaunted, Newlin accepted the offer and its instructions for meeting with Starfinder representative, Durovar Kreel.
+
 ## Personality
 ### Traits
 
-- 
+- I weave flattery into my speech
+- I'm confident in my own abilities and do what I can to instill confidence in others.
 
 ### Ideals
 
-- 
-
-### Driving Motivations
-
-- 
+- **Respect**: Despite my privileged upbringing, I do not place myself above other folk. We all have the same blood.
+- **Fairness**: No one should get preferential treatment before the law, and no one is above the law.
 
 ### Flaws
 
-- 
+- **Vices**: I have a weakness for the vices of the city, especially women and gambling.
 
 ## Character Developmennt

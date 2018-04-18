@@ -145,8 +145,8 @@ Homeworld: The Diaspora
 
 | Carry | Weight |
 | ----- | ------ |
-| Unencumbered | 8 |
-| Encumbered | 14 |
+| Unencumbered | 1-8 |
+| Encumbered | 8-14 |
 | Current | 2 |
 
 ### Equipment
@@ -161,21 +161,23 @@ Homeworld: The Diaspora
 
 ## Background
 
+Cyscokt was born in the Diaspora to a 3-member married spacefaring family. Always a lover of space travel and fascinated with the Pact Worlds, he dreamed of seeing more of the galaxy. With the full support of his family he became an acolyte of the Desnan church, travelling with a Desnan mystic.
+
+The Starfinder Society's recent recruitment drive following the disasterous Scoured Stars incident caught Cyscokt's attention and appealed to his desire to travel, learn, and make a difference. With the approval of his teacher, he submitted an application. The Wayfinders faction liked his application and Cyscokt received a recruitment offer with starship passage to Absalom Station to meet Duravor Kreel.
+
 ## Personality
 ### Traits
 
-- 
+- I connect everything that happens to me to a grand, cosmic plan.
+- I quote sacred proverbs in almost every situation.
 
 ### Ideals
 
-- 
-
-### Driving Motivations
-
-- 
+- **Intuition**: I want to see all the universe offers and follow where fate leads me. I know no other path.
+- **Charity**: I always try to help those in need, no matter what the personal cost.
 
 ### Flaws
 
-- 
+- My piety sometimes leads me to blindly trust those that profess faith in my god.
 
 ## Character Developmennt
