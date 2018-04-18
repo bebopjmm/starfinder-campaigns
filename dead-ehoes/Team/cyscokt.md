@@ -72,8 +72,8 @@ Homeworld: The Diaspora
 | :---: | :----: | :----: |
 | +1 | 0 | +1 |
 
-| Weapon | Lvl | Atk | Dmg | Crit | Bulk | ![Usage | Notes |
-| ------ | :-: | :-: | :-: | :--: | :--: | :---: | ----- |]()
+| Weapon | Lvl | Atk | Dmg | Crit | Bulk | Usage | Notes |
+| ------ | :-: | :-: | :-: | :--: | :--: | :---: | ----- |
 | battle staff | 1 | +1 | 1d4 B | Knockdown | 1 | - | analog, block |
 | needler pistol | 1 | +0 | 1d4 P | Inject DC+2 | L | 1 | 6 darts, 30 ft, analog, injection|
 
@@ -147,7 +147,7 @@ Homeworld: The Diaspora
 | ----- | ------ |
 | Unencumbered | 8 |
 | Encumbered | 14 |
-| Current | 1 |
+| Current | 2 |
 
 ### Equipment
 
@@ -156,7 +156,7 @@ Homeworld: The Diaspora
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
 | personal comm | L | 80 / 1/hr || 
 | basic medkit | 1 | - ||
-| medpatch (3) | L | 1/1 ||
+| medpatch (3) | 3L | 1/1 ||
 
 
 ## Background

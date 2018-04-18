@@ -1,10 +1,10 @@
 # 'Redacted'
-*Redacted is a fervent ysoki hacker that seeks to expose corruption*
+*Redacted is a fervent ysoki hacker that seeks to expose corruption and malfeasance*
 
 ![Redacted](https://www.dropbox.com/s/21mqefasnx12apx/redacted.jpg?raw=1)
 
 Female Ysoki Outlaw Operative(Hacker) (1)  
-**Homeworld**: Kodrara
+**Homeworld**: Akiton
 
 ## Stats
 
@@ -74,11 +74,11 @@ Female Ysoki Outlaw Operative(Hacker) (1)
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
 | tactical baton | 1 | +3 | 1d4 B | - | - | L | analog, operative |
-| tactical semi-auto pistol | 1 | +3 | 1d6 P | - | 9/1 |L | analog, 30 ft range, 9/1 
+| tactical semi-auto pistol | 1 | +3 | 1d6 P | - | 9/1 |L | analog, 30 ft range |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
-| small arms rounds | 1 | 60 | 2L ||
+| small arms rounds | 1 | 30 | 1L ||
 
 ### Abilities
 
@@ -122,7 +122,7 @@ Common, Ysoki, Akitonian, Kasatha, Vercite
 
 ## Gear
 
-**Credits:** 456
+**Credits:** 476
 
 | Carry | Weight |
 | ----- | ------ |
@@ -136,12 +136,15 @@ Common, Ysoki, Akitonian, Kasatha, Vercite
 | ---- | :--: | :------------: | ----- |
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
 | hacker kit | L | - ||
+| trapsmith's kit | L | - | +4 Engineering bonus to arm/disarm traps |
 | personal comm | L | 80 / 1/hr || 
 
 
 ## Background
 
-Qe had always been a bit of a rebel and drawn to technology, dabbling on the edges of the hacker community. She and her brother started a small but promising start-up company that was crushed by a mega-corp when they wouldn't accept the ridiculous buyout offer. This caused her brother to commit suicide and pushed her fully into the criminal tech community, taking up the moniker Redacted. She caused a lot of embarrassment for the mega-corp and ended up with a sizable bounty on her head, forcing her to flee to core systems to the Koschei Expanse. There she hooked up with VENTURE CAPTAIN.
+As a ysoki, Qe has a large family with many extended relation both Akiton and throughout the Pact Worlds. While not a crime family, she has many relatives with ties to less than reputable groups, a common situation on her homeworld of Akiton. Qe had always been a bit of a rebel and drawn to technology, dabbling on the edges of the hacker community with her brother, with whom she was particularly close. She and her brother started a small but promising start-up company that was crushed by a mega-corp when they wouldn't accept the ridiculously low buyout offer. This caused her brother to commit suicide and pushed her fully into the criminal tech community seeking vengeance against the mega-corp.
+ 
+Qe succeed in causing a lot of embarrassment for the mega-corp and ended up with a significant bounty on her head. Also the criminal syndicate she had ties with started pursuing a more sinister path following a leadership change (Aspis Consortium). Realizing that she needed to escape Akiton, Qe's relations aided her in securing an identity scrub, and she took on the name Redacted. The Starfinder Society's recent recruitment drive following the disasterous Scoured Stars incident looked to be the perfect opportunity for a fresh start. A well-placed relative within the Starfinders (and a member of the Dataphiles faction) arranged for her new identity to receive an recruitment offer. Redacted boarded the next starship to Absalom Station to meet her Starfinder contact, Duravor Kreel 
 
 ## Personality
 ### Traits

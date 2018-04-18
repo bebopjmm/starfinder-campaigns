@@ -1,5 +1,5 @@
 # Newlin
-*tagline*
+*Newlin is an ADJECTIVE human negotiator that ... *
 
 ![]()
 
@@ -45,7 +45,7 @@ Male Human Icon Envoy (1)
 | ---- | ----- |
 | Size | Medium |
 | Speed | 30 |
-| Init | +5 |
+| Init | +1 |
 
 ### Combat
 
@@ -59,11 +59,11 @@ Male Human Icon Envoy (1)
 
 | Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
 | ----- | :-: | :-: | :-: | :-----: | :---: | :---: | :---: | :--: |
-|  |  |  |  |  |  |  | | |
+| Stationwear, flight suit | 1 | +0 | +1 | +6 | - | - | 0 | L |
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
-| 10 | 10 | 18 |
+| 11 | 12 | 20 |
 
 #### Attack Bonuses
 
@@ -71,25 +71,16 @@ Male Human Icon Envoy (1)
 | :---: | :----: | :----: |
 | 0 | +1 | 0 |
 
-| Weapon | Lvl | Attack | Dmg | Crit | Notes |
-| ------ | --- | ------ | --- | ---- | ----- |
+| Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
+| ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
+| survival knife | 1 | +0 | 1d4 S | - | - | L | analog, operative |
+| tactical semi-auto pistol | 1 | +2 | 1d6 P | - | 9/1 |L | analog, 30 ft range |
+| smoke grenade | 1 | +0 | - | - | drawn | L | 20ft range, explode (20ft smoke cloud for 1 min) |
 
-### Spells
+| Ammunition | Lvl | Charges | Bulk | Notes |
+| ---------- | :-: | :-----: | :--: | ----- |
+| small arms rounds | 1 | 30 | 1L ||
 
-#### 0 - Known: 0
-
-| Name | Effect |
-| ---- | ------ |
-
-
-#### 1
-
-| Known | Slots Per Day | Slots Used |
-| :---: | :-----------: | :--------: |
-| 0 | 0 | 0 |
-
-| Name | Effect |
-| ---- | ------ |
 
 ### Abilities
 
@@ -104,14 +95,14 @@ Male Human Icon Envoy (1)
 #### Envoy
 
 - **Envoy Improvisation (DC 13)**: little tricks that bolster allies, confound enemies, or change the ebb and flow of battle using guile, inspiration, or luck.
-	- **Inspiring Boost (5 Sta)**: As a standard action, you can signal an ally within 30 feet who has taken damage from any attack made by a significant enemy at any point after your last turn ended. That ally regains a number of Stamina Points (up to his maximum). Once an ally has benefited from your inspiring boost, that ally can’t gain the benefits of your inspiring boost again until he takes a 10-minute rest to recover Stamina Points.
+	- **Get 'Em (Ex)**: As a move action, you can choose one enemy within 60 feet. Until the start of your next turn, you and your allies gain a +1 morale bonus to attack rolls made against that enemy. The bonus persists even if the enemy moves beyond 60 feet or out of line of sight or hearing
 - **Expertise**: +1d6 insight bonus to Sense Motive checks
 - **Skill Expertise**: expertise insight bonus to Diplomacy checks
 
 #### Feats
 
-- **Improved Initiative**: +4 bonus to initiative
-- **Skill Focus**: Culture
+- **Diversion**: When you successfully use Bluff to create adistraction, you can allow an ally to attempt a Stealth check to hide (instead of attempting to hide yourself). You can attempt to allow multiple allies to use Stealth to hide, but you take a –5 penalty for every ally after the first, and on a failed check no ally can attempt to hide.
+- **Weapon Focus (small arms)**: +1 attack bonus with small arms
 
 ### Proficiencies
 
@@ -126,14 +117,21 @@ Male Human Icon Envoy (1)
 
 ## Gear
 
-**Credits:** 
+**Credits:** 455
 
 | Carry | Weight |
 | ----- | ------ |
-| Unencumbered | |
-| Encumbered |
+| Unencumbered | 1-7 |
+| Encumbered | 7-12 |
+| Current | 0 |
 
 ### Equipment
+
+| Item | Bulk | Capacity/Usage | Notes |
+| ---- | :--: | :------------: | ----- |
+| industrial backpack | 0 | - | add 2 bulk to carry capacity |
+| personal comm | L | 80 / 1/hr ||
+| disguise kit | L | - | required for Disguise appearance changes |
 
 ## Background
 

@@ -58,12 +58,12 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 #### Defense
 
 | Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
-| ----- | :-: | :-: | :-: | :-----: | :---: | :---: | :---: | :--: |
-|  |  |  |  |  |  |  | | |
+| ----- | :-: | :-: | :-: | :-----: | :-: | :---: | :---: | :--: |
+| second skin | 1 | +1 | +2 | +5 | - | - | 1 | L |
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
-| 10 | 10 | 18 |
+| 12/13sa | 13/14sa | 21/22sa |
 
 #### Attack Bonuses
 
@@ -71,16 +71,24 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 | :---: | :----: | :----: |
 | +3 | +2 | +3 |
 
-| Weapon | Lvl | Attack | Dmg | Crit | Notes |
-| ------ | --- | ------ | --- | ---- | ----- |
+| Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
+| ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
+| longsword | 1 | +3 | 1d8 S | - | - | 1 | analog |
+| tactical semi-auto pistol | 1 | +2 | 1d6 P | - | 9/1 | L | analog, 30 ft range |
+
+
+| Ammunition | Lvl | Charges | Bulk | Notes |
+| ---------- | :-: | :-----: | :--: | ----- |
+| small arms rounds | 1 | 30 | 1L ||
+
 
 ### Abilities
 
 #### Racial
 
 - **Lashunta Magic**: Lashuntas gain the following spell-like abilities: 
-	- At will: daze, psychokinetic hand
-	- 1/day: detect thoughts
+	- **At will**: daze, psychokinetic hand
+	- **1/day**: detect thoughts
 - **Limited Telepathy**: Lashuntas can mentally communicate with any creatures within 30 feet with whom they share a language. Conversing telepathically with multiple creatures simultaneously is just as difficult as listening to multiple people speaking.
 - **Student**: +2 to 2 chosen skills (diplomacy, life sciences)
 
@@ -120,14 +128,20 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 
 ## Gear
 
-**Credits:** 1000
+**Credits:** 43
 
 | Carry | Weight |
 | ----- | ------ |
-| Unencumbered | |
-| Encumbered |
+| Unencumbered | 0-9 |
+| Encumbered | 9-16 |
+| Current | 1 |
 
 ### Equipment
+
+| Item | Bulk | Capacity/Usage | Notes |
+| ---- | :--: | :------------: | ----- |
+| industrial backpack | 0 | - | add 2 bulk to carry capacity |
+| personal comm | L | 80 / 1/hr ||
 
 ## Background
 
