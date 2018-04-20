@@ -8,7 +8,7 @@ Genderless Android Ace Pilot Soldier (1)
 
 ## Stats
 
-|**Ability**|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+|**Ability**|**STR**|**DEX** \* |**CON**|**INT**|**WIS**|**CHA**|
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 |Mod (Val)| +1 (13) | +3 (16) | +2 (14) | +1 (12) | +0 (10) | -1 (8) |
 
@@ -53,7 +53,7 @@ Genderless Android Ace Pilot Soldier (1)
 | ------ | :-----: | :-----: |
 | Hp | 11 | 11 |
 | Stamina | 10 | 10 |
-| Resolve | 0 | 0 |
+| Resolve | 4 | 4 |
 
 #### Defense
 
@@ -73,7 +73,7 @@ Genderless Android Ace Pilot Soldier (1)
 
 | Weapon | Lvl | Atk | Dmg | Crit | Bulk | Usage | Notes |
 | ------ | :-: | :-: | :-: | :--: | :--: | :---: | ----- |
-| light reaction cannon | 1 | +4 | 1d10 P | - | 3 | 1 | 6 rds, 90ft range, penetrating |
+| light reaction cannon | 1 | +4 | 1d10 P | - | 3 | 1 | 4/6 rds, 90ft range, penetrating |
 | assault hammer | 1 | +2 | 1d6 B | - | 1 | - | analog | 
 | frag grenade (1) | 1 | +2 | 1d6 P | - | L | drawn | 20 ft range, explode (15 ft)
 

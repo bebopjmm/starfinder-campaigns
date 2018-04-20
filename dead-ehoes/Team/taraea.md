@@ -8,7 +8,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 
 ## Stats
 
-|**Ability**|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+|**Ability**|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA** \* |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 |Mod (Val)| +2 (14) | +1 (12) | -1 (8) | +1 (13) | +0 (10) | +3 (16) |
 
@@ -52,8 +52,8 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 | Health | Nominal | Current |
 | ------ | :-----: | :-----: |
 | Hp | 11 | 11 |
-| Stamina | 6 | 6 |
-| Resolve | 0 | 0 |
+| Stamina | 6 | 3 |
+| Resolve | 4 | 4 |
 
 #### Defense
 
@@ -73,7 +73,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-| longsword | 1 | +3 | 1d8 S | - | - | 1 | analog |
+| longsword | 1 | +4 | 1d8 S | - | - | 1 | analog |
 | tactical semi-auto pistol | 1 | +2 | 1d6 P | - | 9/1 | L | analog, 30 ft range |
 
 
@@ -87,8 +87,8 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 #### Racial
 
 - **Lashunta Magic**: Lashuntas gain the following spell-like abilities: 
-	- **At will**: daze, psychokinetic hand
-	- **1/day**: detect thoughts
+	- **At will**: daze (DC14), psychokinetic hand
+	- **1/day**: detect thoughts (DC14)
 - **Limited Telepathy**: Lashuntas can mentally communicate with any creatures within 30 feet with whom they share a language. Conversing telepathically with multiple creatures simultaneously is just as difficult as listening to multiple people speaking.
 - **Student**: +2 to 2 chosen skills (diplomacy, life sciences)
 
@@ -114,7 +114,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 
 #### Feats
 
-- Minor Pyschic Ability or Weapon Focus
+- Weapon Focus (adv melee weapons): +1 to attack with advance melee weapons
 
 ### Proficiencies
 

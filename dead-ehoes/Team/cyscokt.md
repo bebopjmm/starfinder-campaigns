@@ -9,7 +9,7 @@ Homeworld: The Diaspora
 
 ## Stats
 
-|**Ability**|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+|**Ability**|**STR**|**DEX**|**CON**|**INT**|**WIS** \* |**CHA**|
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 |Mod (Val)| +1 (12) | +0 (10) | +2 (14) | +1 (12) | +3 (16) | -1 (9) |
 
@@ -54,7 +54,7 @@ Homeworld: The Diaspora
 | ------ | :-----: | :-----: |
 | Hp | 12 | 12 |
 | Stamina | 8 | 8 |
-| Resolve | 0 | 0 |
+| Resolve | 4 | 4 |
 
 #### Defense
 

@@ -8,7 +8,7 @@ Female Ysoki Outlaw Operative(Hacker) (1)
 
 ## Stats
 
-|**Ability**|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+|**Ability**|**STR**|**DEX** \* |**CON**|**INT**|**WIS**|**CHA**|
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 |Mod (Val)| -1 (8) | +3 (16) | +0 (10) | +2 (14) | +0 (11) | +2 (14) |
 
@@ -53,7 +53,7 @@ Female Ysoki Outlaw Operative(Hacker) (1)
 | ------ | :-----: | :-----: |
 | Hp |  8 | 8 |
 | Stamina | 6 | 6 |
-| Resolve | 0 | 0 |
+| Resolve | 4 | 4 |
 
 #### Defense
 
