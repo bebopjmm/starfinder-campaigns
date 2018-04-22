@@ -1,0 +1,167 @@
+# Taraea
+*Taraea is ...*
+
+![]()
+
+Female Lashunta(damaya) Xenoseeker Solarian (1)  
+**Homeworld**: Castrovel
+
+## Stats
+
+|**Ability**|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA** \* |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+|Mod (Val)| +2 (14) | +1 (12) | -1 (8) | +1 (13) | +0 (10) | +3 (16) |
+
+| Save | Mod |
+| ---- | --- |
+| Fort (Con) | +1 |
+| Reflex (Dex) | +1 |
+| Will (Wis) | +2 |
+
+| Skill | Mod | Ranks | Notes
+| ---- | :--: | :---: | ----- |
+| **Acrobatics (Dex)** | +1 | 0 ||
+| **Athletics (Str)** | +6 | 1 ||
+| Bluff (Cha) | +3 | 0 ||
+| Computers (Int:T) | - | 0 ||
+| **Culture (Int:T)** | - | 0 ||
+| **Diplomacy (Cha)** | +9 | 1 |racial|
+| Disguise (Cha) | +3 | 0 ||
+| Engineering (Int:T) | - | 0 ||
+| **Intimidate (Cha)** | +7 | 1 ||
+| **Life Science (Int:T)** | +7 | 1 |theme, racial|
+| Medicine (Int)| +1 | 0 ||
+| **Mysticism (Wis:T)** | +4 | 1 ||
+| **Perception (Wis)** | +0 | 0 ||
+| **Physical Science (Int:T)** | - | 0 ||
+| Piloting (Dex) | +1 | 0 ||
+| Profession (varies:T) | - | 0 ||
+| **Sense Motive (Wis)** | +0 | 0 ||
+| Sleight of Hand (Dex:T) | - | 0 ||
+| **Stealth (Dex)** | +1 | 0 ||
+| **Survival (Wis)** | +0 | 0 ||
+
+| Stat | Value |
+| ---- | ----- |
+| Size | Medium |
+| Speed | 30 |
+| Init | +1 |
+
+### Combat
+
+| Health | Nominal | Current |
+| ------ | :-----: | :-----: |
+| Hp | 11 | 11 |
+| Stamina | 6 | 3 |
+| Resolve | 4 | 4 |
+
+#### Defense
+
+| Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
+| ----- | :-: | :-: | :-: | :-----: | :-: | :---: | :---: | :--: |
+| second skin | 1 | +1 | +2 | +5 | - | - | 1 | L |
+
+| EAC | KAC | AC vs CM |
+| :-: | :-: | :------: |
+| 12/13sa | 13/14sa | 21/22sa |
+
+#### Attack Bonuses
+
+| Melee | Ranged | Thrown |
+| :---: | :----: | :----: |
+| +3 | +2 | +3 |
+
+| Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
+| ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
+| longsword | 1 | +4 | 1d8 S | - | - | 1 | analog |
+| tactical semi-auto pistol | 1 | +2 | 1d6 P | - | 9/1 | L | analog, 30 ft range |
+
+
+| Ammunition | Lvl | Charges | Bulk | Notes |
+| ---------- | :-: | :-----: | :--: | ----- |
+| small arms rounds | 1 | 30 | 1L ||
+
+
+### Abilities
+
+#### Racial
+
+- **Lashunta Magic**: Lashuntas gain the following spell-like abilities: 
+	- **At will**: daze (DC14), psychokinetic hand
+	- **1/day**: detect thoughts (DC14)
+- **Limited Telepathy**: Lashuntas can mentally communicate with any creatures within 30 feet with whom they share a language. Conversing telepathically with multiple creatures simultaneously is just as difficult as listening to multiple people speaking.
+- **Student**: +2 to 2 chosen skills (diplomacy, life sciences)
+
+#### Xenoseeker
+
+- **Xenoseeker Knowledge**: You are trained to seek out, identify, and interact with alien life-forms. Reduce the DC to identify a rare creature using Life Science by 5. Life Science is a class skill for you, though if it is a class skill from the class you take at 1st level, you instead gain a +1 bonus to Life Science checks.
+
+#### Solarian
+
+- **Skill Adept**: proficient in culture and survival
+- **Solar Armor**: +1 to KAC and EAC, move action to summon/dismiss
+- **Stellar Mode**: As long as you have 1 or 2 attunement points in a mode, you are attuned to that mode. Once you reach 3 attunement points in a mode, you become fully attuned to that mode.
+	- **Graviton Mode**: When you enter graviton mode, you gain 1 graviton attunement point and become graviton-attuned. Some of your stellar revelations are graviton powers and get stronger if you’re graviton-attuned. While graviton-attuned, you gain a +1 insight bonus to Reflex saves.
+	- **Photon Mode**: When you enter photon mode, you gain 1 photon attunement point and become photon-attuned. Some of your stellar revelations are photon powers and get stronger if you’re photon-attuned. While photon-attuned, you gain a +1 insight bonus to damage rolls (including damage rolls for your stellar powers).
+	- **Unattuned**: While unattuned, you gain no attunement points and you are neither photon-attuned nor graviton-attuned. You lose all attunement points you’ve accrued so far and gain no benefits while unattuned.
+- **Stellar Revelation**:
+	- **Black Hole**: When you’re fully graviton-attuned, as a standard action, you can pull any number of creatures within 20 feet of you closer. You choose which creatures are affected and which ones aren’t. Each target must succeed at a Fortitude save or be pulled 10 feet toward you. The range of this revelation and the distance pulled increase by 5 feet at 5th level and every 4 levels thereafter. Solid objects do not block this ability, but any creature that runs into a solid object ceases moving closer to you. Creatures moved by this ability do not provoke attacks of opportunity from this movement. 
+		- After you use this revelation, you immediately become unattuned. 
+		- Black hole functions as a zenith revelation for the purposes of abilities that reference them.
+	- **Supernova**: When you’re fully photon-attuned, as a standard action, you can deal 1d6 fire damage plus 1d6 additional fire damage per solarian level to all creatures within 10 feet of you. A creature that succeeds at a Reflex save takes half damage.
+		- After you use this revelation, you immediately become unattuned. 
+		- Supernova functions as a zenith revelation for the purposes of abilities that reference them.
+
+#### Feats
+
+- Weapon Focus (adv melee weapons): +1 to attack with advance melee weapons
+
+### Proficiencies
+
+- light armor
+- basic and advanced melee weapons
+- small arms
+
+### Languages
+
+- Common, Castrovelian, Triaxian
+
+## Gear
+
+**Credits:** 43
+
+| Carry | Weight |
+| ----- | ------ |
+| Unencumbered | 0-9 |
+| Encumbered | 9-16 |
+| Current | 1 |
+
+### Equipment
+
+| Item | Bulk | Capacity/Usage | Notes |
+| ---- | :--: | :------------: | ----- |
+| industrial backpack | 0 | - | add 2 bulk to carry capacity |
+| personal comm | L | 80 / 1/hr ||
+
+## Background
+
+Taraea was born on Castrovel to a prosperous Lashunta family of artisans. As she entered her formative years of study, Taraea became engrossed with the solarian path. Although they didn't understand her fascination, her family supported her choice to apprentice at the Cosmonastery of the Empty Orbit on Absalom Station. They do, however, have expectations that her endeavors will at some point benefit Castrovel, and naturally the family.
+
+Taraea graduated from her training shortly after the disasterous Scoured Stars incident. The subsequent  Starfinder Society recruitment push appealed strongly to her desire to seek out and understand alien life. The Wayfinders faction took interest in her application, and Taraea received a recruitment offer with instructions to meet Starfinder representative, Duravor Kreel.
+
+## Personality
+### Traits
+
+- I am very goal-oriented and stay focused on the task to be accomplished
+
+### Ideals
+
+Taraea wants to explore and learn what the universe has to offer. She believes sharing this knowledge is a duty, but not just with Castrovel, but all free citizens of the Pact Worlds.
+
+- **Knowledge**: The path to power and self-improvement is through knowledge.
+
+### Flaws
+
+- I am easily enticed by the promise of new discoveries
+
+## Character Developmennt
