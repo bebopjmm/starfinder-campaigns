@@ -12,11 +12,9 @@ Genderless Android Ace Pilot Soldier (1)
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 |Mod (Val)| +1 (13) | +3 (16) | +2 (14) | +1 (12) | +0 (10) | -1 (8) |
 
-| Save | Mod |
-| ---- | --- |
-| Fort (Con) | +4 |
-| Reflex (Dex) | +3 |
-| Will (Wis) | +2 |
+| Save | Fort (Con) | Reflex (Dex) | Will (Wis) |
+| ---- | :--------: | :----------: | :--------: |
+| Mod | +4 | +3 | +2 |
 
 | Skill | Mod | Ranks | Notes
 | ---- | :--: | :---: | ----- |

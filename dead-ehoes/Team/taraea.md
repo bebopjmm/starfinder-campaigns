@@ -12,11 +12,9 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 |Mod (Val)| +2 (14) | +1 (12) | -1 (8) | +1 (13) | +0 (10) | +3 (16) |
 
-| Save | Mod |
-| ---- | --- |
-| Fort (Con) | +1 |
-| Reflex (Dex) | +1 |
-| Will (Wis) | +2 |
+| Save | Fort (Con) | Reflex (Dex) | Will (Wis) |
+| ---- | :--------: | :----------: | :--------: |
+| Mod | +1 | +1 | +2 |
 
 | Skill | Mod | Ranks | Notes
 | ---- | :--: | :---: | ----- |

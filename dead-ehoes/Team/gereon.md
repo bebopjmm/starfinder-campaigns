@@ -12,11 +12,9 @@ Male Human Icon Envoy (1)
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 |Mod (Val)| +0 (10) | +1 (12) | +0 (10) | +2 (14) | +0 (11) | +3 (16) |
 
-| Save | Mod |
-| ---- | --- |
-| Fort (Con) | +0 |
-| Reflex (Dex) | +3 |
-| Will (Wis) | +2 |
+| Save | Fort (Con) | Reflex (Dex) | Will (Wis) |
+| ---- | :--------: | :----------: | :--------: |
+| Mod | +0 | +3 | +2 |
 
 | Skill | Mod | Ranks | Notes
 | ---- | :--: | :---: | ----- |

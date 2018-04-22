@@ -3,9 +3,8 @@
 
 ![]()
 
-Male Shirren Spacefarer Mystic (Level)
-
-Homeworld: The Diaspora
+Male Shirren Spacefarer Mystic (1)  
+**Homeworld**: The Diaspora
 
 ## Stats
 
@@ -13,11 +12,9 @@ Homeworld: The Diaspora
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 |Mod (Val)| +1 (12) | +0 (10) | +2 (14) | +1 (12) | +3 (16) | -1 (9) |
 
-| Save | Mod |
-| ---- | --- |
-| Fort (Con) | +2 |
-| Reflex (Dex) | +0 |
-| Will (Wis) | +5 |
+| Save | Fort (Con) | Reflex (Dex) | Will (Wis) |
+| ---- | :--------: | :----------: | :--------: |
+| Mod | +2 | +0 | +5 |
 
 | Skill | Mod | Ranks | Notes
 | ---- | :--: | :---: | ----- |

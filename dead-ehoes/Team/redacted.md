@@ -12,11 +12,9 @@ Female Ysoki Outlaw Operative(Hacker) (1)
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 |Mod (Val)| -1 (8) | +3 (16) | +0 (10) | +2 (14) | +0 (11) | +2 (14) |
 
-| Save | Mod |
-| ---- | --- |
-| Fort (Con) | +0 |
-| Reflex (Dex) | +5 |
-| Will (Wis) | +2 |
+| Save | Fort (Con) | Reflex (Dex) | Will (Wis) |
+| ---- | :--------: | :----------: | :--------: |
+| Mod | +0 | +5 | +2 |
 
 | Skill | Mod | Ranks | Notes
 | ---- | :--: | :---: | ----- |
