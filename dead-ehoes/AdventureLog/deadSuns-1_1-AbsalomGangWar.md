@@ -52,7 +52,7 @@ Actions:
 
 ### Development
 
-Almost as soon as the final gangmember has been dispatched, the security alerts sound, indicating that the 
+Almost as soon as the final gangmember has been dispatched, the security alerts sound, indicating that the Absalom security forces would soon arrive
 
 - The group quickly takes the pistols and credit sticks from the other two dead gang members.
 	- Nevos-4 disengages the batteries from the pistols
