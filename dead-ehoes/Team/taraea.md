@@ -112,7 +112,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 
 #### Feats
 
-- Weapon Focus (adv melee weapons): +1 to attack with advance melee weapons
+- **Weapon Focus (adv melee weapons)**: +1 to attack with advance melee weapons
 
 ### Proficiencies
 

@@ -52,23 +52,34 @@ Actions:
 
 ### Development
 
-Almost as soon as the final gangmember has been dispatched, the security alerts sound, indicating that the Absalom security forces would soon arrive
+Almost as soon as the final gangmember has been dispatched, the security alerts sound, indicating that the Absalom security forces would soon arrive:
 
 - The group quickly takes the pistols and credit sticks from the other two dead gang members.
 	- Nevos-4 disengages the batteries from the pistols
-- Redacted swipes Durovar's infoPad
+- Redacted swipes Durovar's infoPad and puts it in her cheek pouch
 - Cyscokt makes sure no one is badly injured
+- Gareon realizes he will have to drop the disguise due to security identification process, but can play up family connections
+
+When the security forces arrive everyone on the team assumes a non-threatening position and follows all instructions. The forces dispatched are 2 squads of 6 that include one emergency medical personnel.
+- security forces will confiscate the dead gang members laser pistols but don't inquire about any other personal items.
+- they also confiscate all team member weapons for the time being and collect identification
+
+Not long after the ASF secure the area, two detectives arrive, a human and an android (Solagi-2)
+
+
+- After cleared to leave by the security forces, Gareon will guide the group to a trusted establishment that he knows not too far away to discuss what to do next
+- reporter will be shortly behind the security forces and will want the scoop (this could be a recurring npc annoyance and possible help)
+
+## Tattle Tails
+
+It ends up being a higher end gentleman's club.
+
 - The group discusses the event
 	- Gareon and Redacted share their knowledge of the two gangs
-- Very soon the security forces arrive.
-	- security forces will confiscate the laser pistols but don't ask about credit sticks
-	- Gareon realizes he will have to drop the disguise due to security identification process, but can play up family connections
-	- reporter will be shortly behind the security forces and will want the scoop (this could be a recurring npc annoyance and possible help)
-- After cleared to leave by the security forces, Gareon will guide the group to a cantina that he knows nearby to discuss what to do next
+- Redacted easily access the information on Durovar's infoPad, and Chiskisk messages are prominent as the last communications
+	- Cyscokt recognizes that name as a high-ranking Starfinder on Absalom Station, and the address as that of the Lorespire Complex, the Starfinder Society’s headquarters on the station.
 
-## Cantina
-
-
+The group decides the most sensible course of action is to head over the the Lorespire Complex and try to get a meeting with Chiskisk.	
 
 
 
