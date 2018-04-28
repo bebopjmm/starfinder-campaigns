@@ -126,7 +126,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 
 ## Gear
 
-**Credits:** 333
+**Credits:** 332
 
 | Carry | Weight |
 | ----- | ------ |

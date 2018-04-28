@@ -125,8 +125,28 @@ Redacted recommends checking out a couple of the local watering holes — they m
 
 On the third try, the team finds a local establishment where Duravor was a regular. Once folks learn of Duravor's death, an impromptu wake commences.
 
-- lots of confirmation of what team had learned about Duravor, but no new real insights
+- lots of confirmation of what team had learned about Duravor, but no new real insights.
+- After a few drinks, the team gets some of the regular's to open up about the Hardscrabble Collective
+	- While the Hardscrabble Collective calls itself a clan, it is more of a cooperative business enterprise, a coalition of dozens of ships’ crews who have banded together for mutual bene t and safety. While some of the Collective’s members are related, most of them are individuals from a dozen different races: humans, dwarves, androids, ysoki, and more. Nevertheless, the Hardscrabble Collective is as tightly knit as many families, and members  fiercely look after one another’s welfare.
+	- Following the arrival of the Acreon and Astral Extractions’ claim on the ship and the Drift Rock, the Hardscrabble Collective contracted with an Absalom Station street gang called the Level 21 Crew to protect its members and its interests on the station until the dispute can be resolved.
+- This opened discussion to Level-21 Crew
+	- The Level 21 Crew may be a criminal gang, but they have a reputation in their territory (and neighboring levels) for promoting community empowerment, and many neighborhood residents tolerate or tacitly endorse their activities. The gang has also been known to hire itself out to defend marginalized and threatened groups or factions. A grizzled ysoki called Jabaxa currently leads the Level 21 Crew.
+	- Fearing retribution from powerful corporate interests, the Hardscrabble Collective has recently hired the Level 21 Crew for protection.
+- Talk of the Acreon and the Drift Rock spur lots of wild speculation and rumors.
 
+The drinking and remembrances run late into the night, and the team ends up crashing at a nearby sleep pods for the night.
+
+## Further Investigations
+
+Hangovers were rather brutal the next morning, but a greasy breakfast help ease the worst of it. Plans were made:
+
+1. Get setup in the Moons of Sleep so that another night in a godawful sleep pod isn't necessary.
+2. Gereon knows someone who might be able to dig up more details on Astral Extractions
+3. Redacted has underworld connections that could shed some more light on Downside Kings and Level-21.
+
+### The Corporate Contact
+
+### A Visit to Botscrap
 
 
 

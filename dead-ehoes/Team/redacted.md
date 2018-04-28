@@ -120,7 +120,7 @@ Common, Ysoki, Akitonian, Kasatha, Vercite
 
 ## Gear
 
-**Credits:** 766
+**Credits:** 765
 
 | Carry | Weight |
 | ----- | ------ |

@@ -115,7 +115,7 @@ Male Human Icon Envoy (1)
 
 ## Gear
 
-**Credits:** 695
+**Credits:** 694
 
 | Carry | Weight |
 | ----- | ------ |

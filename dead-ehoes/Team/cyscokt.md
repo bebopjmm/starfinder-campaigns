@@ -138,7 +138,7 @@ Male Shirren Spacefarer Mystic (1)
 
 ## Gear
 
-**Credits:** 580
+**Credits:** 579
 
 | Carry | Weight |
 | ----- | ------ |
