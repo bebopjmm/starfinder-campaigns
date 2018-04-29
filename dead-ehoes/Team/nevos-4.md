@@ -117,7 +117,7 @@ Genderless Android Ace Pilot Soldier (1)
 
 ## Gear
 
-**Credits:** 792
+**Credits:** 738
 
 | Carry | Weight |
 | ----- | ------ |

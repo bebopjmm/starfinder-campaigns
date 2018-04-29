@@ -94,8 +94,7 @@ The shirren bows their head momentarily, then looks up, their compound eyes glit
 
 - Chiskisk gives their personal comm code to the group, so they can call and report as necessary
 - Chiskisk also transfers 200 credits to each of the teammember’s accounts (a “signing bonus plus expenses,” the shirren calls it) and suggests they get settled on the station before starting their investigation.
-	- recommends a small hotel called the Moons of Sleep. Located just a short walk from the parks and towers of the Eye, the hotel is centrally located, and has both efficiencies and suites available. Furthermore, the Moons offers discounted lodging to Starfinders who book rooms for at least a week’s stay: 16 credits per week for an efficiency, or 50 credits per week for a small, two-bed suite.
-
+	- recommends a small hotel called the Moons of Sleep. Located just a short walk from the parks and towers of the Eye, the hotel is centrally located, and has both efficiencies and suites available. Chiskisk provides a digital voucher that will qualify them for the Starfinder discount.
 When asked about Duravor, the shirren can only share this,
 > Duravor Kreel was a midranking member of the Starfinder Society. Most of his work focused on mineral prospecting, but he also took an interest in mentoring new and prospective members of the Society.
 
@@ -134,7 +133,7 @@ On the third try, the team finds a local establishment where Duravor was a regul
 	- Fearing retribution from powerful corporate interests, the Hardscrabble Collective has recently hired the Level 21 Crew for protection.
 - Talk of the Acreon and the Drift Rock spur lots of wild speculation and rumors.
 
-The drinking and remembrances run late into the night, and the team ends up crashing at a nearby sleep pods for the night.
+The drinking and remembrances run late into the night (75cr tab split), and the team ends up crashing at a nearby sleep pods for the night.
 
 ## Further Investigations
 
@@ -144,9 +143,24 @@ Hangovers were rather brutal the next morning, but a greasy breakfast help ease 
 2. Gereon knows someone who might be able to dig up more details on Astral Extractions
 3. Redacted has underworld connections that could shed some more light on Downside Kings and Level-21.
 
+Gereon also has a message from his father. The news reports of the Dock 94 assault are out and Gereon's involvement is public. His father is cutting him off.
+
+### Moons of Sleep
+
+The team walks to the Moons of Sleep, which also helps work the self-inflicted toxins out of their systems. The Starfinder discount is on weekly rates: 16cr for an efficiency, and 50cr for a small two-bed suite.
+
+- everyone ops for an efficiency room, except for Gereon who chooses a suite.
+
+After a much needed freshening up, they head for lunch with Gereon's contact.
+
 ### The Corporate Contact
 
-### A Visit to Botscrap
+Gereon is able to squeeze some critical information from his corporate contact, but the meal tab seemed excessive to most of the team (115cr):
+
+- Following the arrival of the Acreon, Astral Extractions secretly hired a violent Absalom Station street gang called the Downside Kings to coerce the Hardscrabble Collective into abandoning its claims on the Acreon and the Drift Rock.
+
+### A Visit to Little Akiton
+
 
 
 

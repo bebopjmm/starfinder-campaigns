@@ -1,7 +1,7 @@
 # Cyscokt
 *tagline*
 
-![]()
+![Cyscokt](https://www.dropbox.com/s/q8v1jg6kf51dbqb/cyscokt.jpg?raw=1)
 
 Male Shirren Spacefarer Mystic (1)  
 **Homeworld**: The Diaspora
@@ -138,7 +138,7 @@ Male Shirren Spacefarer Mystic (1)
 
 ## Gear
 
-**Credits:** 579
+**Credits:** 525
 
 | Carry | Weight |
 | ----- | ------ |

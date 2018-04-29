@@ -1,7 +1,7 @@
 # Taraea
 *Taraea is ...*
 
-![]()
+![Taraea](https://www.dropbox.com/s/y7nqhqt74tzm859/taraea.jpg?raw=1)
 
 Female Lashunta(damaya) Xenoseeker Solarian (1)  
 **Homeworld**: Castrovel
@@ -126,7 +126,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 
 ## Gear
 
-**Credits:** 332
+**Credits:** 278
 
 | Carry | Weight |
 | ----- | ------ |

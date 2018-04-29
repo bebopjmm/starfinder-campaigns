@@ -1,7 +1,7 @@
 # Gereon
 *Gereon is an ADJECTIVE human negotiator that ... *
 
-![]()
+![Gereon](https://www.dropbox.com/s/e1c87463yfzquuh/gereon.jpg?raw=1)
 
 Male Human Icon Envoy (1)  
 **Homeworld**: Absalom Station
@@ -115,7 +115,7 @@ Male Human Icon Envoy (1)
 
 ## Gear
 
-**Credits:** 694
+**Credits:** 606
 
 | Carry | Weight |
 | ----- | ------ |
@@ -135,7 +135,7 @@ Male Human Icon Envoy (1)
 
 Gereon was born to wealth and privilege at Absalom Station as the oldest son of a very prominent corporate executive specializing at negotiating business deals. He was being groomed to eventually take over the business and had achieved great publicity and recognition. Gereon had become very disenchanted, however, with the corruption between corporations and governments and the ever expanding income inequality. 
 
-When the Starfinder Society's initiated a recruitment drive following the disasterous Scoured Stars incident, Gereon reached out to them through backchannels. He believed that they represented an opportunity to make a difference for the good all individuals rather than shareholders and a elite few. The Second Seeker faction took immediate notice and had a recruitment offer covertly issued. Gereon's father found out about the offer and threatened to totally cut Gereon off if he pursued it. Undaunted, Newlin accepted the offer and its instructions for meeting with Starfinder representative, Durovar Kreel.
+When the Starfinder Society's initiated a recruitment drive following the disasterous Scoured Stars incident, Gereon reached out to them through backchannels. He believed that they represented an opportunity to make a difference for the good all individuals rather than shareholders and a elite few. The Second Seeker faction took immediate notice and had a recruitment offer covertly issued. Gereon's father found out about the offer and threatened to totally cut Gereon off if he pursued it. Undaunted, Gereon accepted the offer and its instructions for meeting with Starfinder representative, Durovar Kreel.
 
 ## Personality
 ### Traits
