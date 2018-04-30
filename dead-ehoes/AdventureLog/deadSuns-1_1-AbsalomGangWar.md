@@ -161,7 +161,23 @@ Gereon is able to squeeze some critical information from his corporate contact, 
 
 ### A Visit to Little Akiton
 
+The team tracks down Bezilt, a ysoki dock foreman. He reluctantly shares some information on the Downside Kings:
 
+- Turnover among the Downside Kings’ leadership is high, but the gang’s current boss is a barbarous human woman named Ferani Nadaz.
+- Astral Extractions has recruited the Downside Kings to threaten the Hardscrabble Collective and pressure the miners into handing over the Acreon and the Drift Rock to the company without dispute.
+
+He suggests that if the team really wants to know more about stuff like this, that they shoud go visit Diamond of Diamond Defense and Surplus. 
+
+### Diamond Defense and Surplus
+
+They find the shop in the Spire and are greeted by Diamond. She listens to their story and thinks a bit. She confirms that has useful information for the team and proposes a trade.
+
+- Pest Control Mission: a group of goblins have encroached on an area she uses for business. Deal with them
+
+Shopping:
+- anchoring weapon fusion looks good
+- new armor for Nevos?
+- 
 
 
 
