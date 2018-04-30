@@ -1,21 +1,21 @@
 # Absalom Gang Member (CR 1/2)
 
-Medium humanoid (various)
+Medium humanoid (various, primarily human)
 
 **Languages**: Common
 
 ## Statistics
 
 |**Ability**|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|Mod (Val)| +2 (14) | +3 (16) | +1 (12) | -1 (8) | +0 (10) | -1 (8) |
+| :-------: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Mod | +2 | +3 | +1 | -1 | +0 | -1 |
 
 | Save | Fort (Con) | Reflex (Dex) | Will (Wis) |
-| ---- | :-: | :-: | :-: |
-| Mod (Val) | +2 | +4 | +0 |
+| :--: | :--------: | :----------: | :--------: |
+| Mod | +2 | +4 | +0 |
 
-**Senses**: Perception (+0)  
-**Skills**: Athletics (+4), Bluff (+5), Intimidate (+9), Stealth (+5)
+**Senses**: Perception +0  
+**Skills**: Athletics +4, Bluff +5, Intimidate +9, Stealth +5
 
 ## Combat
 
@@ -42,6 +42,8 @@ Medium humanoid (various)
 ## Gear
 
 - flightsuit stationwear
+- club
+- azimuth laser pistol
 - credstick (100 - 150 credits)
 
 
