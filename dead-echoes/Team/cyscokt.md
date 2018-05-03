@@ -69,14 +69,14 @@ Male Shirren Spacefarer Mystic (1)
 | :---: | :----: | :----: |
 | +1 | 0 | +1 |
 
-| Weapon | Lvl | Atk | Dmg | Crit | Bulk | Usage | Notes |
-| ------ | :-: | :-: | :-: | :--: | :--: | :---: | ----- |
-| battle staff | 1 | +1 | 1d4 B | Knockdown | 1 | - | analog, block |
-| needler pistol | 1 | +0 | 1d4 P | Inject DC+2 | L | 1 | 6 darts, 30 ft, analog, injection|
+| Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
+| ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
+| battle staff | 1 | +1 | 1d4 B | Knockdown | - | 1 | analog, block |
+| pulsecaster pistol | 1 | +0 | 1d4 E | - | 20/1 | L | 30 ft, nonlethal|
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
-| darts | 1 | 25 | L ||
+| battery | 1 | 20 | - ||
 
 ### Spells
 
@@ -90,7 +90,7 @@ Male Shirren Spacefarer Mystic (1)
 | detect affliction ||
 
 
-#### 1 - DC 14
+#### 1 - DC 14 (2/day)
 
 | Known | Slots Per Day | Slots Used |
 | :---: | :-----------: | :--------: |
@@ -100,7 +100,7 @@ Male Shirren Spacefarer Mystic (1)
 | ---- | ------ |
 | shooting stars ||
 | wisp ally ||
-| mystic cure ||
+| mystic cure |1d8+3 HP|
 
 ### Abilities
 

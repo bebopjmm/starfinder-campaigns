@@ -97,7 +97,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 #### Solarian
 
 - **Skill Adept**: proficient in culture and survival
-- **Solar Armor**: +1 to KAC and EAC, move action to summon/dismiss
+- **Solar Armor**: +1 to KAC and EAC, move action to summon/dismiss, optional 20' dim light
 - **Stellar Mode**: As long as you have 1 or 2 attunement points in a mode, you are attuned to that mode. Once you reach 3 attunement points in a mode, you become fully attuned to that mode.
 	- **Graviton Mode**: When you enter graviton mode, you gain 1 graviton attunement point and become graviton-attuned. Some of your stellar revelations are graviton powers and get stronger if you’re graviton-attuned. While graviton-attuned, you gain a +1 insight bonus to Reflex saves.
 	- **Photon Mode**: When you enter photon mode, you gain 1 photon attunement point and become photon-attuned. Some of your stellar revelations are photon powers and get stronger if you’re photon-attuned. While photon-attuned, you gain a +1 insight bonus to damage rolls (including damage rolls for your stellar powers).

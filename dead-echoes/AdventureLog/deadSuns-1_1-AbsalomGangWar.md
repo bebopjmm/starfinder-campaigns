@@ -164,9 +164,9 @@ Gereon is able to squeeze some critical information from his corporate contact, 
 The team tracks down Bezilt, a ysoki dock foreman. He reluctantly shares some information on the Downside Kings:
 
 - Turnover among the Downside Kings’ leadership is high, but the gang’s current boss is a barbarous human woman named Ferani Nadaz.
-- Astral Extractions has recruited the Downside Kings to threaten the Hardscrabble Collective and pressure the miners into handing over the Acreon and the Drift Rock to the company without dispute.
+- Astral Extractions recruited the Downside Kings to threaten the Hardscrabble Collective and pressure the miners into handing over the Acreon and the Drift Rock to the company without dispute.
 
-He suggests that if the team really wants to know more about stuff like this, that they shoud go visit Diamond of Diamond Defense and Surplus. 
+He suggests that if the team really wants to know more about stuff like this, that they shoud go visit Diamond of Diamond Defense and Surplus down in the Spire.
 
 ### Diamond Defense and Surplus
 
@@ -180,6 +180,60 @@ They find the shop in the Spire and are greeted by Diamond. She listens to their
 The team follows the directions to the Botscrap location and arrive without incident. Nevos-4 and Redacted scout the area and determine good locations to hunker down and wait. In the dim light it is difficult to see well, and the team notices the approaching two scouts at the same time the scouts notice them:
 
 #### Round 1
+- Nevos-4 misses
+- Gereon gets in a great shot that badly wounds G-1
+- Cyscokt holds position
+- goblin scavengers scurry around
+- Redacted misses both trick attack and shot
+- G-1 moves to total cover
+- G-2 moves to cover and readies shot against anyone coming into view north
+- Taraea activates solar armor and graviton attunement (1) then moves around
+	- G2 gets critical hit on Taraea
+
+#### Round 2
+- Nevos-4 moves to bridge and spots G-4 in the open, but misses again
+- Gereon moves and attempts to provide covering fire for Taraea, but his pistol jams
+- Cyscokt moves to assist Taraea
+- G-3 moves and fires at Nevos-4, missing
+- G-4 moves to cover and fires at Cyscokt, hitting for 1 dmg
+- G-5 fires at Nevos-4, hitting for 2 dmg
+- Redacted charges next to Nevos-4, dropping prone and shooting at G-3, killing it
+- G-1 is fleeing
+- G-2 fires at Taraea and hits again for 3 dmg
+- Taraea take burning dmg (3), stay on graviton attunement (2), falls prone to smother flames, but to no avail
+
+#### Round 3
+- Nevos-4 moves to cover and fires at G-2, killing it
+- Gereon moves south to cover, but it takes a full action to get there
+- Cyscokt aids Taraea in dousing the flames
+- G-4 fires at Cyscokt, hitting for 3 dmg
+- G-5 fires at Gereon, hitting for 3 dmg
+- Redacted moxies up, heads south and drops prone before killing G-4
+- G-1 escapes
+- Taraea takes burning dmg (3), stays on graviton attunement (3), and successfully smothers the flames
+
+#### Round 4
+- Nevos-4 moves west and readies to shoot if G-5 flees west
+- Gereon moves to cover south and issues a "Get'em" against G-5
+- Cyscokt casts mystic cure on Taraea (6HP) restoring all lost HP
+- G-5 runs away west
+	- Nevos-4 hits it for 5 dmg
+- Redacted gives chase, full move
+- Taraea dashes south
+
+#### Round 5
+- Nevos-4 dashes south
+- Gereon moves east and fire at the fleeing G-5, killing it
+
+#### Development
+- 10 min rest has everyone at full strength
+- Four sets of goblin ears are collected
+- Team returns to Diamond Defense and Surplus
+	- Diamond impressed with results, pays the 100cr bounty on the ears
+	- Diamond tells them that if they want to talk to Jabraxa, then go to Mama Fats on Level-21
+- Head back to the Ring area for celebratory drinks and a good night's sleep
+
+## Mama Fats
 
 
 
