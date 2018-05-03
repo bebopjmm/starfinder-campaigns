@@ -1,5 +1,5 @@
 # Nevos-4
-*Nevos-4 is a justice-oriented android soldier whose purpose is the defense of others*
+*Nevos-4 is a justice-oriented android soldier who loves flying*
 
 ![Nevos-4](https://www.dropbox.com/s/hzvxqqys19cezwh/nevos-4.jpg?raw=1)
 

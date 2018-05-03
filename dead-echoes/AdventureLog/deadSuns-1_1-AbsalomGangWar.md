@@ -172,12 +172,15 @@ He suggests that if the team really wants to know more about stuff like this, th
 
 They find the shop in the Spire and are greeted by Diamond. She listens to their story and thinks a bit. She confirms that has useful information for the team and proposes a trade.
 
-- Pest Control Mission: a group of goblins have encroached on an area she uses for business. Deal with them
+- Pest Control Mission: a group of goblins have encroached on an area she uses for business. Deal with them.
 
-Shopping:
-- anchoring weapon fusion looks good
-- new armor for Nevos?
-- 
+
+### Goblins in Botscrap
+
+The team follows the directions to the Botscrap location and arrive without incident. Nevos-4 and Redacted scout the area and determine good locations to hunker down and wait. In the dim light it is difficult to see well, and the team notices the approaching two scouts at the same time the scouts notice them:
+
+#### Round 1
+
 
 
 
