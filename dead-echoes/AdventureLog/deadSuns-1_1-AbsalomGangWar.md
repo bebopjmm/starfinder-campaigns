@@ -31,7 +31,7 @@ Actions:
 ### Round 3
 
 Initiative Order:
-  
+
 - 17: Redacted
 - 15: Nevos-4
 - 13: Downside Kings
@@ -84,11 +84,11 @@ Prior to leaving, Redacted distributes the funds from the retrieved credsticks t
 
 ## The Starfinder Society
 
-The team reached the Lorespire Complex by 1445, traveling by robo-taxi from the Arms to the Ring sector (5c paid by Cyscokt). Checking in with the receptionist, they request to see Chiskisk. The receptionist points them toward a small waiting room and politely asks them to wait. After several minutes, a functionary arrives to lead them to a cluttered but clean office deep in the complex. Seated behind a polished and unadorned plastic desk, Chiskisk wears understated business clothes and is nervously flexing their antennae from side to side—a shirren expression of perplexity. Chiskisk welcomes the group, offers them refreshments (filtered water and processed-protein wafers), and bids them sit down before introducing themself. 
+The team reached the Lorespire Complex by 1445, traveling by robo-taxi from the Arms to the Ring sector (5c paid by Cyscokt). Checking in with the receptionist, they request to see Chiskisk. The receptionist points them toward a small waiting room and politely asks them to wait. After several minutes, a functionary arrives to lead them to a cluttered but clean office deep in the complex. Seated behind a polished and unadorned plastic desk, Chiskisk wears understated business clothes and is nervously flexing their antennae from side to side—a shirren expression of perplexity. Chiskisk welcomes the group, offers them refreshments (filtered water and processed-protein wafers), and bids them sit down before introducing themself.
 
 Chiskisk is puzzled about their unescorted arrival at the Lorespire Complex, and asks them where the dwarf is. Gereon shares the tragic news of the gangfight at Dock 94 and Duravor's death. At this point the shirren gets down to business, speaking telepathically in the PCs’ heads.
 
-> "I am sorry that I cannot welcome you to Absalom Station under better circumstances. I assure you that such attacks are not a daily occurrence, though I realize that is likely small comfort to you. I am pleased that none of you were seriously hurt, but I grieve for Duravor’s death. He was a valued member of the Society, and a friend. May the Lady of Graves be kind in her judgment of his soul.” 
+> "I am sorry that I cannot welcome you to Absalom Station under better circumstances. I assure you that such attacks are not a daily occurrence, though I realize that is likely small comfort to you. I am pleased that none of you were seriously hurt, but I grieve for Duravor’s death. He was a valued member of the Society, and a friend. May the Lady of Graves be kind in her judgment of his soul.”
 
 The shirren bows their head momentarily, then looks up, their compound eyes glittering.>“What puzzles me is the reason behind the attack.” Chiskisk taps a few commands into their computer. “According to the incident report just released by station security, two gangs were involved in the attack: the Downside Kings and the Level 21 Crew. Gang wars are not uncommon on the station, but they usually confine themselves to the more lawless sectors like the Puddles. It is rare for street gangs to battle openly in public areas like the docks. I cannot help but wonder whether all is as it seems. There must be a reason why those two gangs were at Docking Bay 94 at that time—the time of your arrival, coincidentally. But was it coincidence? Were you and Duravor just innocent bystanders caught in the crossfire, or might you and he have been specifically targeted? And if so, why?  “My understanding is that you are interested in becoming Starfinders, and since you were witnesses to the attack, I would like to ask you to investigate the incident on behalf of the Society. Find out exactly what happened and why. It may simply be a matter of being in the wrong place at the wrong time—I have no doubt station security will rule it so—but if Duravor was murdered, I would like to find justice for my friend. At the same time, this will give you the opportunity to demonstrate your own skills and abilities and show the Society that you are worthy of the title ‘Starfinder.’ Good luck.”
 
@@ -118,7 +118,7 @@ Drifter's Edge is walkable from the Lorespire Complex. Using the infoPad to gain
 - Gereon is not very familiar with Hardscrabble
 	- The Hardscrabble Collective is a clan of stubborn asteroid miners that operates primarily among the scattered planetoids of the Diaspora. It has no offices or base of operations, but the clan members usually view the Armada—the ever-changing fleet of ships that orbit Absalom Station—as a central gathering place. Collective crews hire their ships out to a wide variety of business concerns, including Astral Extractions, which recently employed the Collective ship Acreon to scout for new mining prospects in the Vast.
 
-Redacted recommends checking out a couple of the local watering holes — they may be able get some additional info on Duravor.	
+Redacted recommends checking out a couple of the local watering holes — they may be able get some additional info on Duravor.
 
 ## Paralax Cantina
 
@@ -230,7 +230,7 @@ The team follows the directions to the Botscrap location and arrive without inci
 - Four sets of goblin ears are collected
 - Team returns to Diamond Defense and Surplus
 	- Diamond impressed with results, pays the 100cr bounty on the ears
-	- Diamond tells them that if they want to talk to Jabaxa, then go to Mama Fats on Level-21 and *passPhrase*
+	- Diamond tells them that if they want to talk to Jabaxa, then go to Mama Fats on Level-21 and request *Borelian Felgercarb Nuggets*
 - Head back to the Ring area for celebratory drinks (50cr from party fund) and a good night's sleep
 
 ## Mama Fats
@@ -240,7 +240,7 @@ Everyone catches up on sleep and its almost noon before they have gathered to go
 
 The bodega is clean, and a female halfling greets them. The team orders some lunch (15gp from party fund)
 - Gereon sweet talks her from indifferent to friendly
-- After lunch, Redacted uses the code phrase that Diamond provided them. Mama Fats becomes suspicious, but then tells the team to come back tomorrow at 3 pm.
+- After lunch, Redacted requests the *Borelian Felgercarb Nuggets* to go. Mama Fats becomes suspicious, but then tells the team to come back tomorrow at 3 pm.
 
 Team has downtime for the rest of the day
 
@@ -256,8 +256,18 @@ Gereon and Taraea succeed at diplomatically improving his attitude (eventually t
 Jabaxa tells the team about the nightclub, Fusion Queen, that the Downside Kings use as a front for their illegal activities.
 - His gang can't be directly involved or a full-blown gangwar could be incited, which would put the citizens of Level-21 in danger.
 
+## The Fusion Queen
 
+Redacted convinces the team that they should at least check out the club before engaging in any kind of assault. They swing by the club and Redacted quickly recognizes the club’s logo, a stylized crown, as a variant of the Downside Kings’ symbol. As they approach the bouncer's immediately draw their laser pistols and inform them of the no weapons policy.
+- Gereon was able to calm them down with a story that the team had just arrived on station from completing a mission and was looking for a place to unwind. They would drop off their gear and return later.
 
+Heading back to the Moons of sleep, the team decided to follow through on the story an return to the club that evening without weapons.
+- passing security check, they bouncers let them in
+- they learn the basic layout of the club and take special note of the 'staff only' double doors.
+  - Redacted verifies the door is locked using a keycard that all staff have
+- the team has a few drinks (15cr) and dances. Gereon mildly questions the waitress and Redacted the bartender about the Downside Kings, but there is no indication that the staff knows anything about the gang.
 
+After a few hours the team retires back to the Moons of Sleep.
 
-
+### Formulating a Plan
+Its obvious to everyone that they will need to get access to that staff area, but the crowd and staff are all civilians.
