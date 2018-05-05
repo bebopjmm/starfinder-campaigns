@@ -11,3 +11,6 @@ Female Ysoki
 ## Personality
 
 ## Key Interactions
+
+### Chapter 1.1
+- The team  

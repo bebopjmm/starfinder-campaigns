@@ -111,7 +111,7 @@ Male Human Icon Envoy (1)
 
 ### Languages
 
-- Common, Eoxian, Kasatha
+- Common, Eoxian, Triaxian
 
 ## Gear
 

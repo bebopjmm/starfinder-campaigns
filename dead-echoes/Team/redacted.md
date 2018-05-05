@@ -116,7 +116,7 @@ Female Ysoki Outlaw Operative(Hacker) (1)
 
 ### Languages
 
-Common, Ysoki, Akitonian, Kasatha, Vercite
+Common, Ysoki, Akitonian, Goblin, Vercite
 
 ## Gear
 

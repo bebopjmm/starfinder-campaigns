@@ -122,7 +122,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 
 ### Languages
 
-- Common, Castrovelian, Triaxian
+- Common, Castrovelian, Kasatha
 
 ## Gear
 

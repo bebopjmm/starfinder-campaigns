@@ -230,13 +230,31 @@ The team follows the directions to the Botscrap location and arrive without inci
 - Four sets of goblin ears are collected
 - Team returns to Diamond Defense and Surplus
 	- Diamond impressed with results, pays the 100cr bounty on the ears
-	- Diamond tells them that if they want to talk to Jabraxa, then go to Mama Fats on Level-21
-- Head back to the Ring area for celebratory drinks and a good night's sleep
+	- Diamond tells them that if they want to talk to Jabaxa, then go to Mama Fats on Level-21 and *passPhrase*
+- Head back to the Ring area for celebratory drinks (50cr from party fund) and a good night's sleep
 
 ## Mama Fats
 
+Everyone catches up on sleep and its almost noon before they have gathered to go check out Mama Fats. They reach Level-21 without incident. The area is the crowded, run-down lower half of Absalom Station. The surrounding neighborhood is low-end, but not quite a slum.
+- Redacted recognizes and points out the graffiti on the walls as gang tags marking this as territory of the Level 21 Crew.
 
+The bodega is clean, and a female halfling greets them. The team orders some lunch (15gp from party fund)
+- Gereon sweet talks her from indifferent to friendly
+- After lunch, Redacted uses the code phrase that Diamond provided them. Mama Fats becomes suspicious, but then tells the team to come back tomorrow at 3 pm.
 
+Team has downtime for the rest of the day
+
+### Meeting Jabaxa
+
+The team shows back up a Mama Fats at the appointed time.  They are escorted to a room in the back of the bodega, where the gang’s leader, Jabaxa, waits for them along with two of his gang members. Gereon and Redacted greet him politely and the ysoki invites them to have a seat. He then pours out a shot of bathtub moonshine for each of them as a gesture of hospitality before asking them their business.
+- Redacted provides a brief summary of their investigation
+- Jabaxa  flatly denies that his crew killed Duravor Kreel (they don’t even know who he was) and blames the murder on the Downside Kings. He claims that it was the Kings who started the shootout in Docking Bay 94, as well; his crew was there only to oppose them.
+
+Gereon and Taraea succeed at diplomatically improving his attitude (eventually to helpful)
+- another round of drinks and swapping some stories
+
+Jabaxa tells the team about the nightclub, Fusion Queen, that the Downside Kings use as a front for their illegal activities.
+- His gang can't be directly involved or a full-blown gangwar could be incited, which would put the citizens of Level-21 in danger.
 
 
 
