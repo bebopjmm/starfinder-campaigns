@@ -271,3 +271,12 @@ After a few hours the team retires back to the Moons of Sleep.
 
 ### Formulating a Plan
 Its obvious to everyone that they will need to get access to that staff area, but the crowd and staff are all civilians.
+- Nevos-4 strongly thinks some additional gear would be helpful, and Diamond probably has everything they could need
+- Redacted thinks she could swipe the keycard off a staff person with a proper distraction, but the team needs weapons inside the club
+- Cyscokt cautions against unnecessary violence and bloodshed
+- Taraea agrees that the team must avoid civilian injury
+
+**Questions**:
+1. How to deal with front door bouncers (obviously gangmembers)?
+2. How to get into the staff-only area?
+3. How to get weapons into the club?
