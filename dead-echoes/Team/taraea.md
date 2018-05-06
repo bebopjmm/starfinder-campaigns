@@ -71,7 +71,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-| longsword | 1 | +4 | 1d8 S | - | - | 1 | analog |
+| longsword | 1 | +4 | 1d8+2 S | - | - | 1 | analog |
 | tactical semi-auto pistol | 1 | +2 | 1d6 P | - | 9/1 | L | analog, 30 ft range |
 
 
@@ -84,7 +84,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 
 #### Racial
 
-- **Lashunta Magic**: Lashuntas gain the following spell-like abilities: 
+- **Lashunta Magic**: Lashuntas gain the following spell-like abilities:
 	- **At will**: daze (DC14), psychokinetic hand
 	- **1/day**: detect thoughts (DC14)
 - **Limited Telepathy**: Lashuntas can mentally communicate with any creatures within 30 feet with whom they share a language. Conversing telepathically with multiple creatures simultaneously is just as difficult as listening to multiple people speaking.
@@ -103,11 +103,11 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 	- **Photon Mode**: When you enter photon mode, you gain 1 photon attunement point and become photon-attuned. Some of your stellar revelations are photon powers and get stronger if you’re photon-attuned. While photon-attuned, you gain a +1 insight bonus to damage rolls (including damage rolls for your stellar powers).
 	- **Unattuned**: While unattuned, you gain no attunement points and you are neither photon-attuned nor graviton-attuned. You lose all attunement points you’ve accrued so far and gain no benefits while unattuned.
 - **Stellar Revelation**:
-	- **Black Hole**: When you’re fully graviton-attuned, as a standard action, you can pull any number of creatures within 20 feet of you closer. You choose which creatures are affected and which ones aren’t. Each target must succeed at a Fortitude save or be pulled 10 feet toward you. The range of this revelation and the distance pulled increase by 5 feet at 5th level and every 4 levels thereafter. Solid objects do not block this ability, but any creature that runs into a solid object ceases moving closer to you. Creatures moved by this ability do not provoke attacks of opportunity from this movement. 
-		- After you use this revelation, you immediately become unattuned. 
+	- **Black Hole**: When you’re fully graviton-attuned, as a standard action, you can pull any number of creatures within 20 feet of you closer. You choose which creatures are affected and which ones aren’t. Each target must succeed at a Fortitude save or be pulled 10 feet toward you. The range of this revelation and the distance pulled increase by 5 feet at 5th level and every 4 levels thereafter. Solid objects do not block this ability, but any creature that runs into a solid object ceases moving closer to you. Creatures moved by this ability do not provoke attacks of opportunity from this movement.
+		- After you use this revelation, you immediately become unattuned.
 		- Black hole functions as a zenith revelation for the purposes of abilities that reference them.
 	- **Supernova**: When you’re fully photon-attuned, as a standard action, you can deal 1d6 fire damage plus 1d6 additional fire damage per solarian level to all creatures within 10 feet of you. A creature that succeeds at a Reflex save takes half damage.
-		- After you use this revelation, you immediately become unattuned. 
+		- After you use this revelation, you immediately become unattuned.
 		- Supernova functions as a zenith revelation for the purposes of abilities that reference them.
 
 #### Feats
@@ -126,7 +126,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 
 ## Gear
 
-**Credits:** 278
+**Credits:** 158
 
 | Carry | Weight |
 | ----- | ------ |
@@ -140,6 +140,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 | ---- | :--: | :------------: | ----- |
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
 | personal comm | L | 80 / 1/hr ||
+| MK1b healing serum (2)| 2L | - | 5hp healing  |
 
 ## Background
 

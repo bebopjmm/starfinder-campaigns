@@ -277,6 +277,51 @@ Its obvious to everyone that they will need to get access to that staff area, bu
 - Taraea agrees that the team must avoid civilian injury
 
 **Questions**:
-1. How to deal with front door bouncers (obviously gangmembers)?
+1. How to deal with front door bouncers (obviously gang-members)?
+  - flash grenades and daze spells to soften them up
 2. How to get into the staff-only area?
+  - swiping a keycard from waitress seems achievable
 3. How to get weapons into the club?
+  - Redacted can try to stash a gun or two in cheek pouches, but that is risky
+
+#### The Plan
+1. Redacted and Gereon will enter club early and with task of securing a keycard from one of the staff.
+  - recon the backroom
+2. Once they have a keycard, the other three will take out the front door bouncers.
+  - flash grenade and daze spells to hinder them until taken out
+3. Move fast to staff backroom and find Ferani
+
+### Shopping
+Nevos-4 recommends getting some additional gear, primarily grenades and healing serums. Diamonds Defense and Surplus has everything they need:
+- Nevos-4 buys a flash grenade and 2 MK1b healing serums
+- Cyscokt buys a needler pistol and 2 MK1b healing serums loaded into darts
+- Redacted has a called fusion placed on her pistol and buy 1 MK1b healing serum
+- Gereon buys a flash grenade and 1 MK1b healing serum
+- Taraea buys 2 MK1b healing serums
+
+### Execution
+Redacted leaves her pistol with Taraea and with Gereon's aid disguises the flash grenade before placing it in a cheek pouch. She easily keeps it unnoticed from the front door bouncer that searches her. Once inside, Gereon picks out his mark, the waitress he flirted with last time. As he distracts her with an odd drink order, Redacted successfully swipes her keycard.
+
+The two then ease over to the staff room doors. Gereon steps in sees the three goons playing cards. They immediately challenge him, and he gives a story about the waitress claiming to meet him back here, and that he's obviously the butt of her joke. They buy to story and chuckle, but then tell him to scram and don't come back in here or he'll find more trouble than a lying bar wench.
+
+Gereon and Redacted relay their situation and findings over the personal comms. Its time to fully execute the strike. Redacted gives Gereon the flash grenade. The three outside approach, weapons at the ready. The bouncers spot them and draw weapons, issuing a challenge.
+
+#### Round 1
+- Cyscokt casts Daze on bouncer-1, but he resists the effect
+- Redacted jams the door lock to the coat room and calls her pistol
+- Gereon holds
+- Taraea activates her solar armor, shifts into photon attunement and casts Daze on bouncer-2, but he resists the effect
+- bouncer-1 hits Cyscokt with his laser pistol 4 dmg
+- bouncer-2 hits Taraea with his laser pistol (5dmg) and moves inside club
+  - Gereon fails to trip him up as he goes past
+- cursing, Nevos-4 shoulders his light reaction cannon and hits bouncer-1 for 7dmg
+
+#### Round 2
+- This time Cyscokt successfully Dazes bouner-1
+- Redacted fires at bouncer-2 but fails both at trick attack and shot (more swearing)
+- Gereon throws his flash grenade and blinds bouncer-2 for 4 rounds
+- Taraea continues photon attunement (2) and engages bouncer-1
+- bouncer-2 stumbles and falls prone
+- Nevos-4 comes into the club, joins Gereon and gives him his pistol.
+
+#### Round 3

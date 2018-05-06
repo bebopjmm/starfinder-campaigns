@@ -74,6 +74,7 @@ Male Human Icon Envoy (1)
 | survival knife | 1 | +0 | 1d4 S | - | - | L | analog, operative |
 | tactical semi-auto pistol | 1 | +2 | 1d6 P | - | 9/1 |L | analog, 30 ft range |
 | smoke grenade | 1 | +0 | - | - | drawn | L | 20ft range, explode (20ft smoke cloud for 1 min) |
+| flash grenade (1) | 2 | +0 | blinded 1d4 rd | - | drawn | L | 20 ft range, explode (5 ft) |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
@@ -99,7 +100,7 @@ Male Human Icon Envoy (1)
 
 #### Feats
 
-- **Diversion**: When you successfully use Bluff to create adistraction, you can allow an ally to attempt a Stealth check to hide (instead of attempting to hide yourself). You can attempt to allow multiple allies to use Stealth to hide, but you take a –5 penalty for every ally after the first, and on a failed check no ally can attempt to hide.
+- **Diversion**: When you successfully use Bluff to create a distraction, you can allow an ally to attempt a Stealth check to hide (instead of attempting to hide yourself). You can attempt to allow multiple allies to use Stealth to hide, but you take a –5 penalty for every ally after the first, and on a failed check no ally can attempt to hide.
 - **Weapon Focus (small arms)**: +1 attack bonus with small arms
 
 ### Proficiencies
@@ -115,7 +116,7 @@ Male Human Icon Envoy (1)
 
 ## Gear
 
-**Credits:** 606
+**Credits:** 281
 
 | Carry | Weight |
 | ----- | ------ |
@@ -130,10 +131,11 @@ Male Human Icon Envoy (1)
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
 | personal comm | L | 80 / 1/hr ||
 | disguise kit | L | - | required for Disguise appearance changes |
+| MK1b healing serum | L | - | 5hp healing  |
 
 ## Background
 
-Gereon was born to wealth and privilege at Absalom Station as the oldest son of a very prominent corporate executive specializing at negotiating business deals. He was being groomed to eventually take over the business and had achieved great publicity and recognition. Gereon had become very disenchanted, however, with the corruption between corporations and governments and the ever expanding income inequality. 
+Gereon was born to wealth and privilege at Absalom Station as the oldest son of a very prominent corporate executive specializing at negotiating business deals. He was being groomed to eventually take over the business and had achieved great publicity and recognition. Gereon had become very disenchanted, however, with the corruption between corporations and governments and the ever expanding income inequality.
 
 When the Starfinder Society's initiated a recruitment drive following the disasterous Scoured Stars incident, Gereon reached out to them through backchannels. He believed that they represented an opportunity to make a difference for the good all individuals rather than shareholders and a elite few. The Second Seeker faction took immediate notice and had a recruitment offer covertly issued. Gereon's father found out about the offer and threatened to totally cut Gereon off if he pursued it. Undaunted, Gereon accepted the offer and its instructions for meeting with Starfinder representative, Durovar Kreel.
 
@@ -152,4 +154,4 @@ When the Starfinder Society's initiated a recruitment drive following the disast
 
 - **Vices**: I have a weakness for the vices of the city, especially women and gambling.
 
-## Character Developmennt
+## Character Development

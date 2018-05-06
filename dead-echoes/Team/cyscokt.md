@@ -73,6 +73,7 @@ Male Shirren Spacefarer Mystic (1)
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
 | battle staff | 1 | +1 | 1d4 B | Knockdown | - | 1 | analog, block |
 | pulsecaster pistol | 1 | +0 | 1d4 E | - | 20/1 | L | 30 ft, nonlethal|
+| needler pistol   | 1 | +0 | 1d4 P | inject DC+2 | 6/1 | L | analog, injection (2 MK1b healing serum darts) |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
@@ -138,7 +139,7 @@ Male Shirren Spacefarer Mystic (1)
 
 ## Gear
 
-**Credits:** 525
+**Credits:** 300
 
 | Carry | Weight |
 | ----- | ------ |
@@ -158,9 +159,9 @@ Male Shirren Spacefarer Mystic (1)
 
 ## Background
 
-Cyscokt was born in the Diaspora to a 3-member married spacefaring family. Always a lover of space travel and fascinated with the Pact Worlds, he dreamed of seeing more of the galaxy. With the full support of his family he became an acolyte of the Desnan church, travelling with a Desnan mystic.
+Cyscokt was born in the Diaspora to a 3-member married spacefaring family. Always a lover of space travel and fascinated with the Pact Worlds, he dreamed of seeing more of the galaxy. With the full support of his family he became an acolyte of the Desnan church, traveling with a Desnan mystic.
 
-The Starfinder Society's recent recruitment drive following the disasterous Scoured Stars incident caught Cyscokt's attention and appealed to his desire to travel, learn, and make a difference. With the approval of his teacher, he submitted an application. The Wayfinders faction liked his application and Cyscokt received a recruitment offer with starship passage to Absalom Station to meet Duravor Kreel.
+The Starfinder Society's recent recruitment drive following the disastrous Scoured Stars incident caught Cyscokt's attention and appealed to his desire to travel, learn, and make a difference. With the approval of his teacher, he submitted an application. The Wayfinders faction liked his application and Cyscokt received a recruitment offer with starship passage to Absalom Station to meet Duravor Kreel.
 
 ## Personality
 ### Traits
@@ -177,4 +178,4 @@ The Starfinder Society's recent recruitment drive following the disasterous Scou
 
 - My piety sometimes leads me to blindly trust those that profess faith in my god.
 
-## Character Developmennt
+## Character Development

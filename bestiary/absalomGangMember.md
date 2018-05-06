@@ -30,7 +30,7 @@ Medium humanoid (various, primarily human)
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
-| 10 | 12 | 10 |
+| 10 | 12 | 20 |
 
 #### Offense
 
@@ -45,6 +45,3 @@ Medium humanoid (various, primarily human)
 - club
 - azimuth laser pistol
 - credstick (100 - 150 credits)
-
-
-

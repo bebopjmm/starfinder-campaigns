@@ -72,8 +72,9 @@ Genderless Android Ace Pilot Soldier (1)
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
 | light reaction cannon | 1 | +4 | 1d10 P | - | 6/1 | 3 | 90ft range, penetrating |
-| assault hammer | 1 | +2 | 1d6 B | - | - | 1 | analog | 
-| frag grenade (1) | 1 | +2 | 1d6 P | - | drawn | L | 20 ft range, explode (15 ft)
+| assault hammer | 1 | +2 | 1d6 B | - | - | 1 | analog |
+| frag grenade (1) | 1 | +2 | 1d6 P | - | drawn | L | 20 ft range, explode (15 ft) |
+| flash grenade (1) | 2 | +2 | blinded 1d4 rd | - | drawn | L | 20 ft range, explode (5 ft) |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
@@ -83,9 +84,9 @@ Genderless Android Ace Pilot Soldier (1)
 
 #### Android
 
-- **Constructed**: 
-	- androids count as both humanoids and constructs (whichever effect is worse) for effects targeting creatures by type. 
-	- +2 racial bonus to saving throws against disease, mind-affecting effects, poison, and sleep, unless those effects specifically target constructs. 
+- **Constructed**:
+	- androids count as both humanoids and constructs (whichever effect is worse) for effects targeting creatures by type.
+	- +2 racial bonus to saving throws against disease, mind-affecting effects, poison, and sleep, unless those effects specifically target constructs.
 	- do not breathe or suffer the normal environmental effects of being in a vacuum.
 - **Exceptional Vision**: low-light and darkvision 60 ft
 - **Flat Effect**: -2 penalty to Sense Motive checks, +2 to DC of Sense Motive checks against them
@@ -117,13 +118,13 @@ Genderless Android Ace Pilot Soldier (1)
 
 ## Gear
 
-**Credits:** 738
+**Credits:** 3Â43
 
 | Carry | Weight |
 | ----- | ------ |
 | Unencumbered | 0-8 |
 | Encumbered | 8-15 |
-| Current | 7 |
+| Current | 7.6 |
 
 ### Equipment
 
@@ -131,12 +132,13 @@ Genderless Android Ace Pilot Soldier (1)
 | ---- | :--: | :------------: | ----- |
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
 | personal comm | L | 80 / 1/hr ||
+| MK1b healing serum (2)| 2L | - | 5hp healing |
 
 ## Background
 
-Nevos-4 was 'born' at a foundry on Aballon, where it was immediately transitioned into military training. Upon certification as a soldier class android with piloting specialization, it decided against the traditional path of military or corporate security service. Instead Nevos-4 chose freelance for the greater independence and better opportunity to help eliminate the illegal manufacture and slavery of androids. 
+Nevos-4 was 'born' at a foundry on Aballon, where it was immediately transitioned into military training. Upon certification as a soldier class android with piloting specialization, it decided against the traditional path of military or corporate security service. Instead Nevos-4 chose freelance for the greater independence and better opportunity to help eliminate the illegal manufacture and slavery of androids.
 
-The Starfinder Society's recent recruitment drive following the disasterous Scoured Stars incident caught Nevos-4's attention. It believes that by aligning with the Starfinder Society it will be able to do the most good towards protecting the Pact Worlds. The Exo-Guardian took interest in it's application, and Nevos-4 received a recruitment offer with starship passage to Absalom Station to meet Duravor Kreel. 
+The Starfinder Society's recent recruitment drive following the disastrous Scoured Stars incident caught Nevos-4's attention. It believes that by aligning with the Starfinder Society it will be able to do the most good towards protecting the Pact Worlds. The Exo-Guardian took interest in it's application, and Nevos-4 received a recruitment offer with starship passage to Absalom Station to meet Duravor Kreel.
 ## Personality
 ### Traits
 
@@ -152,4 +154,4 @@ The Starfinder Society's recent recruitment drive following the disasterous Scou
 
 - I am afraid of any form of enslavement, but particularly one that would force me to fight against my will
 
-## Character Developmennt
+## Character Development
