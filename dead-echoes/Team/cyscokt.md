@@ -90,7 +90,7 @@ Male Shirren Spacefarer Mystic (1)
 | detect affliction ||
 
 
-#### 1 - DC 14 (2/day)
+#### 1 - DC 14
 
 | Known | Slots Per Day | Slots Used |
 | :---: | :-----------: | :--------: |
@@ -104,7 +104,7 @@ Male Shirren Spacefarer Mystic (1)
 
 ### Abilities
 
-#### Racial 
+#### Racial
 
 - **Blindsense**: Shirrens’ sense vibrations in the air—out to 30 feet. A shirren ignores the Stealth bonuses from any form of visual camouflage, invisibility, and the like when attempting a Perception check opposed by a creature’s Stealth check. Even on a successful Perception check, any foe that can’t be seen still has total concealment (50% miss chance) against a shirren, and the shirren still has the normal miss chance when attacking foes that have concealment. A shirren is still flat-footed against attacks from creatures it can’t see.
 - **Communalism**: Once per day, as long as an ally is within 10 feet, a shirren can roll a single attack roll or skill check twice and take the higher result.
@@ -151,7 +151,7 @@ Male Shirren Spacefarer Mystic (1)
 | Item | Bulk | Capacity/Usage | Notes |
 | ---- | :--: | :------------: | ----- |
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
-| personal comm | L | 80 / 1/hr || 
+| personal comm | L | 80 / 1/hr ||
 | basic medkit | 1 | - ||
 | medpatch (3) | 3L | 1/1 ||
 
