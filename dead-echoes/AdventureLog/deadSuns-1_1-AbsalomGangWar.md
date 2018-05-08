@@ -308,20 +308,83 @@ Gereon and Redacted relay their situation and findings over the personal comms. 
 
 #### Round 1
 - Cyscokt casts Daze on bouncer-1, but he resists the effect
-- Redacted jams the door lock to the coat room and calls her pistol
+- Redacted calls her pistol
 - Gereon holds
 - Taraea activates her solar armor, shifts into photon attunement and casts Daze on bouncer-2, but he resists the effect
 - bouncer-1 hits Cyscokt with his laser pistol 4 dmg
 - bouncer-2 hits Taraea with his laser pistol (5dmg) and moves inside club
   - Gereon fails to trip him up as he goes past
+- Gereon throws his flash grenade and blinds bouncer-2 for 4 rounds
 - cursing, Nevos-4 shoulders his light reaction cannon and hits bouncer-1 for 7dmg
 
 #### Round 2
-- This time Cyscokt successfully Dazes bouner-1
+- This time Cyscokt successfully Dazes bouncer-1
 - Redacted fires at bouncer-2 but fails both at trick attack and shot (more swearing)
-- Gereon throws his flash grenade and blinds bouncer-2 for 4 rounds
-- Taraea continues photon attunement (2) and engages bouncer-1
+- Taraea continues photon attunement (2) and engages bouncer-1, killing him
 - bouncer-2 stumbles and falls prone
-- Nevos-4 comes into the club, joins Gereon and gives him his pistol.
+- Gereon holds
+- Nevos-4 comes into the club, joins Gereon and gives him his pistol
+- Gereon throws his smoke grenade (yells smoke over comms)
 
 #### Round 3
+
+- Cyscokt moves to drag dead bouncer-1 to the coat room
+- Redacted engages environmental protections from suit, and moves to bouncer-2
+- Taraea continues photon attunement (3) engages environmental protections from suit, and moves to bouncer-2
+- still blinded, bouncer-2 resists the smoke effects. He stands and staggers to bar away from smoke.
+	- Taraea misses AoO
+- Nevos-4 wields his assault hammer, and skirting the smoke engages bouncer-2, hitting for 3dmg
+- Gereon engages environmental protections from suit, and issues a "Get'em" against bouncer-2
+
+Parts of the crowd in and near the smoke start to panic.
+
+#### Round 4
+- Cyscokt dumps body of bouncer-1 in coat room and catches up
+- Redacted performs trick attack against bouncer-2 for 7dmg
+- Taraea fully attuned, closes and kills bouncer-2 with sword
+- Nevos-4 hauls body around for Cyscokt to drag to coat rooms
+- Gereon joins up
+
+#### Round 5
+- Cycokt drags bouncer-2 to coat room
+- Redacted gives Nevos-4 keycard and holds until after Taraea
+- Taraea holds until after Nevos-4
+- Nevos-4 activates door and throws in flash grenade, but all the thugs resist it's effect
+- Taraea charges into the room and goes supernova
+- Redacted enters the room, but misses thug-3
+- Gereon enters the room and misses thug-1
+- all the thugs draw their pistols and shoot at Taraea, but only thug-1 hits (5dmg)
+
+#### Round 6
+- Cyscokt dumps body in coat room and starts back
+- Nevos-4 fires cannon at thug-1, killing him
+- Taraea casts Daze on thug-2 and falls back
+- Redacted trick attacks thug-3 (5dmg)
+- Gereon misses thug-3
+- thug-2 is dazed and thug-3 misses Redacted
+
+#### Round 7
+- Cyscokt enters storeroom and casts Daze on thug-2, but he resists
+- Vrok cracks open the door to see what's going on.
+- Nevos-4 hits thug-2 with cannon shot (4dmg)
+- Taraea shifts to graviton attunement, shoots and kills thug-2
+- With everyone in the storeroom, Redacted moves to the door and jams the lock
+- Gereon hits thug-3
+- thug-3 drops his weapon and surrenders
+
+#### Round 8
+- Vrok throws shock grenade and barks at thug-3 to get back into the fight!
+- Cyscokt casts *Wisp Ally* against Vrok, providing harrying fire
+- Nevos-4 moves to cover and hits Vrok, badly wounding the vesk (10dmg)
+- Taraea falls back and uses a healing serum, graviton attunement(2)
+- Redacted moves to table for some cover and trick attacks the thug before he could recover his weapon, killing him.
+- Gereon issues a "Get'em" against Vrok and shoots but misses
+
+#### Round 9
+- Vrok throws frag grenade and retreats to office, wielding hammer behind door
+- the team repositions to assault the office
+	- Cycokt will open door with psychokinetic hand and Nevos-4 will enter first in total defense mode
+	- others will come in behind
+
+#### Round 10
+- Vrok and Ferani ready attacks against anyone coming in the door.

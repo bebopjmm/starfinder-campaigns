@@ -72,9 +72,8 @@ Genderless Android Ace Pilot Soldier (1)
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
 | light reaction cannon | 1 | +4 | 1d10 P | - | 6/1 | 3 | 90ft range, penetrating |
-| assault hammer | 1 | +2 | 1d6 B | - | - | 1 | analog |
+| assault hammer | 1 | +2 | 1d6+1 B | - | - | 1 | analog |
 | frag grenade (1) | 1 | +2 | 1d6 P | - | drawn | L | 20 ft range, explode (15 ft) |
-| flash grenade (1) | 2 | +2 | blinded 1d4 rd | - | drawn | L | 20 ft range, explode (5 ft) |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |

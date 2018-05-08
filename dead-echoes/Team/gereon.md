@@ -73,8 +73,6 @@ Male Human Icon Envoy (1)
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
 | survival knife | 1 | +0 | 1d4 S | - | - | L | analog, operative |
 | tactical semi-auto pistol | 1 | +2 | 1d6 P | - | 9/1 |L | analog, 30 ft range |
-| smoke grenade | 1 | +0 | - | - | drawn | L | 20ft range, explode (20ft smoke cloud for 1 min) |
-| flash grenade (1) | 2 | +0 | blinded 1d4 rd | - | drawn | L | 20 ft range, explode (5 ft) |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |

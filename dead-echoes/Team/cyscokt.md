@@ -85,8 +85,8 @@ Male Shirren Spacefarer Mystic (1)
 
 | Name | Effect |
 | ---- | ------ |
-| psychokinetic hand ||
-| stablize ||
+| psychokinetic hand | (conc) manipulate one unattended object of no more than 10 lbs. or 1 bulk within 30ft|
+| stabilize |stabilize a dying creature within 30ft |
 | daze ||
 | detect affliction ||
 
@@ -95,13 +95,13 @@ Male Shirren Spacefarer Mystic (1)
 
 | Known | Slots Per Day | Slots Used |
 | :---: | :-----------: | :--------: |
-| 2 | 3 | 0 |
+| 2 | 3 | 1 |
 
 | Name | Effect |
 | ---- | ------ |
-| shooting stars ||
+| shooting stars |2 missiles (3 full-attack) do 1d4+1 force dmg|
 | wisp ally ||
-| mystic cure |1d8+3 HP|
+| mystic cure |1d8+3 HP touch|
 
 ### Abilities
 

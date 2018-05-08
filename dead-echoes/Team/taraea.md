@@ -103,10 +103,10 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 	- **Photon Mode**: When you enter photon mode, you gain 1 photon attunement point and become photon-attuned. Some of your stellar revelations are photon powers and get stronger if you’re photon-attuned. While photon-attuned, you gain a +1 insight bonus to damage rolls (including damage rolls for your stellar powers).
 	- **Unattuned**: While unattuned, you gain no attunement points and you are neither photon-attuned nor graviton-attuned. You lose all attunement points you’ve accrued so far and gain no benefits while unattuned.
 - **Stellar Revelation**:
-	- **Black Hole**: When you’re fully graviton-attuned, as a standard action, you can pull any number of creatures within 20 feet of you closer. You choose which creatures are affected and which ones aren’t. Each target must succeed at a Fortitude save or be pulled 10 feet toward you. The range of this revelation and the distance pulled increase by 5 feet at 5th level and every 4 levels thereafter. Solid objects do not block this ability, but any creature that runs into a solid object ceases moving closer to you. Creatures moved by this ability do not provoke attacks of opportunity from this movement.
+	- **Black Hole**: When you’re fully graviton-attuned, as a standard action, you can pull any number of creatures within 20 feet of you closer. You choose which creatures are affected and which ones aren’t. Each target must succeed at a **DC14 Fortitude** save or be pulled 10 feet toward you. The range of this revelation and the distance pulled increase by 5 feet at 5th level and every 4 levels thereafter. Solid objects do not block this ability, but any creature that runs into a solid object ceases moving closer to you. Creatures moved by this ability do not provoke attacks of opportunity from this movement.
 		- After you use this revelation, you immediately become unattuned.
 		- Black hole functions as a zenith revelation for the purposes of abilities that reference them.
-	- **Supernova**: When you’re fully photon-attuned, as a standard action, you can deal 1d6 fire damage plus 1d6 additional fire damage per solarian level to all creatures within 10 feet of you. A creature that succeeds at a Reflex save takes half damage.
+	- **Supernova**: When you’re fully photon-attuned, as a standard action, you can deal 1d6 fire damage plus 1d6 additional fire damage per solarian level to all creatures within 10 feet of you. A creature that succeeds at a **DC14 Reflex** save takes half damage.
 		- After you use this revelation, you immediately become unattuned.
 		- Supernova functions as a zenith revelation for the purposes of abilities that reference them.
 
@@ -140,7 +140,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 | ---- | :--: | :------------: | ----- |
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
 | personal comm | L | 80 / 1/hr ||
-| MK1b healing serum (2)| 2L | - | 5hp healing  |
+| MK1b healing serum (1)| L | - | 5hp healing  |
 
 ## Background
 
