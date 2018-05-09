@@ -446,10 +446,23 @@ There isn't time to fully investigate the files and messages here, so the team h
 
 ## Conclusion
 
-With time to analyze Ferani's infoPad, Redacted finds all kinds of incriminating information. Of primary interest is communications proving that an employee of Astral Extractions hired the Downside Kings to eliminate Duravor Kreel oth as a message to the Hardscrabble Collective that the corporation means business and to keep the Starfinder Society from getting too curious about the Acreon and the Drift Rock.
+With time to analyze Ferani's infoPad, Redacted finds all kinds of incriminating information. Of primary interest is communications proving that an employee of Astral Extractions hired the Downside Kings to eliminate Duravor Kreel both as a message to the Hardscrabble Collective that the corporation means business and to keep the Starfinder Society from getting too curious about the Acreon and the Drift Rock.
 
 1. clean up and rest
-2. share investigation results
-	1. Starfinder Society
-	2. Jabaxa
-3. LEVEL UP!!
+	- everyone is back at full health and resolve
+
+### Sharing Results
+
+Next day the team first shares their results with Chiskisk. They commend the PCs for their successful investigation and thanks them for risking their lives to find justice for Duravor.
+- asks the PCs to keep the details of the Fusion Queen raid to themselves but isn’t one to judge, believing that one reaps what one sows
+- asks for any evidence the PCs might have found regarding the Downside Kings’ involvement in Kreel’s murder to turn over to station officials
+	- Redacted will keep a copy of all the materials as an insurance policy
+- recommends that the PCs leave any ramifications of Astral Extractions’ possible criminal enterprises to Absalom Station’s legal system; the company has a powerful presence on the station, and Chiskisk doesn’t want the PCs or the Starfinder Society to risk a battle that neither has much chance of winning
+
+Chiskisk is also pleased to officially welcome the team members into the ranks of the Starfinder Society, and states that they are looking forward to the discoveries the team will make and the knowledge that they will share with the Society in the future.
+- official induction ceremony will be scheduled in a few days
+- no jobs for them at this time, but is interested and somewhat troubled by the revelation that Astral Extractions is attempting to keep the Starfinders away from the Acreon and the Drift Rock. As a result, Chiskisk asks the PCs to keep their senses aware for any further news about the contentious ship and its mysterious cargo that might be of interest to the Society.
+
+The team also contacts Jabaxa, who congratulates them on a well executed assault. He lets them know that they have earned the appreciation of the Level-21 crew and can call in a favor.
+
+### LEVEL UP!!
