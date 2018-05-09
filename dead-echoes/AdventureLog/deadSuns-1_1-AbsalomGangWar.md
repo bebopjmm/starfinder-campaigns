@@ -2,7 +2,7 @@
 
 ## Introductions
 
-The appointment date had arrived. Gereon and Tarea currently lived at Absalom Station, while Redacted, Cyscokt, and Nevos-4 arrived by starship from their prior homes and boarded the shuttle Okimoro for transport to the station. As the shuttle Okimoro loaded its passengers Gereon and Tarea received the confirmation of meeting time and place, Dock 94 at 1030, on their infoPads. Gereon applied a disguise to avoid unwanted attention prior to departing for the dock. Each of the recruits had been provided the name, picture, and short description of Durovar Kreel as well as each other.
+The appointment date had arrived. Gereon and Taraea currently lived at Absalom Station, while Redacted, Cyscokt, and Nevos-4 arrived by starship from their prior homes and boarded the shuttle Okimoro for transport to the station. As the shuttle Okimoro loaded its passengers Gereon and Taraea received the confirmation of meeting time and place, Dock 94 at 1030, on their infoPads. Gereon applied a disguise to avoid unwanted attention prior to departing for the dock. Each of the recruits had been provided the name, picture, and short description of Durovar Kreel as well as each other.
 
 The brightly lit docks of Absalom Station were abuzz with activity as travelers bustled by, preparing to board or disembarking from starships bound to or from any of dozens of worlds. Brash and swaggering starpilots, scurrying ysoki mechanics, and expectant colonists mingled with enigmatic kasatha mystics, hard-faced asteroid miners, imposing vesk mercenaries, and more, creating a microcosm of the abundance and variety of life in the Pact Worlds. New arrivals met friends, loved ones, or business contacts, and were whisked away into the humming activity of daily life on the vast space station. Beyond them, ground crews tended to the docked ships, and dockworkers in mechanized cargo lifters loaded and unloaded freight and baggage. A sharp tang of ozone hung in the air — a byproduct of electrical discharges from the docked ships — but underneath, the station’s atmosphere had a slightly used aroma. The docking bay’s deck plates thrummed beneath their feet as the recruits assembled, making brief greetings while looking for their designated Starfinder representative, Duravor Kreel.
 
@@ -12,7 +12,7 @@ Redacted was the first to notice the tall and lanky dwarf with a bristly, iron-g
 
 ## Caught in the Crossfire
 
-Before any of the recruits could react, the air filled with laser blasts. Bystanders screamed and began to flee in terror or dive for cover. Kreel froze, paralyzed with fear, and then a laser beam struck him in the neck, and the dwarf fell to the deck and didn't move. Taking notice of Tarea, one of the thugs to the right of the recruits fired and struck her in the shoulder with his laser pistol. Infuriated Taraea summoned her solar armor as she drew her longsword and moved to cover. One of the thugs further ahead was severely wounded and caught on fire from a laser blast.
+Before any of the recruits could react, the air filled with laser blasts. Bystanders screamed and began to flee in terror or dive for cover. Kreel froze, paralyzed with fear, and then a laser beam struck him in the neck, and the dwarf fell to the deck and didn't move. Taking notice of Taraea, one of the thugs to the right of the recruits fired and struck her in the shoulder with his laser pistol. Infuriated Taraea summoned her solar armor as she drew her longsword and moved to cover. One of the thugs further ahead was severely wounded and caught on fire from a laser blast.
 
 Recovering from their initial shock, the rest of the recruits sprung into action. Redacted dashed to cover, drawing her pistol and assessing the situation. Gereon recognized the thugs on the team's right side as Level-21 Crew gang members. Puzzled because this area was not their turf and the Level-21 Crew was not known for being particularly violent, he made a snap assessment that the other thugs must be something worse. Plus they had already fired on his teammates. Moving to cover, he shouted inspiration to his new teammates to focus on the thug that had shot Taraea. Nevos-4 was more than willing to comply. Moving to cover, he shouldered his autocannon and returned fire, hitting the thug in the leg. Taraea dashed toward the thug, taking cover at the abandoned vehicle. Disturbed by the wanton violence and concerned for Durovar's condition, Cyscokt started scrambling towards the fallen dwarf.
 
@@ -81,6 +81,8 @@ Gereon's 'trusted establishment' ends up being a higher end gentleman's club. A 
 The group decides the most sensible course of action is to head over the the Lorespire Complex and try to get a meeting with Chiskisk.
 
 Prior to leaving, Redacted distributes the funds from the retrieved credsticks to amongst the team (90c each)
+
+[Breaking News: Docking Bay 94](https://youtu.be/kd66fySRRLk)
 
 ## The Starfinder Society
 
@@ -334,7 +336,7 @@ Gereon and Redacted relay their situation and findings over the personal comms. 
 - still blinded, bouncer-2 resists the smoke effects. He stands and staggers to bar away from smoke.
 	- Taraea misses AoO
 - Nevos-4 wields his assault hammer, and skirting the smoke engages bouncer-2, hitting for 3dmg
-- Gereon engages environmental protections from suit, and issues a "Get'em" against bouncer-2
+- Gereon engages environmental protections from suit, and issues a *Get'em* against bouncer-2
 
 Parts of the crowd in and near the smoke start to panic.
 
@@ -378,13 +380,76 @@ Parts of the crowd in and near the smoke start to panic.
 - Nevos-4 moves to cover and hits Vrok, badly wounding the vesk (10dmg)
 - Taraea falls back and uses a healing serum, graviton attunement(2)
 - Redacted moves to table for some cover and trick attacks the thug before he could recover his weapon, killing him.
-- Gereon issues a "Get'em" against Vrok and shoots but misses
+- Gereon issues a *Get'em* against Vrok and shoots but misses
 
 #### Round 9
 - Vrok throws frag grenade and retreats to office, wielding hammer behind door
 - the team repositions to assault the office
 	- Cycokt will open door with psychokinetic hand and Nevos-4 will enter first in total defense mode
 	- others will come in behind
+	- Taraea becomes fully graviton attuned
+	- everyone reloads
 
 #### Round 10
 - Vrok and Ferani ready attacks against anyone coming in the door.
+- Cyscokt uses *Psychokinetic Hand* to open the office door
+- Nevos-4 with *Total Defense* moves into the room and past Vrok
+	- Vrok attempts *Awesome Blow*, but Nevos-4 dodges it
+	- Ferani fires pistol and barely misses
+- Taraea delays until after Gereon
+- Redacted moves to corner and trick attacks Vrok, but fails miserably
+- Gereon and Taraea fall in tagline
+
+#### Round 11
+- Vrok attacks Nevos-4, but misses again
+- Cyscokt delays until after Taraea
+- Ferani fires at Nevos-4 and misses
+- Nevos-4 takes a guarded step and attacks Vrok with hammer
+- Redacted tumbles past Vrok and hits him with a pistol shot
+- Gereon issues a *Get'em* against Ferani and fires at her but misses
+- Taraea moves past Gereon to engage Vrok, but missiles
+- Cyscokt closes and casts *Daze* on Vrok and he is affected!
+
+#### Round 12
+- Vrok is dazed and can't take actions
+- Ferani targets Redacted and shoots Redacted for 7dmg
+- Nevos-4 moves away from Vrok, switching to light reaction cannon and headshots Vrokilayo, he yells at Redacted to take cover behind him
+- Redacted moves behind Nevos-4 and drinks a healing serum
+- Gereon moves into the office and issues a *Get'em* against Ferani
+- Taraea step forward and triggers *Black Hole* revelation against Ferani, but she resists
+- Cyscokt enters the office and casts *Daze* against Ferani, but she resists
+
+#### Round 13
+- Ferani targets Gereon and fires, hitting for 3 dmg
+- Nevos-4 moves to where Ferani is exposed and hits for 4dmg
+- Redacted moves as part of a trick attack, but misses
+- Gereon issues another *Get'em* on Ferani and takes a shot, hitting for 6dmg
+- Taraea switches to photon attunement and engages Ferani, hitting for 6dmg
+- Cyscokt makes another *Daze* attempt and succeeds!
+
+#### Round 14
+- Ferani is dazed and can't take actions
+- Nevos-4 fires, hitting dead center and killing Ferani
+
+### Development
+Combat is over, but the security forces can't be long in coming, so Redacted yells for everyone to grab anything useful and get go.
+- Gereon and Cycokt loot Vrok's artillery laser, spare battery, credstick
+- Redacted and Taraea loot Ferani and the desk of ammo, infoPad, credstick
+	- Nevos-4 discovers storage door is locked, but Redacted tosses him the keycard, which opens it
+	- Nevos-4 and Taraea loot to storage room
+- Redacted easily hacks the infoPad
+	- numerous files and communication records that detail Downside Kings' criminal activity
+	- which gives her access to club security camera system, and she is able to erase all footage of the past half hour.
+
+There isn't time to fully investigate the files and messages here, so the team heads out. With the smoke dissipated, the frightened patrons are fleeing, and the team manages to slip into the crowd. Sirens of approaching security forces can be heard approaching. The team makes their escape.
+- Cyscokt performs *Healing Touch* on Gereon and casts *Mystic Cure* on Taraea
+
+## Conclusion
+
+With time to analyze Ferani's infoPad, Redacted finds all kinds of incriminating information. Of primary interest is communications proving that an employee of Astral Extractions hired the Downside Kings to eliminate Duravor Kreel oth as a message to the Hardscrabble Collective that the corporation means business and to keep the Starfinder Society from getting too curious about the Acreon and the Drift Rock.
+
+1. clean up and rest
+2. share investigation results
+	1. Starfinder Society
+	2. Jabaxa
+3. LEVEL UP!!

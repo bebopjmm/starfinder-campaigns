@@ -49,8 +49,8 @@ Male Human Icon Envoy (1)
 
 | Health | Nominal | Current |
 | ------ | :-----: | :-----: |
-| Hp | 10 | 10 |
 | Stamina | 6 | 6 |
+| Hp | 10 | 9 |
 | Resolve | 4 | 4 |
 
 #### Defense
@@ -114,7 +114,7 @@ Male Human Icon Envoy (1)
 
 ## Gear
 
-**Credits:** 281
+**Credits:** 706
 
 | Carry | Weight |
 | ----- | ------ |

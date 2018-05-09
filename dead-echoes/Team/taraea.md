@@ -49,8 +49,8 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 
 | Health | Nominal | Current |
 | ------ | :-----: | :-----: |
-| Hp | 11 | 11 |
 | Stamina | 6 | 6 |
+| Hp | 11 | 11 |
 | Resolve | 4 | 4 |
 
 #### Defense
@@ -126,7 +126,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 
 ## Gear
 
-**Credits:** 158
+**Credits:** 583
 
 | Carry | Weight |
 | ----- | ------ |

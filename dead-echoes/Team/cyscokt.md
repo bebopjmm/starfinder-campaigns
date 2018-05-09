@@ -49,8 +49,8 @@ Male Shirren Spacefarer Mystic (1)
 
 | Health | Nominal | Current |
 | ------ | :-----: | :-----: |
-| Hp | 12 | 12 |
 | Stamina | 8 | 8 |
+| Hp | 12 | 12 |
 | Resolve | 4 | 4 |
 
 #### Defense
@@ -95,7 +95,7 @@ Male Shirren Spacefarer Mystic (1)
 
 | Known | Slots Per Day | Slots Used |
 | :---: | :-----------: | :--------: |
-| 2 | 3 | 1 |
+| 2 | 3 | 2 |
 
 | Name | Effect |
 | ---- | ------ |
@@ -139,7 +139,7 @@ Male Shirren Spacefarer Mystic (1)
 
 ## Gear
 
-**Credits:** 300
+**Credits:** 725
 
 | Carry | Weight |
 | ----- | ------ |

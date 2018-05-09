@@ -49,8 +49,8 @@ Genderless Android Ace Pilot Soldier (1)
 
 | Health | Nominal | Current |
 | ------ | :-----: | :-----: |
-| Hp | 11 | 11 |
 | Stamina | 10 | 10 |
+| Hp | 11 | 11 |
 | Resolve | 4 | 4 |
 
 #### Defense
@@ -117,7 +117,7 @@ Genderless Android Ace Pilot Soldier (1)
 
 ## Gear
 
-**Credits:** 3Â43
+**Credits:** 768
 
 | Carry | Weight |
 | ----- | ------ |

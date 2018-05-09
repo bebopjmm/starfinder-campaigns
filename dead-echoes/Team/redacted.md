@@ -49,8 +49,8 @@ Female Ysoki Outlaw Operative(Hacker) (1)
 
 | Health | Nominal | Current |
 | ------ | :-----: | :-----: |
-| Hp |  8 | 8 |
 | Stamina | 6 | 6 |
+| Hp |  8 | 8 |
 | Resolve | 4 | 4 |
 
 #### Defense
@@ -120,7 +120,7 @@ Common, Ysoki, Akitonian, Goblin, Vercite
 
 ## Gear
 
-**Credits:** 531
+**Credits:** 956
 
 | Carry | Weight |
 | ----- | ------ |
@@ -136,7 +136,7 @@ Common, Ysoki, Akitonian, Goblin, Vercite
 | hacker kit | L | - ||
 | trapsmith's kit | L | - | +4 Engineering bonus to arm/disarm traps |
 | personal comm | L | 80 / 1/hr ||
-| MK1b healing serum | L | - | 5hp healing  |
+| holoskin | L | 20 / 1/10min | belt mount  |
 
 ## Background
 
