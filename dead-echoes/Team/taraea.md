@@ -3,7 +3,7 @@
 
 ![Taraea](https://www.dropbox.com/s/y7nqhqt74tzm859/taraea.jpg?raw=1)
 
-Female Lashunta(damaya) Xenoseeker Solarian (1)  
+Female Lashunta(damaya) Xenoseeker Solarian (2)  
 **Homeworld**: Castrovel
 
 ## Stats
@@ -14,29 +14,29 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 
 | Save | Fort (Con) | Reflex (Dex) | Will (Wis) |
 | ---- | :--------: | :----------: | :--------: |
-| Mod | +1 | +1 | +2 |
+| Mod | +2 | +1 | +3 |
 
 | Skill | Mod | Ranks | Notes
 | ---- | :--: | :---: | ----- |
 | **Acrobatics (Dex)** | +1 | 0 ||
-| **Athletics (Str)** | +6 | 1 ||
+| **Athletics (Str)** | +7 | 2 ||
 | Bluff (Cha) | +3 | 0 ||
 | Computers (Int:T) | - | 0 ||
 | **Culture (Int:T)** | - | 0 ||
-| **Diplomacy (Cha)** | +9 | 1 |racial|
+| **Diplomacy (Cha)** | +10 | 2 |racial|
 | Disguise (Cha) | +3 | 0 ||
 | Engineering (Int:T) | - | 0 ||
 | **Intimidate (Cha)** | +7 | 1 ||
-| **Life Science (Int:T)** | +7 | 1 |theme, racial|
+| **Life Science (Int:T)** | +8 | 2 |theme, racial|
 | Medicine (Int)| +1 | 0 ||
-| **Mysticism (Wis:T)** | +4 | 1 ||
+| **Mysticism (Wis:T)** | +5 | 2 ||
 | **Perception (Wis)** | +0 | 0 ||
 | **Physical Science (Int:T)** | - | 0 ||
 | Piloting (Dex) | +1 | 0 ||
 | Profession (varies:T) | - | 0 ||
 | **Sense Motive (Wis)** | +0 | 0 ||
 | Sleight of Hand (Dex:T) | - | 0 ||
-| **Stealth (Dex)** | +1 | 0 ||
+| **Stealth (Dex)** | +5 | 1 ||
 | **Survival (Wis)** | +0 | 0 ||
 
 | Stat | Value |
@@ -49,8 +49,8 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 
 | Health | Nominal | Current |
 | ------ | :-----: | :-----: |
-| Stamina | 6 | 6 |
-| Hp | 11 | 11 |
+| Stamina | 12 | 12 |
+| Hp | 18 | 18 |
 | Resolve | 4 | 4 |
 
 #### Defense
@@ -63,16 +63,16 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 | :-: | :-: | :------: |
 | 12/13sa | 13/14sa | 21/22sa |
 
-#### Attack Bonuses
+#### Attack Bonuses : BAB +2
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
-| +3 | +2 | +3 |
+| +4 | +3 | +4 |
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-| longsword | 1 | +4 | 1d8+2 S | - | - | 1 | analog |
-| tactical semi-auto pistol | 1 | +2 | 1d6 P | - | 9/1 | L | analog, 30 ft range |
+| longsword | 1 | +5 | 1d8+2 S | - | - | 1 | analog |
+| tactical semi-auto pistol | 1 | +3 | 1d6 P | - | 9/1 | L | analog, 30 ft range |
 
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
@@ -109,6 +109,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (1)
 	- **Supernova**: When you’re fully photon-attuned, as a standard action, you can deal 1d6 fire damage plus 1d6 additional fire damage per solarian level to all creatures within 10 feet of you. A creature that succeeds at a **DC14 Reflex** save takes half damage.
 		- After you use this revelation, you immediately become unattuned.
 		- Supernova functions as a zenith revelation for the purposes of abilities that reference them.
+	- **Stellar Rush (p)**: As a standard action, you can wreathe yourself in stellar fire and make a charge without the standard penalties. When you are attuned or fully attuned, you can substitute a bull rush for the melee attack at the end of the charge. Whether or not you succeed at the bull rush, the target takes 2d6 fire damage (Reflex half).
 
 #### Feats
 

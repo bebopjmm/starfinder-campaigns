@@ -3,7 +3,7 @@
 
 ![Gereon](https://www.dropbox.com/s/e1c87463yfzquuh/gereon.jpg?raw=1)
 
-Male Human Icon Envoy (1)  
+Male Human Icon Envoy (2)  
 **Homeworld**: Absalom Station
 
 ## Stats
@@ -14,29 +14,29 @@ Male Human Icon Envoy (1)
 
 | Save | Fort (Con) | Reflex (Dex) | Will (Wis) |
 | ---- | :--------: | :----------: | :--------: |
-| Mod | +0 | +3 | +2 |
+| Mod | +0 | +4 | +3 |
 
 | Skill | Mod | Ranks | Notes
 | ---- | :--: | :---: | ----- |
-| **Acrobatics (Dex)** | +5 | 1 ||
+| **Acrobatics (Dex)** | +6 | 2 ||
 | **Athletics (Str)** | +0 | 0 ||
-| **Bluff (Cha)** | +7 | 1 ||
-| **Computers (Int:T)** | +6 | 1 ||
-| **Culture (Int:T)** | +7 | 1 |theme|
-| **Diplomacy (Cha)** | +7 | 1 |expertise|
-| **Disguise (Cha)** | +7 | 1 ||
+| **Bluff (Cha)** | +8 | 2 ||
+| **Computers (Int:T)** | +7 | 2 ||
+| **Culture (Int:T)** | +8 | 2 |theme|
+| **Diplomacy (Cha)** | +8 | 2 |expertise|
+| **Disguise (Cha)** | +8 | 2 ||
 | **Engineering (Int:T)** | - | 0 ||
 | **Intimidate (Cha)** | +3 | 0 ||
 | Life Science (Int:T) | - | 0 ||
 | **Medicine (Int)**| +2 | 0 ||
 | Mysticism (Wis:T) | +0 | 0 ||
-| **Perception (Wis)** | +4 | 1 ||
+| **Perception (Wis)** | +5 | 2 ||
 | Physical Science (Int:T) | - | 0 ||
 | **Piloting (Dex)** | +5 | 1 ||
 | **Profession: negotiator (Cha:T)** | +8 | 1 |theme|
-| **Sense Motive (Wis)** | +4 | 1 |expertise|
-| **Sleight of Hand (Dex:T)** | - | 0 ||
-| **Stealth (Dex)** | +5 | 1 ||
+| **Sense Motive (Wis)** | +5 | 2 |expertise|
+| **Sleight of Hand (Dex:T)** | +5 | 1 ||
+| **Stealth (Dex)** | +6 | 2 ||
 | Survival (Wis) | +0 | 0 ||
 
 | Stat | Value |
@@ -49,8 +49,8 @@ Male Human Icon Envoy (1)
 
 | Health | Nominal | Current |
 | ------ | :-----: | :-----: |
-| Stamina | 6 | 6 |
-| Hp | 10 | 9 |
+| Stamina | 12 | 12 |
+| Hp | 16 | 16 |
 | Resolve | 4 | 4 |
 
 #### Defense
@@ -63,16 +63,16 @@ Male Human Icon Envoy (1)
 | :-: | :-: | :------: |
 | 11 | 12 | 20 |
 
-#### Attack Bonuses
+#### Attack Bonuses : BAB +1
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
-| 0 | +1 | 0 |
+| +1 | +2 | +1 |
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-| survival knife | 1 | +0 | 1d4 S | - | - | L | analog, operative |
-| tactical semi-auto pistol | 1 | +2 | 1d6 P | - | 9/1 |L | analog, 30 ft range |
+| survival knife | 1 | +1 | 1d4 S | - | - | L | analog, operative |
+| tactical semi-auto pistol | 1 | +3 | 1d6 P | - | 9/1 |L | analog, 30 ft range |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
@@ -93,6 +93,7 @@ Male Human Icon Envoy (1)
 
 - **Envoy Improvisation (DC 13)**: little tricks that bolster allies, confound enemies, or change the ebb and flow of battle using guile, inspiration, or luck.
 	- **Get 'Em (Ex)**: As a move action, you can choose one enemy within 60 feet. Until the start of your next turn, you and your allies gain a +1 morale bonus to attack rolls made against that enemy. The bonus persists even if the enemy moves beyond 60 feet or out of line of sight or hearing
+	- **Inspiring Boost (Ex)**: As a standard action, you can signal an ally within 30 feet who has taken damage from any attack made by a significant enemy at any point after your last turn ended. That ally regains 7 Stamina Points. Once an ally has benefited from your inspiring boost, that ally can’t gain the benefits of your inspiring boost again until he takes a 10-minute rest to recover Stamina Points.
 - **Expertise**: +1d6 insight bonus to Sense Motive checks
 - **Skill Expertise**: expertise insight bonus to Diplomacy checks
 

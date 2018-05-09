@@ -3,7 +3,7 @@
 
 ![Nevos-4](https://www.dropbox.com/s/hzvxqqys19cezwh/nevos-4.jpg?raw=1)
 
-Genderless Android Ace Pilot Soldier (1)  
+Genderless Android Ace Pilot Soldier (2)  
 **Homeworld**: Aballon
 
 ## Stats
@@ -14,12 +14,12 @@ Genderless Android Ace Pilot Soldier (1)
 
 | Save | Fort (Con) | Reflex (Dex) | Will (Wis) |
 | ---- | :--------: | :----------: | :--------: |
-| Mod | +4 | +3 | +2 |
+| Mod | +5 | +3 | +3 |
 
 | Skill | Mod | Ranks | Notes
 | ---- | :--: | :---: | ----- |
-| **Acrobatics (Dex)** | +7/+5 | 1 |acp|
-| **Athletics (Str)** | +5/+3 | 1 |acp|
+| **Acrobatics (Dex)** | +8/+6 | 2 |acp|
+| **Athletics (Str)** | +6/+4 | 2 |acp|
 | Bluff (Cha) | -1 | 0 ||
 | Computers (Int:T) | - | 0 ||
 | Culture (Int:T) | +3 | 1 ||
@@ -30,14 +30,14 @@ Genderless Android Ace Pilot Soldier (1)
 | Life Science (Int:T) | - | 0 ||
 | **Medicine (Int)**| +1 | 0 ||
 | Mysticism (Wis:T) | - | 0 ||
-| Perception (Wis) | +0 | 0 ||
+| Perception (Wis) | +1 | 1 ||
 | Physical Science (Int:T) | - | 0 ||
-| **Piloting (Dex)** | +8 | 1 ||
+| **Piloting (Dex)** | +9 | 2 ||
 | Profession (varies:T) | +0 | 0 ||
 | Sense Motive (Wis) | -2 | 0 |racial|
 | Sleight of Hand (Dex:T) | - | 0 |acp|
 | Stealth (Dex) | +3/+1 | 0 |acp|
-| **Survival (Wis)** | +4 | 1 ||
+| **Survival (Wis)** | +5 | 2 ||
 
 | Stat | Value |
 | ---- | ----- |
@@ -49,8 +49,8 @@ Genderless Android Ace Pilot Soldier (1)
 
 | Health | Nominal | Current |
 | ------ | :-----: | :-----: |
-| Stamina | 10 | 10 |
-| Hp | 11 | 11 |
+| Stamina | 20 | 20 |
+| Hp | 18 | 18 |
 | Resolve | 4 | 4 |
 
 #### Defense
@@ -63,17 +63,17 @@ Genderless Android Ace Pilot Soldier (1)
 | :-: | :-: | :------: |
 | 14 | 16 | 24 |
 
-#### Attack Bonuses
+#### Attack Bonuses : BAB +2
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
-| +2 | +4 | +2 |
+| +4 | +5 | +4 |
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-| light reaction cannon | 1 | +4 | 1d10 P | - | 6/1 | 3 | 90ft range, penetrating |
-| assault hammer | 1 | +2 | 1d6+1 B | - | - | 1 | analog |
-| frag grenade (1) | 1 | +2 | 1d6 P | - | drawn | L | 20 ft range, explode (15 ft) |
+| light reaction cannon | 1 | +6 | 1d10 P | - | 6/1 | 3 | 90ft range, penetrating |
+| assault hammer | 1 | +4 | 1d6+1 B | - | - | 1 | analog |
+| frag grenade (1) | 1 | +4 | 1d6 P | - | drawn | L | 20 ft range, explode (15 ft) |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
@@ -102,6 +102,7 @@ Genderless Android Ace Pilot Soldier (1)
 #### Feats
 
 - **Toughness**: For every character level you have (and whenever you gain a new level), you gain 1 Stamina Point. In addition, you gain a +4 bonus to Constitution checks to continue running, to avoid damage from a forced march, to hold your breath, and to avoid damage from starvation or thirst. You also gain a +4 bonus to Fortitude saving throws to avoid taking damage from hot or cold environments, to withstand the harmful effects of thick and thin atmospheres, to avoid choking when breathing in heavy smoke, and to avoid fatigue caused by sleep deprivation.
+- **Weapon Focus (heavy weapons)**: +1 attack bonus to heavy weapons
 
 
 ### Proficiencies
