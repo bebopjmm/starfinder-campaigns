@@ -142,6 +142,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (2)
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
 | personal comm | L | 80 / 1/hr ||
 | MK1b healing serum (1)| L | - | 5hp healing  |
+| Starstone Compass | L | - | +2 insight bonus to Piloting checks when astrogating throughout the Pact Worlds system |
 
 ## Background
 
@@ -164,4 +165,4 @@ Taraea wants to explore and learn what the universe has to offer. She believes s
 
 - I am easily enticed by the promise of new discoveries
 
-## Character Developmennt
+## Character Development

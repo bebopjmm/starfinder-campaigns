@@ -21,7 +21,6 @@ Medium humanoid (various, primarily human)
 
 | Stat | Value |
 | ---- | ----- |
-| Size | Medium |
 | Speed | 30 |
 | Init | +4 |
 | HP | 13 |

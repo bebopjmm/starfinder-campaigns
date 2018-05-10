@@ -133,6 +133,7 @@ Genderless Android Ace Pilot Soldier (2)
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
 | personal comm | L | 80 / 1/hr ||
 | MK1b healing serum (2)| 2L | - | 5hp healing |
+| Starstone Compass | L | - | +2 insight bonus to Piloting checks when astrogating throughout the Pact Worlds system  |
 
 ## Background
 

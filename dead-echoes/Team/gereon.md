@@ -24,7 +24,7 @@ Male Human Icon Envoy (2)
 | **Computers (Int:T)** | +7 | 2 ||
 | **Culture (Int:T)** | +8 | 2 |theme|
 | **Diplomacy (Cha)** | +8 | 2 |expertise|
-| **Disguise (Cha)** | +8 | 2 ||
+| **Disguise (Cha)** | +7 | 1 ||
 | **Engineering (Int:T)** | - | 0 ||
 | **Intimidate (Cha)** | +3 | 0 ||
 | Life Science (Int:T) | - | 0 ||
@@ -32,7 +32,7 @@ Male Human Icon Envoy (2)
 | Mysticism (Wis:T) | +0 | 0 ||
 | **Perception (Wis)** | +5 | 2 ||
 | Physical Science (Int:T) | - | 0 ||
-| **Piloting (Dex)** | +5 | 1 ||
+| **Piloting (Dex)** | +6 | 2 ||
 | **Profession: negotiator (Cha:T)** | +8 | 1 |theme|
 | **Sense Motive (Wis)** | +5 | 2 |expertise|
 | **Sleight of Hand (Dex:T)** | +5 | 1 ||
@@ -131,6 +131,7 @@ Male Human Icon Envoy (2)
 | personal comm | L | 80 / 1/hr ||
 | disguise kit | L | - | required for Disguise appearance changes |
 | MK1b healing serum | L | - | 5hp healing  |
+| Starstone Compass | L | - | +2 insight bonus to Piloting checks when astrogating throughout the Pact Worlds system  |
 
 ## Background
 

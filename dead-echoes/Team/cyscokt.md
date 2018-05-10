@@ -158,6 +158,7 @@ Male Shirren Spacefarer Mystic (2)
 | personal comm | L | 80 / 1/hr ||
 | basic medkit | 1 | - ||
 | medpatch (3) | 3L | 1/1 ||
+| Starstone Compass | L | - | +2 insight bonus to Piloting checks when astrogating throughout the Pact Worlds system  |
 
 
 ## Background

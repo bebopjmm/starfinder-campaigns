@@ -2,16 +2,18 @@
 
 ## Open
 
-### Duravor's Death (Open)
+## Closed
+
+### Duravor's Death (Completed)
 
 [Chiskisk](../KeyNPCs/chiskisk.md) tasks the team with investigating if Duravor was just an innocent bystander caught in the crossfire of the gang fight or if was he specifically targeted. They will give each of the members a 200cr ‘signing bonus plus expenses’.
 
 #### Completion
 
 Chiskisk will have any team member interested to officially join the ranks of the Starfinder Society.
+- The team submitted the evidence of Astral Excavations hiring of Downside Kings to eliminate Duravor Kreel.
+- All team members were inducted into the society, gained 1 reputation point, and were each given a *Starstone Compass*
 
-
-## Closed
 
 ### Pest Control (Completed)
 
