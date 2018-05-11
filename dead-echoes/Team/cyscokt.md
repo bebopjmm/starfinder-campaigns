@@ -30,9 +30,9 @@ Male Shirren Spacefarer Mystic (2)
 | **Life Science (Int:T)** | +6 | 2 ||
 | **Medicine (Int)**| +6 | 2 ||
 | **Mysticism (Wis:T)** | +8 | 2 ||
-| **Perception (Wis)** | +9 | 2 |starShaman+1|
+| **Perception (Wis)** | +8 | 1 |starShaman+1|
 | **Physical Science (Int:T)** | +6 | 2 |theme|
-| **Piloting (Dex)** | +5 | 1 |starShaman+1|
+| **Piloting (Dex)** | +6 | 2 |starShaman+1|
 | Profession (varies:T) | +0 | 0 ||
 | **Sense Motive (Wis)** | +7 | 1 ||
 | Sleight of Hand (Dex:T) | - | 0 ||
