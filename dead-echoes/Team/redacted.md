@@ -1,7 +1,7 @@
-# 'Redacted'
-*Redacted is a fervent ysoki hacker that seeks to expose corruption and malfeasance*
+# Nisk, 'Redacted'
+*Nisk is a fervent ysoki hacker that seeks to expose corruption and malfeasance using the handle 'Redacted'*
 
-![Redacted](https://www.dropbox.com/s/21mqefasnx12apx/redacted.jpg?raw=1)
+![Nisk](https://www.dropbox.com/s/21mqefasnx12apx/redacted.jpg?raw=1)
 
 Female Ysoki Outlaw Operative(Hacker) (2)  
 **Homeworld**: Akiton
@@ -147,7 +147,7 @@ Common, Ysoki, Akitonian, Goblin, Vercite
 
 As a ysoki, Qe has a large family with many extended relation both Akiton and throughout the Pact Worlds. While not a crime family, she has many relatives with ties to less than reputable groups, a common situation on her homeworld of Akiton. Qe had always been a bit of a rebel and drawn to technology, dabbling on the edges of the hacker community with her brother, with whom she was particularly close. She and her brother started a small but promising start-up company that was crushed by a mega-corp when they wouldn't accept the ridiculously low buyout offer. This caused her brother to commit suicide and pushed her fully into the criminal tech community seeking vengeance against the mega-corp.
 
-Qe succeed in causing a lot of embarrassment for the mega-corp and ended up with a significant bounty on her head. Also the criminal syndicate she had ties with started pursuing a more sinister path following a leadership change (Aspis Consortium). Realizing that she needed to escape Akiton, Qe's relations aided her in securing an identity scrub, and she took on the name Redacted. The Starfinder Society's recent recruitment drive following the disastrous Scoured Stars incident looked to be the perfect opportunity for a fresh start. A well-placed relative within the Starfinders (and a member of the Dataphiles faction) arranged for her new identity to receive an recruitment offer with starship passage to Absalom Station to meet Duravor Kreel.
+Qe succeed in causing a lot of embarrassment for the mega-corp and ended up with a significant bounty on her head. Also the criminal syndicate she had ties with started pursuing a more sinister path following a leadership change (Aspis Consortium). Realizing that she needed to escape Akiton, Qe's relations aided her in securing an identity scrub, and she took on the name Nisk. The Starfinder Society's recent recruitment drive following the disastrous Scoured Stars incident looked to be the perfect opportunity for a fresh start. A well-placed relative within the Starfinders (and a member of the Dataphiles faction) arranged for her new identity to receive an recruitment offer with starship passage to Absalom Station to meet Duravor Kreel.
 
 ## Personality
 ### Traits
