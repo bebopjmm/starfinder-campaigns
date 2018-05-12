@@ -46,5 +46,3 @@ Gereon's 'trusted establishment' ends up being a higher end gentleman's club. A 
 The group decides the most sensible course of action is to head over the the Lorespire Complex and try to get a meeting with Chiskisk.
 
 Prior to leaving, Nisk distributes the funds from the retrieved credsticks to amongst the team (90c each)
-
-[Breaking News: Docking Bay 94](https://youtu.be/kd66fySRRLk)
