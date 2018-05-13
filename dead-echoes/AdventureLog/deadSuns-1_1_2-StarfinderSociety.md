@@ -57,3 +57,5 @@ On the third try, the team finds a local establishment where Duravor was a regul
 - Talk of the Acreon and the Drift Rock spur lots of wild speculation and rumors.
 
 The drinking and remembrances run late into the night (75cr tab split), and the team ends up crashing at a nearby sleep pods for the night.
+
+- Gereon receives message from father informing him that he has been officially cut off.
