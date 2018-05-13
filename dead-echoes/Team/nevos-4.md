@@ -77,7 +77,7 @@ Genderless Android Ace Pilot Soldier (2)
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
-| heavy rounds | 2 | 3 mags (6, 6, 2) | 1L ||
+| heavy rounds | 2 | 2 mags (6, 6, 1) | 1L ||
 
 ### Abilities
 

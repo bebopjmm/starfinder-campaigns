@@ -71,13 +71,13 @@ Female Lashunta(damaya) Xenoseeker Solarian (2)
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-| longsword | 1 | +5 | 1d8+2 S | - | - | 1 | analog |
-| tactical semi-auto pistol | 1 | +3 | 1d6 P | - | 9/1 | L | analog, 30 ft range |
+| tactical pike | 1 | +5 | 1d8+2 P | - | - | 2 | analog, reach |
+| azimuth pistol | 1 | +3 | 1d4 F | burn 1d4 | 20/1 | L | 80 ft range |
 
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
-| small arms rounds | 1 | 30 | 1L ||
+
 
 
 ### Abilities
@@ -127,7 +127,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (2)
 
 ## Gear
 
-**Credits:** 583
+**Credits:** 293
 
 | Carry | Weight |
 | ----- | ------ |

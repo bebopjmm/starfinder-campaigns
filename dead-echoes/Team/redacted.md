@@ -24,7 +24,7 @@ Female Ysoki Outlaw Operative(Hacker) (2)
 | **Computers (Int:T)** | +10 | 2 |edge,skillFocus|
 | **Culture (Int:T)** | +8 | 2 |edge|
 | Diplomacy (Cha) | +3 | 0 |edge|
-| **Disguise (Cha)** | +7 | 1 |edge|
+| **Disguise (Cha)** | +7 | 1 |edge, *vocalModulator|
 | **Engineering (Int:T)** | +12 | 2 |racial,edge,skillFocus|
 | **Intimidate (Cha)** | +7 | 1 |edge|
 | Life Science (Int:T) | - | 0 ||
@@ -76,7 +76,7 @@ Female Ysoki Outlaw Operative(Hacker) (2)
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
-| small arms rounds | 1 | 30 | 1L ||
+| small arms rounds | 1 | 24 | 1L ||
 
 ### Abilities
 
@@ -111,6 +111,10 @@ Female Ysoki Outlaw Operative(Hacker) (2)
 
 - **Mobility**: +4 bonus to AC against AoO from movement
 
+### Augmentations
+
+- **Vocal Modulator (Cyber-throat)**: You can more easily imitate accents or pronounce alien languages. When using Disguise to change your appearance, you gain a +2 circumstance bonus if the change in your voice also helps your disguise.
+
 ### Proficiencies
 
 - light armor
@@ -124,7 +128,7 @@ Common, Ysoki, Akitonian, Goblin, Vercite
 
 ## Gear
 
-**Credits:** 956
+**Credits:** 810
 
 | Carry | Weight |
 | ----- | ------ |
@@ -138,6 +142,7 @@ Common, Ysoki, Akitonian, Goblin, Vercite
 | ---- | :--: | :------------: | ----- |
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
 | hacker kit | L | - ||
+| engineering kit  | L  | - | - |
 | trapsmith's kit | L | - | +4 Engineering bonus to arm/disarm traps |
 | personal comm | L | 80 / 1/hr ||
 | holoskin | L | 20 / 1/10min | belt mount  |
