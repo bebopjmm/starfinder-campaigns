@@ -19,10 +19,10 @@ Female Lashunta(damaya) Xenoseeker Solarian (2)
 | Skill | Mod | Ranks | Notes
 | ---- | :--: | :---: | ----- |
 | **Acrobatics (Dex)** | +1 | 0 ||
-| **Athletics (Str)** | +7 | 2 ||
+| **Athletics (Str)** | +6 | 1 ||
 | Bluff (Cha) | +3 | 0 ||
 | Computers (Int:T) | - | 0 ||
-| **Culture (Int:T)** | - | 0 ||
+| **Culture (Int:T)** | +5 | 1 ||
 | **Diplomacy (Cha)** | +10 | 2 |racial|
 | Disguise (Cha) | +3 | 0 ||
 | Engineering (Int:T) | - | 0 ||
