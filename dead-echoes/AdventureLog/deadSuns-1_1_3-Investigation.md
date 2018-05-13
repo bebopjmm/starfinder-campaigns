@@ -329,3 +329,5 @@ Chiskisk is also pleased to officially welcome the team members into the ranks o
 The team also contacts Jabaxa, who congratulates them on a well executed assault. He lets them know that they have earned the appreciation of the Level-21 crew and can call in a favor.
 
 ### LEVEL UP!!
+
+Nisk used a good part of her earnings to have a *Vocal Modulator* installed

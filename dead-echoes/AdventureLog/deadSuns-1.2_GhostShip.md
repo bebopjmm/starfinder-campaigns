@@ -62,4 +62,43 @@ The team contacts Nor, who is delighted to hear that they are accepting the assi
 
 ### Mission Prep
 
-Shopping trip to gear up, so off to Diamond Defense and Surplus.
+Shopping trip to gear up, so off to Diamond Defense and Surplus. In addition to ammunition and basic gear, some members got upgrades:
+- Nevos-4: traded ceremonial plate for hidden soldier armor and got anchoring fusion installed on auto cannon
+- Gereon: traded flight suit for second skin
+- Taraea: traded long sword for tactical pike
+
+## Factional Influences
+
+### Astral Investigations
+
+While purchasing new gear at Diamond's, the team received a message from a Ms Joss, Astral Investigations Relations Executive, asking them to attend a private meeting at the corporate headquarters in Bluerise Tower. Intrigued, the team accepts. Ms. Joss warmly greets the team and thanks them for agreeing to meet. The purpose of the meeting, Ms. Joss informs them, is to give the PCs a better sense of Astral Extractions’ corporate philosophy and how that informs the company’s business dealings. She begins with a slickly produced marketing presentation that highlights Astral Extractions’ efforts in discovering, developing, and managing much-needed natural resources from across the galaxy and selling them in the Pact Worlds.
+- It’s clear that the presentation is marketing material for investors and the public, but there’s nothing outright false about the claims made.
+
+Having established the noble services that Astral Extractions provides for companies and citizens throughout the Pact Worlds, Ms. Joss recounts details of the company’s contract with the Hardscrabble Collective—namely, that the Acreon was hired to prospect for unclaimed, unexploited mineral resources on behalf of Astral Extractions, which would then hold all rights and claims to those discoveries. Ms. Joss states that Astral Extractions simply wants what their contract gives them rights to. The Acreon found the Drift Rock—an unclaimed, unexploited mineral resource, as defined in the contract—while working for Astral Extractions, so rights to the asteroid belong to the company.
+- Gereon calls out that certainly seems to be a plausible interpretation of the contract’s terms, but it’s also evident that the contract assumes the Acreon’s crew would simply identify sites for future development by the company. It’s less clear how the terms of the contract might apply to a more portable potential resource—such as a small asteroid that could be brought with the ship itself.
+
+In any event, after presenting her case to the group, Ms. Joss simply asks them to carefully consider the merits of Astral Extractions’ claim and keep open minds while investigating the ship and asteroid. Astral Extractions will, of course, accept the results of Ambassador Nor’s mediation, but Ms. Joss does mention that the company is always interested in hiring competent freelancers for a variety of tasks, and hints—obliquely, of course—that the team could find lucrative employment opportunities in the future if their findings support Astral Extractions’ claims.
+- Taraea makes it clear that she cannot be bought off in this manner
+
+### Hardscrabble Collective
+
+As the team is leaving the Astral Investigations corporate headquarters, they receive a message from Otal Serissi, inviting the team to visit his ship, the Dust Runner, out in the Armada. A shuttle is available and waiting at Dock 153.
+
+A red-skinned human from Akiton, Captain Serissi is also something of an unofficial spokesman for the Hardscrabble Collective, and he wants the PCs to better understand what the Collective stands for. The Dust Runner is a working tramp freighter, practical and utilitarian, with little in the way of luxury or even comfort. Yet Captain Serissi takes great pride in his ship—which is also his home and his livelihood—a fact that is plainly evident as he affably escorts the PCs on a tour of the vessel.
+
+Afterward, Serissi sits down with the PCs in the galley, and over cups of hot black coffee, explains why the fate of the Acreon, and especially its crew, is so important to the Hardscrabble Collective. The Collective’s members aren’t rich; most of them scratch out whatever meager livings they can from the rocks of the Diaspora, so the occasional corporate contract—like the Acreon’s contract with Astral Extractions— is an opportunity few have the luxury to refuse. But the Collective values its independence and freedom greatly, and it constantly struggles against exploitation and even takeovers at the hands of would-be corporate overlords. It’s clear that the crew of the Acreon staked their own claim on the Drift Rock, believing that the terms of their contract allowed them to do so. Is it any surprise that the Hardscrabble Collective would be suspicious of Astral Extractions’ attempts to lay sole claim to the Acreon and the Drift Rock following the mysterious circumstances of their arrival at Absalom Station?
+
+The members of the Hardscrabble Collective call themselves a clan, and they mean it. Once you join, you’re family. Members look out for each other, defend each other, and care for each other. The Collective doesn’t know what value, if any, the Drift Rock might have, but they know the worth of their brothers and sisters on the Acreon. They need to know what happened to the Acreon’s crew, as any family needs to know the fate of their loved ones. And if the worst has happened, then perhaps whatever wealth the Drift Rock holds can help ease the loss of the families left behind. That’s all they really care about.
+
+Captain Serissi tells the PCs that the Hardscrabble Collective isn’t disputing Astral Extractions’ contract with the Acreon; they’re happy to turn all of the files and findings from the ship’s prospecting mission over to the company, but the ship, and the claim its crew staked on the Drift Rock, belong to the Collective. Before ferrying the PCs back to Absalom Station, Serissi wishes them good luck on their investigation of the Acreon and implores them to do their best to find out what happened to the ship’s crew.
+
+- Nevos-4 asks if Capt Serrissi has the floorplan schematics of the Acreon. The captain transfers the data to the team.
+
+### Starfinder Society factions
+
+Each of the factions reach out to different team members  with an objective
+
+- Exo-guardians reach out to Nevos-4: eradication of any immediate threats on Acreon or Drift Rock and identify any broader threat
+- Wayfinders reach out to Cyscokt and Taraea: does the Drift Rock hold clues to anything of interest
+- Second-seekers reach out to Gereon: emphasis on this mission will likely be high profile and SFS needs to be shown in the best light possible
+- Datafiles reach out to Nisk: collect and report any and all information related to the Acreon and Drift Rock to faction first.

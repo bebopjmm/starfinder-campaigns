@@ -77,7 +77,6 @@ Male Shirren Spacefarer Mystic (2)
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
-| battery | 1 | 20 | - ||
 
 ### Spells
 
@@ -142,7 +141,7 @@ Male Shirren Spacefarer Mystic (2)
 
 ## Gear
 
-**Credits:** 725
+**Credits:** 545
 
 | Carry | Weight |
 | ----- | ------ |

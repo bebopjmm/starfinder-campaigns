@@ -18,8 +18,8 @@ Genderless Android Ace Pilot Soldier (2)
 
 | Skill | Mod | Ranks | Notes
 | ---- | :--: | :---: | ----- |
-| **Acrobatics (Dex)** | +8/+6 | 2 |acp|
-| **Athletics (Str)** | +6/+4 | 2 |acp|
+| **Acrobatics (Dex)** | +8/+7 | 2 |acp|
+| **Athletics (Str)** | +6/+5 | 2 |acp|
 | Bluff (Cha) | -1 | 0 ||
 | Computers (Int:T) | - | 0 ||
 | Culture (Int:T) | +3 | 1 ||
@@ -36,13 +36,13 @@ Genderless Android Ace Pilot Soldier (2)
 | Profession (varies:T) | +0 | 0 ||
 | Sense Motive (Wis) | -2 | 0 |racial|
 | Sleight of Hand (Dex:T) | - | 0 |acp|
-| Stealth (Dex) | +3/+1 | 0 |acp|
+| Stealth (Dex) | +3/+2 | 0 |acp|
 | **Survival (Wis)** | +5 | 2 ||
 
 | Stat | Value |
 | ---- | ----- |
 | Size | Medium |
-| Speed | 30/20 |
+| Speed | 30/25 |
 | Init | +3 |
 
 ### Combat
@@ -57,11 +57,11 @@ Genderless Android Ace Pilot Soldier (2)
 
 | Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
 | ----- | :-: | :-: | :-: | :-----: | :-: | :---: | :---: | :--: |
-| Ceremonial Plate | 1 | +1 | +3 | +3 * | -2 * | -10 | 3 | 3 |
+| hidden soldier armor | 2 | +3 | +5 | +3 * | -1 * | -5 | 1 | 2 |
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
-| 14 | 16 | 24 |
+| 16 | 18 | 26 |
 
 #### Attack Bonuses : BAB +2
 
@@ -71,13 +71,13 @@ Genderless Android Ace Pilot Soldier (2)
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-| light reaction cannon | 1 | +6 | 1d10 P | - | 6/1 | 3 | 90ft range, penetrating |
+| *light reaction cannon | 1 | +6 | 1d10 P | *anchoring | 6/1 | 3 | 90ft range, penetrating, *anchoring fusion |
 | assault hammer | 1 | +4 | 1d6+1 B | - | - | 1 | analog |
 | frag grenade (1) | 1 | +4 | 1d6 P | - | drawn | L | 20 ft range, explode (15 ft) |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
-| heavy rounds | 2 | 2 mags (6, 6, 1) | 1L ||
+
 
 ### Abilities
 
@@ -118,7 +118,7 @@ Genderless Android Ace Pilot Soldier (2)
 
 ## Gear
 
-**Credits:** 768
+**Credits:** 148
 
 | Carry | Weight |
 | ----- | ------ |
@@ -132,7 +132,6 @@ Genderless Android Ace Pilot Soldier (2)
 | ---- | :--: | :------------: | ----- |
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
 | personal comm | L | 80 / 1/hr ||
-| MK1b healing serum (2)| 2L | - | 5hp healing |
 | Starstone Compass | L | - | +2 insight bonus to Piloting checks when astrogating throughout the Pact Worlds system  |
 
 ## Background

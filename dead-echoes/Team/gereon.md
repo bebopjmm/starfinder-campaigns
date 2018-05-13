@@ -57,11 +57,11 @@ Male Human Icon Envoy (2)
 
 | Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
 | ----- | :-: | :-: | :-: | :-----: | :---: | :---: | :---: | :--: |
-| Stationwear, flight suit | 1 | +0 | +1 | +6 | - | - | 0 | L |
+| second skin | 1 | +1 | +2 | +5 | - | - | 1 | L |
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
-| 11 | 12 | 20 |
+| 12 | 13 | 21 |
 
 #### Attack Bonuses : BAB +1
 
@@ -72,11 +72,11 @@ Male Human Icon Envoy (2)
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
 | survival knife | 1 | +1 | 1d4 S | - | - | L | analog, operative |
-| tactical semi-auto pistol | 1 | +3 | 1d6 P | - | 9/1 |L | analog, 30 ft range |
+| tactical semi-auto pistol | 1 | +3 | 1d6 P | - | 9/1 | L | analog, 30 ft range |
+| azimuth laser pistol | 1 | +3 | 1d4 F | burn 1d4 | 20/1 | L | 80 ft range |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
-| small arms rounds | 1 | 30 | 1L ||
 
 
 ### Abilities
@@ -115,7 +115,7 @@ Male Human Icon Envoy (2)
 
 ## Gear
 
-**Credits:** 706
+**Credits:** 456
 
 | Carry | Weight |
 | ----- | ------ |
