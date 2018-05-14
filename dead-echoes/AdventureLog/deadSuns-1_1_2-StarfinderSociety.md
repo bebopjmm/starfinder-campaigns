@@ -3,8 +3,10 @@
 [Breaking News: Docking Bay 94](https://youtu.be/kd66fySRRLk)
 
 ## The Starfinder Society
+![Lorespire Complex](https://www.dropbox.com/s/iy6vrfuobs97ake/lorespireComplex.jpg?raw=1)  
+The team reached the Lorespire Complex around mid-afternoon, traveling by robo-taxi from the Arms to the Ring sector. Checking in with the receptionist, they request to see Chiskisk. The receptionist points them toward a small waiting room and politely asks them to wait. After several minutes, a functionary arrives to lead them to a cluttered but clean office deep in the complex. Seated behind a polished and unadorned plastic desk, Chiskisk wears understated business clothes and is nervously flexing their antennae from side to side—a shirren expression of perplexity. Chiskisk welcomes the group, offers them refreshments (filtered water and processed-protein wafers), and bids them sit down before introducing themself.
 
-The team reached the Lorespire Complex by 1445, traveling by robo-taxi from the Arms to the Ring sector (5c paid by Cyscokt). Checking in with the receptionist, they request to see Chiskisk. The receptionist points them toward a small waiting room and politely asks them to wait. After several minutes, a functionary arrives to lead them to a cluttered but clean office deep in the complex. Seated behind a polished and unadorned plastic desk, Chiskisk wears understated business clothes and is nervously flexing their antennae from side to side—a shirren expression of perplexity. Chiskisk welcomes the group, offers them refreshments (filtered water and processed-protein wafers), and bids them sit down before introducing themself.
+![Chiskisk](https://www.dropbox.com/s/pars21ve039xx86/chiskisk.jpg?raw=1)
 
 Chiskisk is puzzled about their unescorted arrival at the Lorespire Complex, and asks them where the dwarf is. Gereon shares the tragic news of the gangfight at Dock 94 and Duravor's death. At this point the shirren gets down to business, speaking telepathically in the PCs’ heads.
 
