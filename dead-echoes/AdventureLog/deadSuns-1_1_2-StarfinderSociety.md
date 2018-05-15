@@ -44,7 +44,11 @@ The team decided to check out the apartment before going to the Moons of Sleep.
 
 ## Duravor's Apartment
 
-Drifter's Edge is walkable from the Lorespire Complex. Using the infoPad to gain entry, they find Duravor's home to be a small, very unkempt efficiency apartment. Spotting a computer terminal in the living area, Nisk gets to work while the others search the rest of the apartment.
+Drifter's Edge is walkable from the Lorespire Complex. Using the infoPad to gain entry, they find Duravor's home to be a small, very unkempt efficiency apartment.
+
+![Duravor's Apartment](https://www.dropbox.com/s/dxym0kwp0ezqnw2/duravorsApartment.jpg?raw=1)
+
+Spotting a computer terminal in the living area, Nisk gets to work while the others search the rest of the apartment.
 
 - checking the kitchenette, its obvious that Duravor subsisted on beer and takeout
 	- Cyscokt notes that he seems to favor a restaurant called Mama Fats
@@ -62,6 +66,8 @@ Nisk recommends checking out a couple of the local watering holes — they may b
 
 ## Paralax Cantina
 
+![Paralax Cantina](https://www.dropbox.com/s/5iwzwsygb612x3n/paralaxCantina.jpg?raw=1)
+
 On the third try, the team finds a local establishment where Duravor was a regular. Once folks learn of Duravor's death, an impromptu wake commences.
 
 - lots of confirmation of what team had learned about Duravor, but no new real insights.
@@ -73,6 +79,6 @@ On the third try, the team finds a local establishment where Duravor was a regul
 	- Fearing retribution from powerful corporate interests, the Hardscrabble Collective has recently hired the Level 21 Crew for protection.
 - Talk of the Acreon and the Drift Rock spur lots of wild speculation and rumors.
 
-The drinking and remembrances run late into the night (75cr tab split), and the team ends up crashing at a nearby sleep pods for the night.
+The drinking and remembrances run late into the night, and the team ends up crashing at some nearby sleep pods for the night.
 
-- Gereon receives message from father informing him that he has been officially cut off.
+![Absalom Sleep Pods](https://www.dropbox.com/s/rwygfy8d8s5hao4/absalomSleepPods.jpg?raw=1)
