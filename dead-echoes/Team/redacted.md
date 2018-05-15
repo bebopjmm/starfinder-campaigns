@@ -128,7 +128,7 @@ Common, Ysoki, Akitonian, Goblin, Vercite
 
 ## Gear
 
-**Credits:** 810
+**Credits:** 800
 
 | Carry | Weight |
 | ----- | ------ |
@@ -140,6 +140,7 @@ Common, Ysoki, Akitonian, Goblin, Vercite
 
 | Item | Bulk | Capacity/Usage | Notes |
 | ---- | :--: | :------------: | ----- |
+| zero-G environmental clothing | L | - | +2 circumstance bonus to Acrobatics or Athletics checks to stop movement or climb along handholds in zero-g |
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
 | hacker kit | L | - ||
 | engineering kit  | L  | - | - |

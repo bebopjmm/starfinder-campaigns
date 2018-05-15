@@ -141,7 +141,7 @@ Male Shirren Spacefarer Mystic (2)
 
 ## Gear
 
-**Credits:** 545
+**Credits:** 535
 
 | Carry | Weight |
 | ----- | ------ |
@@ -153,6 +153,7 @@ Male Shirren Spacefarer Mystic (2)
 
 | Item | Bulk | Capacity/Usage | Notes |
 | ---- | :--: | :------------: | ----- |
+| zero-G environmental clothing | L | - | +2 circumstance bonus to Acrobatics or Athletics checks to stop movement or climb along handholds in zero-g |
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
 | personal comm | L | 80 / 1/hr ||
 | basic medkit | 1 | - ||

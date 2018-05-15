@@ -127,7 +127,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (2)
 
 ## Gear
 
-**Credits:** 293
+**Credits:** 283
 
 | Carry | Weight |
 | ----- | ------ |
@@ -139,6 +139,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (2)
 
 | Item | Bulk | Capacity/Usage | Notes |
 | ---- | :--: | :------------: | ----- |
+| zero-G environmental clothing | L | - | +2 circumstance bonus to Acrobatics or Athletics checks to stop movement or climb along handholds in zero-g |
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
 | personal comm | L | 80 / 1/hr ||
 | MK1b healing serum (1)| L | - | 5hp healing  |
