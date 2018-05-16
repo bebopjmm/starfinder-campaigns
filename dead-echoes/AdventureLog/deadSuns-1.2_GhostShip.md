@@ -94,6 +94,8 @@ Captain Serissi tells the PCs that the Hardscrabble Collective isn’t disputing
 
 - Nevos-4 asks if Capt Serrissi has the floorplan schematics of the Acreon. The captain transfers the data to the team.
 
+![Acreon Schematic](https://www.dropbox.com/s/p5mujkk9c10ggdo/acreon.jpg?raw=1)
+
 ### Starfinder Society factions
 
 Each of the factions reach out to different team members  with an objective

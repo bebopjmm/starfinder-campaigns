@@ -4,7 +4,11 @@
 
 As promised, Gevalarsk Nor has procured a ship for the PCs—the shuttle Hippocampus, which is waiting in a private docking bay. The Hippocampus is one of numerous shuttles that regularly ferry passengers and cargo between Absalom Station and visiting ships that either are too big to dock directly with the station or prefer to remain among the ships of the Armada. Originally a Ringworks Wanderer model, the Hippocampus has been heavily modified for station security use, and Nor has further modified it for the PCs’ expedition with upgraded armor, defenses, shields, power core, and sensors, and the addition of a turret-mounted coilgun.
 
-*Team Reactions to the Ship*
+![Hippocampus](https://www.dropbox.com/s/ox7zgkdyath30x1/hippocampus.png?raw=1)
+
+Once they boarded the ship, they discovered one other surprise. A small observer robot welcomed everyone aboard and informed them that it would be accompanying the team and record their expedition. The ambassador wanted an objective record that he could provide to both sides as a foundation for his mediation efforts.
+
+*Team Reactions to the Ship and the Observer*
 
 Ship Assignments:
 
@@ -16,9 +20,11 @@ Ship Assignments:
 
 The Hippocampus’s thrusters take only a couple of minutes to warm up, Absalom Traffic Control gives clearance for takeoff, and the PCs launch into space. No Piloting check is needed; the PCs’ destination is not far from Absalom Station and the course has been preprogrammed into the shuttle’s computer. It takes the PCs only 2 hours to reach the quarantine zone around the Acreon and the Drift Rock. Along the way, they can get a good view of the exterior of Absalom Station, as well as the so-called Armada, the endlessly moving fleet of independent ships that surrounds the gigantic space platform.
 
-## Interceptor attack
+## Interceptor attack!
 
 Shortly after passing through the last fringes of the Armada, the Hippocampus’s sensors picked up a small ship that had detached itself from the bulk of the Armada and turned toward the shuttle on an intercept course. Strangely, however, the ship’s transponder did not seem to be working—it wasn't broadcasting any identification codes, and the ship did not respond to any hails. An alarm suddenly sounded in the cockpit of the Hippocampus—the mystery ship was armed, and targeting it's weapons on the shuttle! Battle stations!!
+
+![Interceptor Attack!](https://www.dropbox.com/s/uovjfwat5fuso2s/interceptorAttack.jpg?raw=1)
 
 ### Round 1
 
@@ -107,6 +113,8 @@ Shortly after passing through the last fringes of the Armada, the Hippocampus’
 
 The enemy ship is disabled and veers off. Victory!
 Now on to the Acreon.
+
+### Development
 
 ## Arrival at the Acreon
 
