@@ -57,7 +57,7 @@ Female Ysoki Outlaw Operative(Hacker) (2)
 
 | Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
 | ----- | :-: | :-: | :-: | :-----: | :-: | :---: | :---: | :--: |
-| second skin | 1 | +1 | +2 | +5 | - | - | 1 | L |
+| second skin | 1 | +1 | +2 | +5 | - | - | quick-release sheath | L |
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
@@ -67,16 +67,18 @@ Female Ysoki Outlaw Operative(Hacker) (2)
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
-| +0 | +4 | +0 |
+| +1 | +4 | +1 |
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-| tactical baton | 1 | +4 | 1d4 B | - | - | L | analog, operative |
-| tactical semi-auto pistol | 1 | +4 | 1d6 P | - | 9/1 |L | analog, 30 ft range, called fusion |
+| tactical baton | 1 | +4 | 1d4 B | - | - | L | analog, operative (quick-release) |
+| tactical semi-auto pistol | 1 | +4 | 1d6 P | - | 9/1 | L | analog, 30ft range, called fusion |
+| azimuth pistol | 1 | +3 | 1d4 F | burn 1d4 | 20/1 | L | 80ft range |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
-| small arms rounds | 1 | 24 | 1L ||
+| small arms clips | 1 | 9/9/9 | -  |   |
+| battery | 1 | 20 | - |   |
 
 ### Abilities
 
@@ -134,19 +136,19 @@ Common, Ysoki, Akitonian, Goblin, Vercite
 | ----- | ------ |
 | Unencumbered | 6 |
 | Encumbered | 10 |
-| Current | 0 |
+| Current | 1.1 |
 
 ### Equipment
 
 | Item | Bulk | Capacity/Usage | Notes |
 | ---- | :--: | :------------: | ----- |
-| zero-G environmental clothing | L | - | +2 circumstance bonus to Acrobatics or Athletics checks to stop movement or climb along handholds in zero-g |
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
 | hacker kit | L | - ||
 | engineering kit  | L  | - | - |
 | trapsmith's kit | L | - | +4 Engineering bonus to arm/disarm traps |
 | personal comm | L | 80 / 1/hr ||
 | holoskin | L | 20 / 1/10min | belt mount  |
+| MK1b healing serum | L | - | 5hp healing  |
 | Starstone Compass | L | - | +2 insight bonus to Piloting checks when astrogating throughout the Pact Worlds system |
 
 ## Background

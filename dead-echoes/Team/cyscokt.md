@@ -77,6 +77,7 @@ Male Shirren Spacefarer Mystic (2)
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
+| battery | 1 | 20 | - |   |
 
 ### Spells
 
@@ -147,17 +148,17 @@ Male Shirren Spacefarer Mystic (2)
 | ----- | ------ |
 | Unencumbered | 1-8 |
 | Encumbered | 8-14 |
-| Current | 2 |
+| Current | 3.8 |
 
 ### Equipment
 
 | Item | Bulk | Capacity/Usage | Notes |
 | ---- | :--: | :------------: | ----- |
-| zero-G environmental clothing | L | - | +2 circumstance bonus to Acrobatics or Athletics checks to stop movement or climb along handholds in zero-g |
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
 | personal comm | L | 80 / 1/hr ||
 | basic medkit | 1 | - ||
 | medpatch (3) | 3L | 1/1 ||
+| mk1b healing serum | L | 1/1 | 5hp healing  |
 | Starstone Compass | L | - | +2 insight bonus to Piloting checks when astrogating throughout the Pact Worlds system  |
 
 

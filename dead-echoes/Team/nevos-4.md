@@ -74,9 +74,11 @@ Genderless Android Ace Pilot Soldier (2)
 | *light reaction cannon | 1 | +6 | 1d10 P | *anchoring | 6/1 | 3 | 90ft range, penetrating, *anchoring fusion |
 | assault hammer | 1 | +4 | 1d6+1 B | - | - | 1 | analog |
 | frag grenade (1) | 1 | +4 | 1d6 P | - | drawn | L | 20 ft range, explode (15 ft) |
+| incendiary grenade mk1 | 2 | +1 | 1d6F, 1d4 burn | - | drawn | L | 20ft range, explode 5ft |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
+| heavy round clips | 1 | 6/6/6 | L |   |
 
 
 ### Abilities
@@ -124,15 +126,15 @@ Genderless Android Ace Pilot Soldier (2)
 | ----- | ------ |
 | Unencumbered | 0-8 |
 | Encumbered | 8-15 |
-| Current | 7.6 |
+| Current | 6.6 |
 
 ### Equipment
 
 | Item | Bulk | Capacity/Usage | Notes |
 | ---- | :--: | :------------: | ----- |
-| zero-G environmental clothing | L | - | +2 circumstance bonus to Acrobatics or Athletics checks to stop movement or climb along handholds in zero-g |
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
 | personal comm | L | 80 / 1/hr ||
+| MK1b healing serum | L | - | 5hp healing  |
 | Starstone Compass | L | - | +2 insight bonus to Piloting checks when astrogating throughout the Pact Worlds system  |
 
 ## Background

@@ -72,11 +72,13 @@ Male Human Icon Envoy (2)
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
 | survival knife | 1 | +1 | 1d4 S | - | - | L | analog, operative |
-| tactical semi-auto pistol | 1 | +3 | 1d6 P | - | 9/1 | L | analog, 30 ft range |
-| azimuth laser pistol | 1 | +3 | 1d4 F | burn 1d4 | 20/1 | L | 80 ft range |
+| tactical semi-auto pistol | 1 | +3 | 1d6P | - | 9/1 | L | analog, 30ft range |
+| azimuth laser pistol | 1 | +3 | 1d4F | burn 1d4 | 20/1 | L | 80ft range |
+| incendiary grenade mk1 | 2 | +1 | 1d6F, 1d4 burn | - | drawn | L | 20ft range, explode 5ft |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
+| small arms clips | 1 | 9/9/9 | - |   |
 
 
 ### Abilities
@@ -121,16 +123,14 @@ Male Human Icon Envoy (2)
 | ----- | ------ |
 | Unencumbered | 1-7 |
 | Encumbered | 7-12 |
-| Current | 0 |
+| Current | 1.7 |
 
 ### Equipment
 
 | Item | Bulk | Capacity/Usage | Notes |
 | ---- | :--: | :------------: | ----- |
-| zero-G environmental clothing | L | - | +2 circumstance bonus to Acrobatics or Athletics checks to stop movement or climb along handholds in zero-g |
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
 | personal comm | L | 80 / 1/hr ||
-| disguise kit | L | - | required for Disguise appearance changes |
 | MK1b healing serum | L | - | 5hp healing  |
 | Starstone Compass | L | - | +2 insight bonus to Piloting checks when astrogating throughout the Pact Worlds system  |
 
