@@ -120,14 +120,14 @@ Male Shirren Spacefarer Mystic (2)
 
 #### Mystic
 
-- **Healing Touch**: Once per day, you can spend 10 minutes to magically heal an ally up to 5 Hit Points per mystic level.
+- **Healing Touch (10hp)**: Once per day, you can spend 10 minutes to magically heal an ally up to 5hp per mystic level.
 - **Star Shaman Connection**
 	- **Walking the Void**: You are immune to the harmful environmental effects of outer space and vacuum. You also gain a fly speed of 20 feet while in space. In addition, whenever you can see the stars, you can determine your precise location.
 - **Mindlink**: You can form a mental link with creatures you touch, communicating information rapidly through it. You can use mindlink at will as a spell-like ability, though only once per day on any given individual.
 
 #### Feats
 
-- **Medical Expert**: You can use the Medicine skill in conjunction witha medpatch or sprayflesh to treat deadly wounds as a full action. When used in this way, the medpatch or sprayflesh does not perform any of its normal functions. You can also use the Medicine skill to provide long-term care with just a medkit.
+- **Medical Expert**: You can use the Medicine skill in conjunction with a medpatch or sprayflesh to treat deadly wounds as a full action. When used in this way, the medpatch or sprayflesh does not perform any of its normal functions. You can also use the Medicine skill to provide long-term care with just a medkit.
 
 
 ### Proficiencies

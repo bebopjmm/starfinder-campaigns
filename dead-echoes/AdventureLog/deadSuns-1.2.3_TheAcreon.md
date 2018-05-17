@@ -89,4 +89,36 @@ Decide to stick to the plan an make directly for the bridge, but everyone extra 
 - Nevos-4 takes a guarded step and hits last akata with hammer (4dmg) killing it
 
 ### Development
-Nisk quickly secures the bridge door
+Nisk quickly secures the bridge door as Gereon succumbs to the infection. Take 10 break:
+- Nevos-4 spends Resolve point to recover stamina
+- cyscokt casts *Detect Affliction* on Gereon
+  - confirms he is diseased but cannot discern other details
+- cyscokt uses medkit to *Treat Disease* granting +4 bonus to Gereon's next check
+- Taraea investigates the area and finds the 3 cocoons
+  - identifies them as noqual and worth 500cr each
+  - this triggers her recall of how akata hibernate
+- Nisk checks out controls and computer stations, gaining basic access to the systems
+  - closes and secures all ship doors
+  - restores ship lighting to normal levels
+  - closes all air hatches and begins to repressurize the ship (3 min to complete)
+
+#### Hacking the System
+Team decides it is critical to hack into the secure files.
+- Gereon aids Nisk and after an initial failure, they gain access and discover another firewall to ship Logs
+- Gereon is too fatigued to effectily help, but Nisk gets in on third try!
+
+#### Ships logs
+The logs detail the discovery of the Drift Rock, the crew’s initial exploration of the asteroid’s surface and the strange “geodes” they found there. The captain then states that the crew was under attack from monsters that “hatched” from the geodes they brought back to the ship.
+-  the description of the monsters matches the akatas that the PCs have already faced
+
+The next entry is more hurried, and the sounds of combat are audible in the background.
+>“There’s something else—it came from the rock!” the captain reports with more than a trace of panic in his voice. “We’re getting overwhelmed! I’m going to open the ship to vacuum—maybe that’ll slow them down!”
+
+The log’s final entry was recorded in Engineering and shows the captain in his space suit.
+>“Purging the air didn’t work. I’ve set the autopilot to continue on to Absalom Station, but we’re abandoning ship. We’ll fall back to the rock and try to regroup there. Acreon out.”
+
+That was the final entry
+
+#### Path Ahead
+- cyscokt is insistent that Gereon is in no condition to fight
+  - nevos-4 has idea that he can remain on bridge as rest of team clears the ship, controlling door access
