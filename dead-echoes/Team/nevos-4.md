@@ -51,7 +51,7 @@ Genderless Android Ace Pilot Soldier (2)
 | ------ | :-----: | :-----: |
 | Stamina | 20 | 20 |
 | Hp | 18 | 18 |
-| Resolve | 4 | 4 |
+| Resolve | 4 | 3 |
 
 #### Defense
 
@@ -126,13 +126,14 @@ Genderless Android Ace Pilot Soldier (2)
 | ----- | ------ |
 | Unencumbered | 0-8 |
 | Encumbered | 8-15 |
-| Current | 6.6 |
+| Current | 6.7 |
 
 ### Equipment
 
 | Item | Bulk | Capacity/Usage | Notes |
 | ---- | :--: | :------------: | ----- |
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
+| flashlight | L | 10/ 1/hr | 20ft cone of light, strapped to assault cannon |
 | personal comm | L | 80 / 1/hr ||
 | MK1b healing serum | L | - | 5hp healing  |
 | Starstone Compass | L | - | +2 insight bonus to Piloting checks when astrogating throughout the Pact Worlds system  |

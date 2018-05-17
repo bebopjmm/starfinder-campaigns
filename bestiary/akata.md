@@ -54,7 +54,7 @@ N Medium aberration
   - **Save**: Fortitude DC10
   - **Track**: Physical
   - **Frequency**: 1/day
-  - **Effect**:  No latent/carrier state; an infected creature that dies rises as a void zombie) 2d4 hours later.
+  - **Effect**:  No latent/carrier state; an infected creature that dies rises as a void zombie 2d4 hours later.
   - **Cure**: 2 consecutive saves
 
 ## Description

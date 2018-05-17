@@ -73,7 +73,7 @@ Male Human Icon Envoy (2)
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
 | survival knife | 1 | +1 | 1d4 S | - | - | L | analog, operative |
 | tactical semi-auto pistol | 1 | +3 | 1d6P | - | 9/1 | L | analog, 30ft range |
-| azimuth laser pistol | 1 | +3 | 1d4F | burn 1d4 | 20/1 | L | 80ft range |
+| azimuth laser pistol | 1 | +3 | 1d4F | burn 1d4 | 19/1 | L | 80ft range |
 | incendiary grenade mk1 | 2 | +1 | 1d6F, 1d4 burn | - | drawn | L | 20ft range, explode 5ft |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
@@ -123,13 +123,14 @@ Male Human Icon Envoy (2)
 | ----- | ------ |
 | Unencumbered | 1-7 |
 | Encumbered | 7-12 |
-| Current | 1.7 |
+| Current | 1.8 |
 
 ### Equipment
 
 | Item | Bulk | Capacity/Usage | Notes |
 | ---- | :--: | :------------: | ----- |
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
+| flashlight | L | 10/ 1/hr | 20ft cone of light  |
 | personal comm | L | 80 / 1/hr ||
 | MK1b healing serum | L | - | 5hp healing  |
 | Starstone Compass | L | - | +2 insight bonus to Piloting checks when astrogating throughout the Pact Worlds system  |

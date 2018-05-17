@@ -132,3 +132,4 @@ Taraea also wants a scan of the Drift airlock, but Gereon reported that somethin
 
 1. Which airlock?
 2. Gear up
+  1. gravity on ship, so no need for zero-G clothing

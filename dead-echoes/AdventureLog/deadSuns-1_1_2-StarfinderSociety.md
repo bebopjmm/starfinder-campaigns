@@ -14,23 +14,23 @@ Seated behind a polished and unadorned plastic desk, a shirren garbed in underst
 
 The shirren bowed their head momentarily, then looked up, their compound eyes glittering. Cyscokt inquired if Chiskisk knew Durarvor well, to which they replied,
 
-> Duravor Kreel was a midranking member of the Starfinder Society. Most of his work focused on mineral prospecting, but he also took an interest in mentoring new and prospective members of the Society. What puzzles me most is the reason behind this attack.”
+>"We had worked with Duravor Kreel for many years. He was a midranking member of the Starfinder Society. Most of his work focused on mineral prospecting, but he also took an interest in mentoring new and prospective members of the Society. After his sister's tragic death a few year's back in a mining accident, the Starfinder Society became the closest thing he had left to family. Duravor will be greatly missed by many here. What puzzles us most is the reason behind this attack.”
 
 Chiskisk tapped a few commands into their computer, then continued.
 
->“According to the incident report just released by station security, two gangs were involved in the attack: the Downside Kings and the Level 21 Crew. Gang wars are not uncommon on the station, but they usually confine themselves to the more lawless sectors like the Puddles. It is rare for street gangs to battle openly in public areas like the docks. I cannot help but wonder whether all is as it seems. There must be a reason why those two gangs were at Docking Bay 94 at that time—the time of your arrival, coincidentally. But was it coincidence? Were you and Duravor just innocent bystanders caught in the crossfire, or might you and he have been specifically targeted? And if so, why?  
-“My understanding is that you are interested in becoming Starfinders, and since you were witnesses to the attack, I would like to ask you to investigate the incident on behalf of the Society. Find out exactly what happened and why. It may simply be a matter of being in the wrong place at the wrong time—I have no doubt station security will rule it so—but if Duravor was murdered, I would like to find justice for my friend.
+>“According to the incident report just released by station security, two gangs were involved in the attack: the Downside Kings and the Level 21 Crew, just as you said. Gang wars are not uncommon on the station, but they usually confine themselves to the more lawless sectors like the Puddles. It is rare for street gangs to battle openly in public areas like the docks. We cannot help but wonder whether all is as it seems. There must be a reason why those two gangs were at Docking Bay 94 at that time—the time of your arrival, coincidentally. But was it coincidence? Were you and Duravor just innocent bystanders caught in the crossfire, or might you and he have been specifically targeted? And if so, why?  
+“Our understanding is that you are interested in becoming Starfinders, and since you were witnesses to the attack, we would like to ask you to investigate the incident on behalf of the Society. Find out exactly what happened and why. It may simply be a matter of being in the wrong place at the wrong time—we have no doubt station security will rule it so—but if Duravor was murdered, we would like to find justice for my friend.
 
 *How Do the Party Members React to this request?*  
 - Cyscokt: justice, not vengeance
 - Gereon: interested, will request Duravor's home address
 - Nevos-4: such brazen attacks cannot be ignored
 - Nisk: we're gonna need resources to tackle a job like this
-- Tarea: ready to prove herself and jumps at the opportunity
+- Taraea: ready to prove herself and jumps at the opportunity
 
 After a few more taps at their computer, they continued
 - Chiskisk gives their personal comm code to the group, so they can call and report as necessary
-- Chiskisk also transfers 200 credits to each of the teammember’s accounts (a “signing bonus plus expenses,” the shirren calls it) and suggests they get settled on the station before starting their investigation.
+- Chiskisk also transfers 200 credits to each of the team member’s accounts (a “signing bonus plus expenses,” the shirren calls it) and suggests they get settled on the station before starting their investigation.
 	- recommends a small hotel called the Moons of Sleep. Located just a short walk from the parks and towers of the Eye, the hotel is centrally located, and has both efficiencies and suites available. Chiskisk provides a digital voucher that will qualify them for the Starfinder discount.
 
 
