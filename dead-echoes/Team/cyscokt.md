@@ -1,11 +1,10 @@
 # Cyscokt
 *tagline*
 
-![]()
+![Cyscokt](https://www.dropbox.com/s/q8v1jg6kf51dbqb/cyscokt.jpg?raw=1)
 
-Male Shirren Spacefarer Mystic (Level)
-
-Homeworld: The Diaspora
+Male Shirren Spacefarer Mystic (2)  
+**Homeworld**: The Diaspora
 
 ## Stats
 
@@ -13,11 +12,9 @@ Homeworld: The Diaspora
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 |Mod (Val)| +1 (12) | +0 (10) | +2 (14) | +1 (12) | +3 (16) | -1 (9) |
 
-| Save | Mod |
-| ---- | --- |
-| Fort (Con) | +2 |
-| Reflex (Dex) | +0 |
-| Will (Wis) | +5 |
+| Save | Fort (Con) | Reflex (Dex) | Will (Wis) |
+| ---- | :--------: | :----------: | :--------: |
+| Mod | +2 | +0 | +6 |
 
 | Skill | Mod | Ranks | Notes
 | ---- | :--: | :---: | ----- |
@@ -25,19 +22,19 @@ Homeworld: The Diaspora
 | Athletics (Str) | +1 | 0 ||
 | **Bluff (Cha)** | -1 | 0 ||
 | Computers (Int:T) | - | 0 ||
-| **Culture (Int:T)** | +7 | 1 |racial|
+| **Culture (Int:T)** | +8 | 2 |racial|
 | **Diplomacy (Cha)** | +1 | 0 |racial|
 | **Disguise (Cha)** | -1 | 0 ||
 | Engineering (Int:T) | - | 0 ||
 | **Intimidate (Cha)** | -1 | 0 ||
-| **Life Science (Int:T)** | +5 | 1 ||
-| **Medicine (Int)**| +5 | 1 ||
-| **Mysticism (Wis:T)** | +7 | 1 ||
-| **Perception (Wis)** | +7 | 1 |starShaman|
-| **Physical Science (Int:T)** | +5 | 1 |theme|
-| **Piloting (Dex)** | +4 | 1 |starShaman|
+| **Life Science (Int:T)** | +6 | 2 ||
+| **Medicine (Int)**| +6 | 2 ||
+| **Mysticism (Wis:T)** | +8 | 2 ||
+| **Perception (Wis)** | +8 | 1 |starShaman+1|
+| **Physical Science (Int:T)** | +6 | 2 |theme|
+| **Piloting (Dex)** | +6 | 2 |starShaman+1|
 | Profession (varies:T) | +0 | 0 ||
-| **Sense Motive (Wis)** | +3 | 0 ||
+| **Sense Motive (Wis)** | +7 | 1 ||
 | Sleight of Hand (Dex:T) | - | 0 ||
 | Stealth (Dex) | +0 | 0 ||
 | **Survival (Wis)** | +3 | 0 ||
@@ -52,8 +49,8 @@ Homeworld: The Diaspora
 
 | Health | Nominal | Current |
 | ------ | :-----: | :-----: |
-| Hp | 12 | 12 |
-| Stamina | 8 | 8 |
+| Stamina | 16 | 16 |
+| Hp | 18 | 18 |
 | Resolve | 4 | 4 |
 
 #### Defense
@@ -66,48 +63,51 @@ Homeworld: The Diaspora
 | :-: | :-: | :------: |
 | 11 | 12 | 20 |
 
-#### Attack Bonuses
+#### Attack Bonuses : BAB +1
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
-| +1 | 0 | +1 |
+| +2 | +1 | +2 |
 
-| Weapon | Lvl | Atk | Dmg | Crit | Bulk | Usage | Notes |
-| ------ | :-: | :-: | :-: | :--: | :--: | :---: | ----- |
-| battle staff | 1 | +1 | 1d4 B | Knockdown | 1 | - | analog, block |
-| needler pistol | 1 | +0 | 1d4 P | Inject DC+2 | L | 1 | 6 darts, 30 ft, analog, injection|
+| Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
+| ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
+| battle staff | 1 | +2 | 1d4 B | Knockdown | - | 1 | analog, block |
+| pulsecaster pistol | 1 | +1 | 1d4 E | - | 20/1 | L | 30 ft, nonlethal|
+| needler pistol   | 1 | +1 | 1d4 P | inject DC+2 | 6/1 | L | analog, injection (2 MK1b healing serum darts) |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
-| darts | 1 | 25 | L ||
+| battery | 1 | 20 | - |   |
 
 ### Spells
 
-#### 0 - Known: 4 - DC 13
+#### 0 - Known: 5 - DC 13
 
 | Name | Effect |
 | ---- | ------ |
-| psychokinetic hand ||
-| stablize ||
-| daze ||
-| detect affliction ||
+| psychokinetic hand | (conc) manipulate one unattended object of no more than 10 lbs. or 1 bulk within 30ft|
+| stabilize |stabilize a dying creature within 30ft |
+| daze | stdAct (1rd) humanoid CR3 or less within 30ft dazed unless Will save, then immune for 1min |
+| detect affliction | stdAct |
+| token spell | stdAct (1hr) minor magical effects, e.g. illuminate object to shed dim light in 30ft rad |
 
 
 #### 1 - DC 14
 
 | Known | Slots Per Day | Slots Used |
 | :---: | :-----------: | :--------: |
-| 2 | 3 | 0 |
+| 3 | 3 | 2 |
 
 | Name | Effect |
 | ---- | ------ |
-| shooting stars ||
+| shooting stars |2 missiles (3 full-attack) do 1d4+1 force dmg|
 | wisp ally ||
-| mystic cure ||
+| mystic cure |1d8+3 HP touch|
+| remove condition, lesser | stdAct remove one minor harmful condition affecting a creature touched |
 
 ### Abilities
 
-#### Racial 
+#### Racial
 
 - **Blindsense**: Shirrens’ sense vibrations in the air—out to 30 feet. A shirren ignores the Stealth bonuses from any form of visual camouflage, invisibility, and the like when attempting a Perception check opposed by a creature’s Stealth check. Even on a successful Perception check, any foe that can’t be seen still has total concealment (50% miss chance) against a shirren, and the shirren still has the normal miss chance when attacking foes that have concealment. A shirren is still flat-footed against attacks from creatures it can’t see.
 - **Communalism**: Once per day, as long as an ally is within 10 feet, a shirren can roll a single attack roll or skill check twice and take the higher result.
@@ -120,13 +120,14 @@ Homeworld: The Diaspora
 
 #### Mystic
 
-- **Healing Touch**: Once per day, you can spend 10 minutes to magically heal an ally up to 5 Hit Points per mystic level.
+- **Healing Touch (10hp)**: Once per day, you can spend 10 minutes to magically heal an ally up to 5hp per mystic level.
 - **Star Shaman Connection**
 	- **Walking the Void**: You are immune to the harmful environmental effects of outer space and vacuum. You also gain a fly speed of 20 feet while in space. In addition, whenever you can see the stars, you can determine your precise location.
+- **Mindlink**: You can form a mental link with creatures you touch, communicating information rapidly through it. You can use mindlink at will as a spell-like ability, though only once per day on any given individual.
 
 #### Feats
 
-- **Medical Expert**: You can use the Medicine skill in conjunction witha medpatch or sprayflesh to treat deadly wounds as a full action. When used in this way, the medpatch or sprayflesh does not perform any of its normal functions. You can also use the Medicine skill to provide long-term care with just a medkit.
+- **Medical Expert**: You can use the Medicine skill in conjunction with a medpatch or sprayflesh to treat deadly wounds as a full action. When used in this way, the medpatch or sprayflesh does not perform any of its normal functions. You can also use the Medicine skill to provide long-term care with just a medkit.
 
 
 ### Proficiencies
@@ -141,29 +142,31 @@ Homeworld: The Diaspora
 
 ## Gear
 
-**Credits:** 290
+**Credits:** 535
 
 | Carry | Weight |
 | ----- | ------ |
 | Unencumbered | 1-8 |
 | Encumbered | 8-14 |
-| Current | 2 |
+| Current | 3.8 |
 
 ### Equipment
 
 | Item | Bulk | Capacity/Usage | Notes |
 | ---- | :--: | :------------: | ----- |
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
-| personal comm | L | 80 / 1/hr || 
+| personal comm | L | 80 / 1/hr ||
 | basic medkit | 1 | - ||
 | medpatch (3) | 3L | 1/1 ||
+| mk1b healing serum | L | 1/1 | 5hp healing  |
+| Starstone Compass | L | - | +2 insight bonus to Piloting checks when astrogating throughout the Pact Worlds system  |
 
 
 ## Background
 
-Cyscokt was born in the Diaspora to a 3-member married spacefaring family. Always a lover of space travel and fascinated with the Pact Worlds, he dreamed of seeing more of the galaxy. With the full support of his family he became an acolyte of the Desnan church, travelling with a Desnan mystic.
+Cyscokt was born in the Diaspora to a 3-member married spacefaring family. Always a lover of space travel and fascinated with the Pact Worlds, he dreamed of seeing more of the galaxy. With the full support of his family he became an acolyte of the Desnan church, traveling with a Desnan mystic.
 
-The Starfinder Society's recent recruitment drive following the disasterous Scoured Stars incident caught Cyscokt's attention and appealed to his desire to travel, learn, and make a difference. With the approval of his teacher, he submitted an application. The Wayfinders faction liked his application and Cyscokt received a recruitment offer with starship passage to Absalom Station to meet Duravor Kreel.
+The Starfinder Society's recent recruitment drive following the disastrous Scoured Stars incident caught Cyscokt's attention and appealed to his desire to travel, learn, and make a difference. With the approval of his teacher, he submitted an application. The Wayfinders faction liked his application and Cyscokt received a recruitment offer with starship passage to Absalom Station to meet Duravor Kreel.
 
 ## Personality
 ### Traits
@@ -180,4 +183,4 @@ The Starfinder Society's recent recruitment drive following the disasterous Scou
 
 - My piety sometimes leads me to blindly trust those that profess faith in my god.
 
-## Character Developmennt
+## Character Development

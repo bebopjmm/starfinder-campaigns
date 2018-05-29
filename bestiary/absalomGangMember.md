@@ -21,7 +21,6 @@ Medium humanoid (various, primarily human)
 
 | Stat | Value |
 | ---- | ----- |
-| Size | Medium |
 | Speed | 30 |
 | Init | +4 |
 | HP | 13 |
@@ -30,7 +29,7 @@ Medium humanoid (various, primarily human)
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
-| 10 | 12 | 10 |
+| 10 | 12 | 20 |
 
 #### Offense
 
@@ -45,6 +44,3 @@ Medium humanoid (various, primarily human)
 - club
 - azimuth laser pistol
 - credstick (100 - 150 credits)
-
-
-

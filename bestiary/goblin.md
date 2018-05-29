@@ -22,7 +22,6 @@ NE Small humanoid (goblinoid)
 
 | Stat | Value |
 | ---- | ----- |
-| Size | Small |
 | Speed | 35 |
 | Init | +3 |
 | HP | 6 |
@@ -42,8 +41,8 @@ NE Small humanoid (goblinoid)
 
 ## Abilities
 
-- **Tinker (Ex)**: As a move action, a space goblin can remove the penalties associated with the broken condition from a single piece of equipment until the start of his next turn. The item then becomes unusable for 10 minutes (and retains the broken condition after that until it is fixed).- **Unstable Junklaser (Ex)**: A space goblin’s laser pistol is crafted from a mishmash of broken casings, leaking energy cells, and other random material. A junklaser is similar to a holdout laser pistol, except it has a range of only60 feet. If the wielder of a junklaser rolls a natural 1 when attacking with it, he must immediately attempt a DC 18 Engineering check. 
-	- Success means that the junklaser gains the broken condition. 
+- **Tinker (Ex)**: As a move action, a space goblin can remove the penalties associated with the broken condition from a single piece of equipment until the start of his next turn. The item then becomes unusable for 10 minutes (and retains the broken condition after that until it is fixed).- **Unstable Junklaser (Ex)**: A space goblin’s laser pistol is crafted from a mishmash of broken casings, leaking energy cells, and other random material. A junklaser is similar to a holdout laser pistol, except it has a range of only60 feet. If the wielder of a junklaser rolls a natural 1 when attacking with it, he must immediately attempt a DC 18 Engineering check.
+	- Success means that the junklaser gains the broken condition.
 	- Failure means that the gun explodes in 1d3–1 rounds, functioning as a concussion grenade I (explode 20 feet, 1d8 B, Reflex DC 10 half); a result of 0 rounds means the junklaser explodes immediately—randomly determine the corner of the wielder’s square that is the center of the burst. A thrown junklaser has the same range increment as a grenade.
 
 ## Gear
