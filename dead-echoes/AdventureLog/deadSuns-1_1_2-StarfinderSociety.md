@@ -4,55 +4,51 @@
 
 ## The Starfinder Society
 ![Lorespire Complex](https://www.dropbox.com/s/iy6vrfuobs97ake/lorespireComplex.jpg?raw=1)  
-The team reached the Lorespire Complex around mid-afternoon, traveling by robo-taxi from the Arms to the Ring sector. Checking in with the receptionist, they requested to see Chiskisk. The receptionist pointed them toward a small waiting room and politely asked them to wait. After several minutes, a functionary arrived to lead them to a cluttered but clean office deep in the complex.
+The team reached the Lorespire Complex around mid-afternoon, traveling by robo-taxi from the Arms to the Ring sector. Enroute, Cyscokt ensured that the others were aware that Chiskisk was neither male nor female, but host, the third shirren sex, and as such was referred to with the pronouns “they,” “them,” and “themself.” Checking in with the receptionist and requesting to see Chiskisk, the team was directed toward a small waiting room and politely asked to wait. After several minutes, a functionary arrived to lead them to a cluttered but clean office deep in the complex.
 
 ![Chiskisk](https://www.dropbox.com/s/pars21ve039xx86/chiskisk.jpg?raw=1)
 
-Seated behind a polished and unadorned plastic desk, a shirren garbed in understated business clothes nervously flexed their antennae from side to side—a shirren expression of perplexity. They stood, welcomed the group, and introduced themselves. After offering the group refreshments of filtered water and processed-protein wafers, the shirren bid them sit down. Chiskisk was puzzled about their unescorted arrival at the Lorespire Complex, and asked them where Duravor was. Gereon shared the tragic news of the gangfight at Dock 94 and Duravor's death. At this point the shirren switched to speaking telepathically in the recruits' heads.
+Seated behind a polished and unadorned plastic desk, a shirren garbed in understated business clothes nervously flexed their antennae from side to side—a shirren expression of perplexity. They stood, welcomed the group, and introduced themselves. After offering the group refreshments of filtered water and processed-protein wafers, the shirren bid them sit down.
+>"Welcome to Starfinder Society Headquarters new recruits. We are pleased that you have expressed an interest in joining our esteemed organization, but must confess some confusion. Duravor Kreel was supposed to bring you here and provide your orientation. Where is he?"
 
-> "I am sorry that I cannot welcome you to Absalom Station under better circumstances. I assure you that such attacks are a rare occurrence, though I realize that is likely small comfort to you. I am pleased that none of you were seriously hurt, but I grieve for Duravor’s death. He was a valued member of the Society, and a friend. May the Lady of Graves be kind in her judgment of his soul.”
+After Gereon shared the tragic news of the gangfight at Dock 94 and Duravor's death, Chiskisk switched to speaking telepathically in the recruits' heads,
+
+> "We am sorry that we cannot welcome you to Absalom Station under better circumstances. We assure you that such attacks are a rare occurrence, though we realize that is likely small comfort to you. We are pleased that none of you were seriously hurt, but grieve for Duravor’s death. He was a valued member of the Society, and a friend. May the Lady of Graves be kind in her judgment of his soul.”
 
 The shirren bowed their head momentarily, then looked up, their compound eyes glittering. Cyscokt inquired if Chiskisk knew Durarvor well, to which they replied,
 
->"We had worked with Duravor Kreel for many years. He was a midranking member of the Starfinder Society. Most of his work focused on mineral prospecting, but he also took an interest in mentoring new and prospective members of the Society. After his sister's tragic death a few year's back in a mining accident, the Starfinder Society became the closest thing he had left to family. Duravor will be greatly missed by many here. What puzzles us most is the reason behind this attack.”
+>"We had worked with Duravor for many years. He was a midranking member of the Starfinder Society and most of his work focused on mineral prospecting, but he also took an interest in mentoring new and prospective members of the Society. After his sister's tragic death a few year's back in a mining accident, the Starfinder Society became the closest thing he had left to family. Duravor will be greatly missed by many here. What puzzles us most is the reason behind this attack.”
 
-Chiskisk tapped a few commands into their computer, then continued.
+Chiskisk tapped a few commands into their computer, studied the results, and then continued.
 
->“According to the incident report just released by station security, two gangs were involved in the attack: the Downside Kings and the Level 21 Crew, just as you said. Gang wars are not uncommon on the station, but they usually confine themselves to the more lawless sectors like the Puddles. It is rare for street gangs to battle openly in public areas like the docks. We cannot help but wonder whether all is as it seems. There must be a reason why those two gangs were at Docking Bay 94 at that time—the time of your arrival, coincidentally. But was it coincidence? Were you and Duravor just innocent bystanders caught in the crossfire, or might you and he have been specifically targeted? And if so, why?  
-“Our understanding is that you are interested in becoming Starfinders, and since you were witnesses to the attack, we would like to ask you to investigate the incident on behalf of the Society. Find out exactly what happened and why. It may simply be a matter of being in the wrong place at the wrong time—we have no doubt station security will rule it so—but if Duravor was murdered, we would like to find justice for my friend.
+>“Yes, according to the incident report just released by station security, two gangs were involved in the attack: the Downside Kings and the Level 21 Crew, just as you said. Gang wars are not uncommon on the station, but they usually confine themselves to the more lawless sectors like the Puddles. It is rare for street gangs to battle openly in public areas like the docks. We cannot help but wonder whether all is as it seems. There must be a reason why those two gangs were at Docking Bay 94 at that time—the time of your arrival, coincidentally. But was it coincidence? Were you and Duravor just innocent bystanders caught in the crossfire, or might you and he have been specifically targeted? And if so, why?
+>
+>“Our understanding is that you are interested in becoming Starfinders, and since you were witnesses to the attack, we would like to ask you to investigate the incident on behalf of the Society. Find out exactly what happened and why. It may simply be a matter of being in the wrong place at the wrong time—we have no doubt station security will rule it so—but if Duravor was murdered, we would like to find justice for my friend.
 
-*How Do the Party Members React to this request?*  
-- Cyscokt: justice, not vengeance
-- Gereon: interested, will request Duravor's home address
-- Nevos-4: such brazen attacks cannot be ignored
-- Nisk: we're gonna need resources to tackle a job like this
-- Taraea: ready to prove herself and jumps at the opportunity
+Taraea expressed her enthusiasm about the opportunity, and Nevos-4 added that such brazen attacks could not be ignored. Cyscokt sounded a cautionary tone, however,
+>"We must be sure that it is justice that we pursue and not vengeance"
 
-After a few more taps at their computer, they continued
-- Chiskisk gives their personal comm code to the group, so they can call and report as necessary
-- Chiskisk also transfers 200 credits to each of the team member’s accounts (a “signing bonus plus expenses,” the shirren calls it) and suggests they get settled on the station before starting their investigation.
-	- recommends a small hotel called the Moons of Sleep. Located just a short walk from the parks and towers of the Eye, the hotel is centrally located, and has both efficiencies and suites available. Chiskisk provides a digital voucher that will qualify them for the Starfinder discount.
+Chiskisk allayed Cyscokt's concerns, asserting that they are not implying or encouraging a violent resolution; the society was not the Hellknights after all. Gereon turned the conversation toward more practical matters, foremost that many of the team had just arrived at the station and resources would be required to tackle the assignment.
 
+Resuming tapping at their computer, Chiskisk responded,
+>"Yes, naturally. We have created a Starfinder account that your team will be able to access and transferred a total of one thousand credits into it as ... let us say, signing bonus plus expenses. As new recruits, the society secured a week of efficiency lodging for each of you at the Moons of Sleep. The hotel is centrally located just a short walk from the parks and towers of the Eye, and if you wish to extend your stay there, they provide a discount to Starfinders. Lastly, we have transferred a comms code to you that will allow you to contact us as you make progress."
 
-When asked, Chiskisk also provides them with Duravor's home address, a small apartment in the Drifter's End neighborhood of the Ring sector.
+Nisk requested Duravor's home address to check for clues and after a moment's thought Chiskisk agreed, sending them the address of a small apartment in the Drifter's End neighborhood of the Ring sector. As the team stood to depart, Chiskisk gave some parting thoughts,
 
-As the team stood to depart, Chiskisk gave some parting thoughts,
+>"This assignment will give you the opportunity to demonstrate your own skills and abilities and show the Society that you are worthy of the title ‘Starfinder.’ We wish you good luck.”
 
->"This assignment will give you the opportunity to demonstrate your own skills and abilities and show the Society that you are worthy of the title ‘Starfinder.’ Good luck.”
-
-The team decided to check out the apartment before going to the Moons of Sleep.
+Outside the Lorespire Complex, the team decided to check out the Duravor's apartment before going to the Moons of Sleep.
 
 ## Duravor's Apartment
 
-Drifter's Edge is walkable from the Lorespire Complex. Using the infoPad to gain entry, they find Duravor's home to be a small, very unkempt efficiency apartment.
+Drifter's Edge was an easily walkable distance from the Lorespire Complex. Using Duravor's infoPad to gain entry, they found that the dwarf lived in a small, very unkempt efficiency apartment.
 
 ![Duravor's Apartment](https://www.dropbox.com/s/dxym0kwp0ezqnw2/duravorsApartment.jpg?raw=1)
 
-Spotting a computer terminal in the living area, Nisk gets to work while the others search the rest of the apartment.
+Spotting a computer terminal in the living area, Nisk got to work while the others searched the rest of the apartment. Cyscokt focused on the kitchenette and came to the conclusion that Duravor subsisted on beer and takeout, favoring a restaurant called Mama Fats.
 
-- checking the kitchenette, its obvious that Duravor subsisted on beer and takeout
-	- Cyscokt notes that he seems to favor a restaurant called Mama Fats
-- Taraea finds a curius token amongst his possessions
+*Taraea finds a curious token amongst his possessions*
+
 - Nisk has quite a bit of success scanning through the computer files
 	- Duravor was a native of the Diaspora, the diffuse asteroid belt between Verces and Eox, and was known to have ties to dwarves and other mining groups in the region. An outspoken champion of miners’ rights, Kreel was active in challenging large corporate interests that exploited individual miners and laborers, including Astral Extractions.
 	- Kreel had personally invested money in the Hardscrabble Collective. In addition, one of his cousins was a member of the group, but she died in a mining accident—the result of safety violations perpetrated by her contract employer, Astral Extractions.
@@ -68,7 +64,7 @@ Nisk recommends checking out a couple of the local watering holes — they may b
 
 ![Paralax Cantina](https://www.dropbox.com/s/5iwzwsygb612x3n/paralaxCantina.jpg?raw=1)
 
-On the third try, the team finds a local establishment where Duravor was a regular. Once folks learn of Duravor's death, an impromptu wake commences.
+On the third try, the team found a local establishment where Duravor was a well-known regular. Once folks learned of Duravor's death, an impromptu wake commences.
 
 - lots of confirmation of what team had learned about Duravor, but no new real insights.
 - After a few drinks, the team gets some of the regular's to open up about the Hardscrabble Collective
@@ -79,6 +75,6 @@ On the third try, the team finds a local establishment where Duravor was a regul
 	- Fearing retribution from powerful corporate interests, the Hardscrabble Collective has recently hired the Level 21 Crew for protection.
 - Talk of the Acreon and the Drift Rock spur lots of wild speculation and rumors.
 
-The drinking and remembrances run late into the night, and the team ends up crashing at some nearby sleep pods for the night.
+The drinking and remembrances run well into the wee hours of the next morning, and the team ends up crashing at some nearby sleep pods.
 
 ![Absalom Sleep Pods](https://www.dropbox.com/s/rwygfy8d8s5hao4/absalomSleepPods.jpg?raw=1)

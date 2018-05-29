@@ -43,7 +43,7 @@ Nisk and Cyscokt are not surprised
 #### Development
 - studying the dead akata, Taraea recalls that these creatures are resistant to fire damage, so laser pistols probably won't be much use.
 - cyscokt resumes inspection of the corpse and identifies that it is a space goblin
-  - no space goblins were part of the Acreon crew manifest
+  - Nisk verifies that no space goblins were part of the Acreon crew manifest
 
 So far all the viewable ship doors are locked in the open position, including the bridge.
 
@@ -122,3 +122,13 @@ That was the final entry
 #### Path Ahead
 - cyscokt is insistent that Gereon is in no condition to fight
   - nevos-4 has idea that he can remain on bridge as rest of team clears the ship, controlling door access
+
+Take the starboard corridor first
+- both crew quarters empty  
+
+## Crew Storage
+Nevos-4 was positioned in front of the doorway when he instructed Gereon to open it. The laser trap fired and struck it full in the chest (15 dmg). Nevos-4 uses recovery point and short rest while others search the room.
+1. Nisk finds another noqual cocoon, 1 bulk 500cr value
+2. ulrikka duster fusion seal (5th)
+3. mk1b healing serums (2)
+4. medpatches (3)

@@ -51,7 +51,7 @@ Genderless Android Ace Pilot Soldier (2)
 | ------ | :-----: | :-----: |
 | Stamina | 20 | 20 |
 | Hp | 18 | 18 |
-| Resolve | 4 | 3 |
+| Resolve | 4 | 2 |
 
 #### Defense
 

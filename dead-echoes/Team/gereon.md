@@ -3,7 +3,7 @@
 
 ![Gereon](https://www.dropbox.com/s/e1c87463yfzquuh/gereon.jpg?raw=1)
 
-Male Human Icon Envoy (2)  
+Male Human Corporate Agent Envoy (2)  
 **Homeworld**: Absalom Station
 
 ## Stats
@@ -22,8 +22,8 @@ Male Human Icon Envoy (2)
 | **Athletics (Str)** | +0 | 0 ||
 | **Bluff (Cha)** | +8 | 2 ||
 | **Computers (Int:T)** | +7 | 2 ||
-| **Culture (Int:T)** | +8 | 2 |theme|
-| **Diplomacy (Cha)** | +8 | 2 |expertise|
+| **Culture (Int:T)** | +7 | 2 ||
+| **Diplomacy (Cha)** | +9 | 2 |theme, expertise|
 | **Disguise (Cha)** | +7 | 1 ||
 | **Engineering (Int:T)** | - | 0 ||
 | **Intimidate (Cha)** | +3 | 0 ||
@@ -33,7 +33,7 @@ Male Human Icon Envoy (2)
 | **Perception (Wis)** | +5 | 2 ||
 | Physical Science (Int:T) | - | 0 ||
 | **Piloting (Dex)** | +6 | 2 ||
-| **Profession: negotiator (Cha:T)** | +8 | 1 |theme|
+| **Profession: negotiator (Cha:T)** | +7 | 1 ||
 | **Sense Motive (Wis)** | +5 | 2 |expertise|
 | **Sleight of Hand (Dex:T)** | +5 | 1 ||
 | **Stealth (Dex)** | +6 | 2 ||
@@ -89,7 +89,7 @@ Male Human Icon Envoy (2)
 
 #### Icon
 
-- **Icon Knowledge**: You are hooked deeply into the culture of your iconic profession of corporate negotiator. When attempting a Profession or Culture check to recall knowledge about other icons of your profession or details about your profession’s cultural aspects, increase the DC by 5. You gain a +1 bonus to checks with your chosen Profession skill. Culture also becomes a class skill for you, though if it is a class skill from the class you take at 1st level, you instead gain a +1 bonus to Culture checks.  
+- **Icon Knowledge**: You are hooked deeply into the culture of to the world of corporate culture, and know all the movers and shakers. When attempting a Profession or Culture check to recall knowledge about corporations and their executives, reduce the DC by 5. Diplomacy is a class skill for you, though if it is a class skill from the class you take at 1st level, you instead gain a +1 bonus to Diplomacy checks.
 
 #### Envoy
 
