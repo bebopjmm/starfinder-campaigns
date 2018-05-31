@@ -6,6 +6,8 @@
 Male Human Corporate Agent Envoy (2)  
 **Homeworld**: Absalom Station
 
+**Diseased: Void Death, Impaired (1/2 saves), fatigued, exhausted**
+
 ## Stats
 
 |**Ability**|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA** \* |
@@ -117,7 +119,7 @@ Male Human Corporate Agent Envoy (2)
 
 ## Gear
 
-**Credits:** 446
+**Credits:** 546
 
 | Carry | Weight |
 | ----- | ------ |

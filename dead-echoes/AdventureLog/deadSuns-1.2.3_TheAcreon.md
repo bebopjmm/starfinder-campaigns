@@ -93,7 +93,6 @@ Nisk quickly secures the bridge door as Gereon succumbs to the infection. Take 1
 - Nevos-4 spends Resolve point to recover stamina
 - cyscokt casts *Detect Affliction* on Gereon
   - confirms he is diseased but cannot discern other details
-- cyscokt uses medkit to *Treat Disease* granting +4 bonus to Gereon's next check
 - Taraea investigates the area and finds the 3 cocoons
   - identifies them as noqual and worth 500cr each
   - this triggers her recall of how akata hibernate
@@ -132,3 +131,149 @@ Nevos-4 was positioned in front of the doorway when he instructed Gereon to open
 2. ulrikka duster fusion seal (5th)
 3. mk1b healing serums (2)
 4. medpatches (3)
+
+## Crew quarters
+The team moved on to checking the starboard side crew quarters, but they are both empty with nothing of interest beyond a few personal possessions. Advancing to the port crew quarters, they discover one of the doors jammed. With Nevos-4's aid, Taraea breaks open the door on her second attempt.
+
+### Goblin Encounter
+
+#### Round 1
+- Nisk maneuvers into the room and shoots Goblin-1 with laser pistol (3dmg)
+- Taraea steps into the room, photon attunement, and beheads Goblin-2 with her pike (9dmg)
+- Nevos-4 closes but misses Goblin-1
+- Goblin-1 (Nolkiek) drops weapon and surrenders
+
+#### Development
+- interrogation of the goblin revealed that he and his companions only recently arrived on the Acreon, and very quickly encountered the 'blue devil dogs'
+  - Nisk is inclined to space the goblin, but Cyscokt won't hear of it (convinced of story)
+  - Cyscokt also treats the goblins wounds with medkit (1hp)
+- collect the real weapons, allowing the goblin to keep its dogslicer and junklaser
+  - Nisk also finds the keycard and credstick
+- decide to lock Nolkiek in the quarters while the team finishes securing the ship
+  - Taraea and Gereon convince the goblin that he will be kept safe
+
+## Starboard Cargo hold
+With Nolkiek secured in the crew quarters, the team proceeded to the starboard cargo hold. Nevos-4 entered cautiously after Gereon opened the door and immediately spotted an akata on the far side of the hold.
+
+### Akata Encounter
+
+#### Round 1
+- Nisk moves into the cargo hold and realizes there are actually TWO akatas! She shoots akata-1 for 4dmg
+- the akatas converge on Nisk, and one bites for 6dmg
+  - Nisk resists disease
+- Taraea moves into cargo hold, shifts to photon attunement and strikes at akata-1 with pike but misses
+- Cyscokt cast daze on akata-2  but it was unaffected
+- Nevos-4 shoots autocannon at akata-1 and then moves to engage with hammer
+
+#### Round 2
+- Nisk attempted to tumble away from the akatas but failed, one bites for 3dmg. Activates holo images (2)
+  - Nisk failed save and is infected with void death
+- akata-2 bites at Nisk but misses
+- akata-2 bites at Nevos-4 but misses
+- Taraea activates solar armor and strikes at akata-1 with pike missing again
+- Cyscokt attempts daze again on akata-2 but to no avail
+- Nevos-4 strikes at akata-1 with hammer but misses
+
+#### Round 3
+- Nisk takes a guarded step and continues Total defense
+- akata-1 turns its attention to Nisk, but misses
+- akata-2 engages and bites Nevos-4 (8dmg)
+  - Nevos-4 resists disease
+- Taraea kills akata-1 with pike (6dmg)
+- Cyscokt attempts to daze akata-2, but it continues to resist
+- Nevos-4 misses akata-2 with hammer
+
+#### Round 4
+- Nisk takes a guarded step and shoots at akata-2 for critical hit (11dmg)
+- that draws akata-1 attention, it closes on Nisk, but misses
+- Taraea nicks akata-1 with pike (4dmg)
+- Cyscokt successfully dazed akata-1
+- Nevos-4 flanked akata-2 and killed it with hammer (7dmg)
+
+### Development
+Exploration of the cargo hold yields
+- 2 noqual cocoon scraps (2 bulk, 1000cr)
+- cyscokt finds flame pistol with 8 petrol
+
+Team falls back to the bridge to regroup.
+- cyscokt casts *Lesser Remove Condition* to remove the *sickened* condition from Nisk
+- team decision to bunk down for the night and finish clearing ship tomorrow
+  - Nisk and Gereon will rest in one of the crew quarters, while the rest of the team stays on bridge.
+- Nevos-4 and Taraea transfer the rest of their gear and supplies from the Hippocampus to the bridge while Cyscokt preps meal
+  - galley still has food, so they don't have to tap into their provisions
+  - they feed Nolkiek as well
+- Uneventful night
+
+Next day Nisk and Gereon attempt to fight off void Death
+- cyscokt uses medkit to *Treat Disease* granting +4 bonus to Nisk's next check, and she succeeds
+  - stays in Weakened state (1 of 2 needed saves)
+- cyscokt uses medkit to *Treat Disease* granting +4 bonus to Gereon's next check, but he fails
+  - degrades to Impaired state (*sickened*, *fatigued*, *exhausted*)
+- cyscokt casts *Lesser Remove Condition* to remove the *sickened* condition from Nisk
+
+Gereon is still healthy enough to operate doors from bridge, so the team gears up and continues to port cargo hold.
+
+## Port Cargo Hold
+Inspecting the cargo hold the team quickly discovers the large 8ft square shipping container addressed to the Eoxian Embassy. They transmit video to Gereon of their find.
+- Nisk is strongly inclined to open an inspect the container
+- Cyscokt believes that opening the container would violate the spirit if not explicitly the terms of the agreement that was made with Ambassador Nor
+- Nevos-4 is concerned that violating Ambassador's trust would result in a powerful enemy
+- Gereon raises the point that learning the contents would put the team in a stronger position
+- Taraea is suspicious, but also raises the point that the most pressing concern is securing the ship
+
+The team defers dealing with the container until ship is clear. Last area is engineering.
+
+## Engineering
+Gereon opens both doors, and Taraea enters from south while Nevos-4 enters from north. Both spot akatas and alert the others.
+
+### Akata Encounter
+#### Round 1
+- Nisk enters room, trick attacking akata-2 with pistol for critical hit (13dmg)
+- akata-2 closes to engage Taraea, triggering AoO and she skewers it with her pike
+- akata-1 engages Nevos-4 but he deflects its bite attack
+- Nevos-4 gets solid hit on akata-1 with hammer (7dmg)
+- Cyscokt enters room and fails to affect akata-1 with *Daze* spell
+- Taraea shifts to photon attunement, closes on akata-1 and nicks it (3dmg)
+
+#### Round 2
+- Nisk moves up but fails trick attack and misses akata-1
+- akata-1 misses bite against Nevos-4
+- Nevos-4 hits again (4dmg)
+- Cysokt succesfully *dazes* akata-1
+- Taraea moves to flanking position on akata-1 and kills it (7dmg)
+
+### Development
+
+Search the room and find
+- 2 more noqual cocoons (2 bulk, 1000cr)
+- 300 UPBs
+- tactical arc emitter (12 charges)
+
+The ship is now fully secured. After Nevos-4 and Taraea jetison all the akata corspes out an airlock, everyone reconvenes on the bridge, including the goblin, Nolkiek.
+
+## Next Steps
+With the ship secured, the party now focuses on
+1. treating the void death
+2. dealing with the Eoxian container
+3. exploring the Drift Rock
+
+The container is at the forefront of Nisk's mind, and Gereon is very curious as well. Taraea is firm that the key priority is health of team.
+- Cysokt wants Gereon on full bedrest.
+- Nevos-4 recommends contacting Absalom Station over the Acreon's comms for medical evac
+  - Nisk gets station control and relays the situation
+  - request is denied, quarantine effect does not allow affected to be brought to station
+
+Downtime to next day
+- Taraea reviews the ship logs
+- Nisk (with Nolkiek underfoot) spends time in engineering
+
+## Day 3 Aboard
+
+Nisk and Gereon attempt to fight off void Death
+- cyscokt uses medkit to *Treat Disease* granting +8 bonus (crit success) to Gereon's next check, and he just barely succeeds
+  - stays in Impaired state (1 of 2 needed saves)
+- cyscokt uses medkit to *Treat Disease* granting +4 bonus to Nisk's next check, and she succeeds
+  - healthy again
+- cyscokt casts *Lesser Remove Condition* to remove the *sickened* condition from Gereon
+
+### The Container

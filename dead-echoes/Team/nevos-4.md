@@ -51,7 +51,7 @@ Genderless Android Ace Pilot Soldier (2)
 | ------ | :-----: | :-----: |
 | Stamina | 20 | 20 |
 | Hp | 18 | 18 |
-| Resolve | 4 | 2 |
+| Resolve | 4 | 4 |
 
 #### Defense
 
@@ -74,11 +74,13 @@ Genderless Android Ace Pilot Soldier (2)
 | *light reaction cannon | 1 | +6 | 1d10 P | *anchoring | 6/1 | 3 | 90ft range, penetrating, *anchoring fusion |
 | assault hammer | 1 | +4 | 1d6+1 B | - | - | 1 | analog |
 | frag grenade (1) | 1 | +4 | 1d6 P | - | drawn | L | 20 ft range, explode (15 ft) |
-| incendiary grenade mk1 | 2 | +1 | 1d6F, 1d4 burn | - | drawn | L | 20ft range, explode 5ft |
+| incendiary grenade mk1 (2)| 2 | +1 | 1d6F, 1d4 burn | - | drawn | 2L | 20ft range, explode 5ft |
+| shock grenade mk1 (2)| 2 | +1 | 1d8E | - | drawn | 2L | 20ft range, explode 15ft |
+| stickbomb grenade mk1 | 2 | +1 | Entangled 2d4 rds | - | drawn | L | 20ft range, explode 10ft |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
-| heavy round clips | 1 | 6/6/6 | L |   |
+| heavy round clips | 1 | 6/6/5 | L |   |
 
 
 ### Abilities
@@ -120,13 +122,13 @@ Genderless Android Ace Pilot Soldier (2)
 
 ## Gear
 
-**Credits:** 138
+**Credits:** 238
 
 | Carry | Weight |
 | ----- | ------ |
 | Unencumbered | 0-8 |
 | Encumbered | 8-15 |
-| Current | 6.7 |
+| Current | 7.1 |
 
 ### Equipment
 

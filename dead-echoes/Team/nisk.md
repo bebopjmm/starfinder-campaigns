@@ -72,12 +72,12 @@ Female Ysoki Outlaw Operative(Hacker) (2)
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
 | tactical baton | 1 | +4 | 1d4 B | - | - | L | analog, operative (quick-release) |
-| tactical semi-auto pistol | 1 | +4 | 1d6 P | - | 7/1 | L | analog, 30ft range, called fusion |
+| tactical semi-auto pistol | 1 | +4 | 1d6 P | - | 9/1 | L | analog, 30ft range, called fusion |
 | azimuth pistol | 1 | +3 | 1d4 F | burn 1d4 | 20/1 | L | 80ft range |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
-| small arms clips | 1 | 9/9/9 | -  |   |
+| small arms clips | 1 | 9/9/5 | -  |   |
 | battery | 1 | 20 | - |   |
 
 ### Abilities
@@ -130,7 +130,7 @@ Common, Ysoki, Akitonian, Goblin, Vercite
 
 ## Gear
 
-**Credits:** 800
+**Credits:** 900
 
 | Carry | Weight |
 | ----- | ------ |

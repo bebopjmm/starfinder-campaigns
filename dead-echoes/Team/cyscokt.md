@@ -96,7 +96,7 @@ Male Shirren Spacefarer Mystic (2)
 
 | Known | Slots Per Day | Slots Used |
 | :---: | :-----------: | :--------: |
-| 3 | 3 | 2 |
+| 3 | 3 | 1 |
 
 | Name | Effect |
 | ---- | ------ |
@@ -142,7 +142,7 @@ Male Shirren Spacefarer Mystic (2)
 
 ## Gear
 
-**Credits:** 535
+**Credits:** 635
 
 | Carry | Weight |
 | ----- | ------ |
