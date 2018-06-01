@@ -277,3 +277,27 @@ Nisk and Gereon attempt to fight off void Death
 - cyscokt casts *Lesser Remove Condition* to remove the *sickened* condition from Gereon
 
 ### The Container
+
+The team gathered in the port cargo hold to make decisions regarding Ambassador Nor's 'package.' Final decision is to at least inspect the contents before bringing it back.
+
+- Nisk gets the container open, but not without leaving evidence of tampering
+
+Commander Eskolar is revealed!
+- after a moment's disorientation she demands to know what is going on as it does not appear that she has been delivered to the Eoxian embassy.
+  - Taraea answers that she is still on the Acreon, that the team is investigating events. Inquires who she is.
+  - Eskolar responds with her name only, Hebiza Eskolar
+- Cyscokt and Nisk both recognize her uniform as that of a commander of the Corpse Fleet, and Cyscokt confronts her with this information
+  - Eskolar ignores the question, but claims that she's traveling to Absalom Station to serve as a military attaché assigned to the Eoxian diplomatic mission. What is the nature of the event being investigated, and why is the ship not at Absalom station?
+  -
+- Nevos-4 questions the odd traveling arrangement for a military attaché
+  - Eskolar responds her mission is sensitive in nature
+  - Gereon knows that there is technically no specific laws prohibiting the shipping of *willing* sentient species as cargo, but it's clear that Ambassador Nor was intending her arrival to be covert.
+- At the mention of Ambassador Nor, she inquires if Nor sent them
+
+
+Eventually the team agrees to return her to the capsule with the promise to honor their arrangement with Ambassador Nor. She presses both the urgency as well as sensitivity of her mission.
+- no one is particularly satisfied with the situation
+
+### Scouting the Drift rock
+
+Taraea wants to take the shuttle out to reconnoiter the Drift Rock before investigating on foot.
