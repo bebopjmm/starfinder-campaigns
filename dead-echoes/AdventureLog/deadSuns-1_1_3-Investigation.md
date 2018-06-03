@@ -2,13 +2,20 @@
 
 ## Further Investigations
 
-Hangovers were rather brutal the next morning, but a greasy breakfast help ease the worst of it. Plans were made:
+It was early afternoon before everyone was moving the next day, and the hangovers were rather brutal. A greasy breakfast at a nearby diner helped ease the worst of it. The team universally agreed that the first priority for the day was making arrangements at the Moons of Sleep to eliminate the need to spend another night in a sleep pod. During 'breakfast' Gereon received a message from his corporate contact, and a meeting was arranged at Tattle Tails for that night. Taraea was not amused,
 
-1. Get setup in the Moons of Sleep so that another night in a godawful sleep pod isn't necessary.
-2. Gereon knows someone who might be able to dig up more details on Astral Extractions
-3. Redacted has underworld connections that could shed some more light on Downside Kings and Level-21.
+>"Honestly Gereon, is that the only establishment on Absalom Station that you know?"
 
-Gereon also has a message from his father. The news reports of the Dock 94 assault are out and Gereon's involvement is public. His father is cutting him off.
+With a wry grin, Gereon replied,
+
+>"This is how business gets done, and believe it or not Tattle Tails is one of the few places I trust for sensitive discussions."
+
+Changing the subject,
+3. Nisk has underworld connections that could shed some more light on Downside Kings and Level-21.
+
+As they departed the diner, Gereon received message from his father
+>"Well that didn't take long. The news reports have made my involvement in the Dock 94 incident public, including our meeting a Starfinder representative. My father has officially cut me off."
+
 
 ### Moons of Sleep
 
@@ -16,13 +23,9 @@ The team walks to the Moons of Sleep, which also helps work the self-inflicted t
 
 - everyone ops for an efficiency room, except for Gereon who chooses a suite.
 
-After a much needed freshening up, they head for lunch with Gereon's contact.
+After a much needed freshening up, they regroup. Nisk brought up the a potential avenue for getting information on the street gangs involved in the Dock 94 attack from a contact she had in Little Akiton. There was time enough before meeting with Gereon's contact.
 
-### The Corporate Contact
 
-Gereon is able to squeeze some critical information from his corporate contact, but the meal tab seemed excessive to most of the team (115cr):
-
-- Following the arrival of the Acreon, Astral Extractions secretly hired a violent Absalom Station street gang called the Downside Kings to coerce the Hardscrabble Collective into abandoning its claims on the Acreon and the Drift Rock.
 
 ### A Visit to Little Akiton
 
@@ -32,6 +35,12 @@ The team tracks down Bezilt, a ysoki dock foreman. He reluctantly shares some in
 - Astral Extractions recruited the Downside Kings to threaten the Hardscrabble Collective and pressure the miners into handing over the Acreon and the Drift Rock to the company without dispute.
 
 He suggests that if the team really wants to know more about stuff like this, that they shoud go visit Diamond of Diamond Defense and Surplus down in the Spire.
+
+### The Corporate Contact
+
+Gereon is able to squeeze some critical information from his corporate contact, but the meal tab seemed excessive to most of the team (115cr):
+
+- Following the arrival of the Acreon, Astral Extractions secretly hired a violent Absalom Station street gang called the Downside Kings to coerce the Hardscrabble Collective into abandoning its claims on the Acreon and the Drift Rock.
 
 ### Diamond Defense and Surplus
 

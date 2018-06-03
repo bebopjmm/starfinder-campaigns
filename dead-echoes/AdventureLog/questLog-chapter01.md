@@ -2,6 +2,10 @@
 
 ## Open
 
+### Investigate the Acreon and Drift airlock
+
+### Deliver Ambassador Nor's Package
+
 ## Closed
 
 ### Duravor's Death (Completed)

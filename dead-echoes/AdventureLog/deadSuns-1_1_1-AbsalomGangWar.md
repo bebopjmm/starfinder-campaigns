@@ -56,7 +56,7 @@ Once clear of the cordoned area, Nisk shared that she recovered Duravor's infoPa
 
 ## Tattle Tails
 
-Gereon's 'trusted establishment' ended up being a higher end gentleman's club. Taraea was not amused,
+Gereon's 'trusted establishment' ended up being a higher end gentleman's club. Clearly uncomfortable Taraea inquired,
 >"A strip club? This is your idea of a 'trusted establishment', Gereon?"
 
 Gereon just winked at the lashunta and flashed a roguish grin. Then turning to the hostess, he beamed his identification and instructed,
