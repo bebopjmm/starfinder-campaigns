@@ -11,4 +11,19 @@ Taraea wants to take the shuttle out to reconnoiter the Drift Rock before invest
   - Nevos-4 volunteered to check out the cave and located a passage running deeper into the Drift Rock
 
 Decision is made to return to Acreon and make preparations for exploring the Drift Rock.
-- Nevos-4 has everyone put on their zero-g clothing over their armor 
+- Nevos-4 has everyone put on their zero-g clothing over their armor
+- load the Eoxian embassy 'package' onto the Hippocampus
+- transfer all of their gear back onto the Hippocampus as well as the noqual cocoons
+- decide to bring along Nolkiek because, again, they don't trust leaving the space goblin unsupervised on the Acreon
+- Cyscokt is insistent on giving Gereon another night's rest before attempting something as potentially taxing as exploring the Drift Rock.
+
+### Gereon's Health
+
+With Cyscokt's administrations, Gereon's condition is improved
+
+- upgraded to *Weakened* state (2 of 2 saves required)
+- cyscokt casts *Lesser Remove Condition* to remove the *sickened* condition from Gereon
+
+## Entering the Drift Rock
+
+Nevos-4 lands the Hippocampus in the cave they discovered in the Drift Rock and everyone disembarks, carrying extra gear due to zero-g conditions.

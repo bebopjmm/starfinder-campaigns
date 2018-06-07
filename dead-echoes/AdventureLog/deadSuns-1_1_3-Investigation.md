@@ -8,25 +8,19 @@ It was early afternoon before everyone was moving the next day, and the hangover
 
 With a wry grin, Gereon replied,
 
->"This is how business gets done, and believe it or not Tattle Tails is one of the few places I trust for sensitive discussions."
-
-Changing the subject,
-3. Nisk has underworld connections that could shed some more light on Downside Kings and Level-21.
+>"This is how business gets done, and believe it or not Tattle Tails is one of the few places I trust on this station for sensitive discussions."
 
 As they departed the diner, Gereon received message from his father. After reading the message, he stowed his comms device and informed the others,
 
 >"Well that didn't take long. The news reports have made my involvement in the Dock 94 incident public, including our meeting a Starfinder representative. My father has officially cut me off."
 
-
 ### Moons of Sleep
 
-The team walks to the Moons of Sleep, which also helps work the self-inflicted toxins out of their systems. The Starfinder discount is on weekly rates: 16cr for an efficiency, and 50cr for a small two-bed suite.
+The team walked the moderate distance to the Moons of Sleep, which also helped work the self-inflicted toxins out of their systems. The Starfinder discounted weekly rates were 16 credits for an efficiency, and 50 credits for a small two-bed suite. Everyone opted for an efficiency room except for Gereon who chose a suite.
 
-- everyone ops for an efficiency room, except for Gereon who chooses a suite.
+![Moons of Sleep](https://www.dropbox.com/s/fe1klwkmgvi14yb/moonsOfSleep.jpg?raw=1)
 
-After a much needed freshening up, they regroup. Nisk brought up the a potential avenue for getting information on the street gangs involved in the Dock 94 attack from a contact she had in Little Akiton. There was time enough before meeting with Gereon's contact.
-
-
+After a much needed freshening up, they regrouped. Nisk brought up a potential avenue for getting information on the street gangs involved in the Dock 94 attack from a contact she had in Little Akiton. With plenty of time before meeting with Gereon's contact, the team grabbed a ride to Little Akiton.
 
 ### A Visit to Little Akiton
 
