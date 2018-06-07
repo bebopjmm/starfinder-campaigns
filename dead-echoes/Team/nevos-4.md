@@ -128,7 +128,7 @@ Genderless Android Ace Pilot Soldier (2)
 | ----- | ------ |
 | Unencumbered | 0-8 |
 | Encumbered | 8-15 |
-| Current | 7.1 |
+| Current | 7.2 |
 
 ### Equipment
 
@@ -138,6 +138,7 @@ Genderless Android Ace Pilot Soldier (2)
 | flashlight | L | 10/ 1/hr | 20ft cone of light, strapped to assault cannon |
 | personal comm | L | 80 / 1/hr ||
 | MK1b healing serum | L | - | 5hp healing  |
+| zero-g clothing | L | - | +2 circumstance bonus to Acrobatics checks to stop movement or climb along handholds in zero-g  |
 | Starstone Compass | L | - | +2 insight bonus to Piloting checks when astrogating throughout the Pact Worlds system  |
 
 ## Background

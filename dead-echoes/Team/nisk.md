@@ -136,7 +136,7 @@ Common, Ysoki, Akitonian, Goblin, Vercite
 | ----- | ------ |
 | Unencumbered | 6 |
 | Encumbered | 10 |
-| Current | 1.2 |
+| Current | 1.3 |
 
 ### Equipment
 
@@ -150,6 +150,7 @@ Common, Ysoki, Akitonian, Goblin, Vercite
 | personal comm | L | 80 / 1/hr ||
 | holoskin | L | 20 / 1/10min | belt mount  |
 | MK1b healing serum | L | - | 5hp healing  |
+| zero-g clothing | L | - | +2 circumstance bonus to Acrobatics checks to stop movement or climb along handholds in zero-g  |
 | Starstone Compass | L | - | +2 insight bonus to Piloting checks when astrogating throughout the Pact Worlds system |
 
 ## Background

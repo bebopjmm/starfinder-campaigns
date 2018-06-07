@@ -132,7 +132,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (2)
 | ----- | ------ |
 | Unencumbered | 0-9 |
 | Encumbered | 9-16 |
-| Current | 2.6 |
+| Current | 2.7 |
 
 ### Equipment
 
@@ -141,6 +141,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (2)
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
 | personal comm | L | 80 / 1/hr ||
 | MK1b healing serum (2)| 2L | - | 5hp healing  |
+| zero-g clothing | L | - | +2 circumstance bonus to Acrobatics checks to stop movement or climb along handholds in zero-g  |
 | Starstone Compass | L | - | +2 insight bonus to Piloting checks when astrogating throughout the Pact Worlds system |
 
 ## Background

@@ -297,7 +297,3 @@ Commander Eskolar is revealed!
 
 Eventually the team agrees to return her to the capsule with the promise to honor their arrangement with Ambassador Nor. She presses both the urgency as well as sensitivity of her mission.
 - no one is particularly satisfied with the situation
-
-### Scouting the Drift rock
-
-Taraea wants to take the shuttle out to reconnoiter the Drift Rock before investigating on foot.

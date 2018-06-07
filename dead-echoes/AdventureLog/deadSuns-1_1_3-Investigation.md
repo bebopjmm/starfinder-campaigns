@@ -13,7 +13,8 @@ With a wry grin, Gereon replied,
 Changing the subject,
 3. Nisk has underworld connections that could shed some more light on Downside Kings and Level-21.
 
-As they departed the diner, Gereon received message from his father
+As they departed the diner, Gereon received message from his father. After reading the message, he stowed his comms device and informed the others,
+
 >"Well that didn't take long. The news reports have made my involvement in the Dock 94 incident public, including our meeting a Starfinder representative. My father has officially cut me off."
 
 
