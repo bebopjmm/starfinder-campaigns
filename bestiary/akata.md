@@ -1,6 +1,6 @@
 # Akata (CR 1)
 
-![Akata](http://rollforcombat.com/wp-content/uploads/2017/12/Akata.jpg)
+![Akata](https://www.dropbox.com/s/dz0n46tmqazkoxe/akata.jpg?raw=1)
 
 N Medium aberration  
 **Languages**: -
