@@ -72,6 +72,7 @@ Genderless Android Ace Pilot Soldier (2)
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
 | *light reaction cannon | 1 | +6 | 1d10 P | *anchoring | 6/1 | 3 | 90ft range, penetrating, *anchoring fusion |
+| tactical shirren eye-rifle | 2 | +5 | 1d10 P | - | 1/1 | 1 | 70ft range, analog, sniper (250 ft.), unwieldy  |
 | assault hammer | 1 | +4 | 1d6+1 B | - | - | 1 | analog |
 | frag grenade (1) | 1 | +4 | 1d6 P | - | drawn | L | 20 ft range, explode (15 ft) |
 | incendiary grenade mk1 (2)| 2 | +1 | 1d6F, 1d4 burn | - | drawn | 2L | 20ft range, explode 5ft |
@@ -80,8 +81,10 @@ Genderless Android Ace Pilot Soldier (2)
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
-| heavy round clips | 1 | 6/6/5 | L |   |
+| heavy round clips | 1 | 6/6 | L |   |
+| sniper rounds  | 1 | 24 | L |   |
 
+**Anchoring**: The weapon gains immobilization as a critical hit effect. A target affected by the immobilization critical hit effect is unable to move from its space under its own power for 1d4 rounds. It cannot use any form of movement, including teleportation effects, to change its position. If the target is entirely contained in a mobile object (such as a starship or large vehicle), the target is immobile relative to its location within that object. Other creatures and forces can move the target normally.
 
 ### Abilities
 

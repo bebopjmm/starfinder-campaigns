@@ -16,20 +16,27 @@ As they departed the diner, Gereon received message from his father. After readi
 
 ### Moons of Sleep
 
-The team walked the moderate distance to the Moons of Sleep, which also helped work the self-inflicted toxins out of their systems. The Starfinder discounted weekly rates were 16 credits for an efficiency, and 50 credits for a small two-bed suite. Everyone opted for an efficiency room except for Gereon who chose a suite.
+The team walked the moderate distance to the Moons of Sleep, which also helped work the self-inflicted toxins out of their systems. An older man with multiple cyber enhancements greets the group at the lobby's registration desk,
+
+>"Welcome to the Moons of Sleep, my name is Quenton Fletcher, and how may I assist you today?"
+
+Taraea identified the group as Starfinder recruits and that there should be lodging arranged. After verifying their identification, Quenton checked his terminal,
+
+>"Ah yes, the Starfinder Society has secured a week of lodging for each of you in one of our efficiency suites. If you wish to extend your stay we offer a special society discount of 16 credits per week, and if you wish to upgrade to one of our two-bed suites, the cost is 50 credits per week."
 
 ![Moons of Sleep](https://www.dropbox.com/s/fe1klwkmgvi14yb/moonsOfSleep.jpg?raw=1)
 
-After a much needed freshening up, they regrouped. Nisk brought up a potential avenue for getting information on the street gangs involved in the Dock 94 attack from a contact she had in Little Akiton. With plenty of time before meeting with Gereon's contact, the team grabbed a ride to Little Akiton.
+After a much needed freshening up, the team regrouped in the lobby. Nisk brought up a potential avenue for getting information on the street gangs involved in the Dock 94 attack from a contact she had in Little Akiton. With plenty of time before meeting with Gereon's contact, the team grabbed a ride to Little Akiton.
 
 ### A Visit to Little Akiton
 
-The team tracks down Bezilt, a ysoki dock foreman. He reluctantly shares some information on the Downside Kings:
+![Little Akiton](https://www.dropbox.com/s/t3u3n23yksfyh13/littleAkiton.jpg?raw=1)
 
-- Turnover among the Downside Kings’ leadership is high, but the gang’s current boss is a barbarous human woman named Ferani Nadaz.
-- Astral Extractions recruited the Downside Kings to threaten the Hardscrabble Collective and pressure the miners into handing over the Acreon and the Drift Rock to the company without dispute.
+Nisk succeeded in tracking down Bezilt, a ysoki dock foreman. After an extended period of rapid chattering back and forth in ysoki, he reluctantly shared some information on the Downside Kings,
 
-He suggests that if the team really wants to know more about stuff like this, that they shoud go visit Diamond of Diamond Defense and Surplus down in the Spire.
+>"The Downside Kings are a brutual bunch and turnover amongst their leadership i pretty high. Last I heard a barbarous human woman is there current boss- Ferani Nadaz is her name. Now, if you really want to more about the dealings of gangs like the Downside Kings and Level-21 Crew, you should go see Diamond, of Diamond Defense and Surplus down in the Spire. Fair warning though, Diamond doesn't give out information like this for free. She'll be wanting something. That is if she's willing to deal with you at all."
+
+Time was growing short to meet up with Gereon's corporate contact, so the team travelled back to Tattle Tails.
 
 ### The Corporate Contact
 
@@ -46,7 +53,11 @@ They find the shop in the Spire and are greeted by Diamond. She listens to their
 
 ### Goblins in Botscrap
 
-The team follows the directions to the Botscrap location and arrive without incident. Nevos-4 and Redacted scout the area and determine good locations to hunker down and wait. In the dim light it is difficult to see well, and the team notices the approaching two scouts at the same time the scouts notice them:
+The team follows the directions to the Botscrap location and arrive without incident. Nevos-4 and Redacted scout the area and determine good locations to hunker down and wait.
+
+![Botscrap](https://www.dropbox.com/s/4az1v6vqk1bgskz/absalomBotscrap-01.jpg?raw=1)
+
+In the dim light it is difficult to see well, and the team notices the approaching two scouts at the same time the scouts notice them:
 
 #### Round 1
 - Nevos-4 misses

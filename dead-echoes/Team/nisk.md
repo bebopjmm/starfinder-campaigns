@@ -72,6 +72,7 @@ Female Ysoki Outlaw Operative(Hacker) (2)
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
 | tactical baton | 1 | +4 | 1d4 B | - | - | L | analog, operative (quick-release) |
+| survival knife | 1 | +4 | 1d4 S  | - | - | L | analog, operative |
 | tactical semi-auto pistol | 1 | +4 | 1d6 P | - | 9/1 | L | analog, 30ft range, called fusion |
 | azimuth pistol | 1 | +3 | 1d4 F | burn 1d4 | 20/1 | L | 80ft range |
 
