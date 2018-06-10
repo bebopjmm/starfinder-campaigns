@@ -81,7 +81,7 @@ At the intersection a side passage goes to their left while the other passage co
 ### Development
 
 Search of the body yields: freebooter armor 1, azimuth laser pistol with battery (20 charges), survival knife,
-tactical shirren-eye rifle with 24 longarm rounds, clear spindle aeon stone, and credstick (300cr).  
+tactical shirren-eye rifle with 24 longarm rounds, clear spindle aeon stone, and credstick (300cr). They also uninstall her jump jets and take them.  
 Who this android was remained a mystery, but she was obviously an operative. Among her gear was a dossier with each of the team members.
 
 Move on to side passageway.
@@ -179,12 +179,71 @@ Nisk stealths into the cavern and initially they don't see each other, but as sh
 
 - Neither Taraea or Cyscokt were familiar with the horrific creature they had just fought.
 - Nevos-4 recognizes one of the dead void zombies as the Acreon captain
-- team collects the credstick, artillery laser and needler pistol
+- team collects the credstick, azimuth laser rifle and needler pistol
 - quick check of north cavern before approaching door to south
-  - nisk doesn't find any traps and its not locked
-  - quickly finds out artifical gravity is working in corridor beyond door
-  - team leaves unnecessary gear at entrance
+
+## Exploring an Alien Complex
+
+- nisk doesn't find any traps and its not locked
+- quickly finds out artificial gravity is working in corridor beyond door
+- team leaves unnecessary gear at entrance
 
 Go left at intersection and discover something astounding.
 
 ### Ancient Control room
+
+- Nisk, Taraea, and Cyscokt study the consoles but don't figure out much other than its advanced hybrid tech incorporating magic and technology.
+  - looking it over they think its safe to try to access
+- Gereon and Nisk attempt to access to computer console, but set off a trap  
+  - nisk evades the arcing electricity but gereon take it full forece and is unconscious (20dmg )
+  - this attracts the attention of the security bot, nevos-4 spots it as cyscokt stablizes gereon
+
+#### Round 1
+
+- Nisk sneaks to firing range and trick attacks robot (3 dmg)
+- Gereon wills himself back into the fight (1hp )
+- Nevos-4 full attack with autocannon, hitting both times (10dmg )
+- cyscokt uses medpatch to treat gereon's wounds (3 hp)
+- taraea activates solar armor, photon attunement and moves closer
+- robot closes and hits nisk with arc emitter (4dmg )
+
+#### Round 2
+
+- nisk relays that robots like these are vulnerable to electricity, as she fires a shot Missing
+- gereon invokes *get'em* on the robot
+- nevos-4 moves in front of nisk and throws his last shock grenade (4dmg )
+- cyscokt injects gereon with healing serum
+- taraea tell everyone to fall back and draw in robots
+- robot issues *jolting arc*, only nisk saves avoiding all damage (5dmg )
+
+#### Round 3
+
+- nisk takes a shot, missing before falling back
+- gereon invokes *get'em*
+- nevos-4 hits with autocannon and falls back
+- cyscokt readies shot
+- taraea readies a shot
+- robot shoots nevos-4 with arc emitter (4dmg ) before advancing
+  - taraea hits with pike (6dmg )
+  - cyscokt CRITS with pulsecaster killing the robot!
+
+### Development
+
+- Cyscokt and Taraea both feel a presence, an... alien presence touching their minds.
+- Nevos-4 wants to scout and secure where that robot came from, but Cyscokt strongly believes the team should regroup back on the Acreon. Taraea agrees with Cyscokt.
+- Grab the rest of their gear at entrance and backtrack through passageways, then spacewalk to Acreon.
+
+Back on board there is a lot of discussion about the day's events and discoveries. Taraea and Cyscokt share the strange alien presence that they felt while in the alien complex.
+
+Cyscokt strongly recommends a full day's bedrest for both Gereon and Taraea.
+- Taraea begrudingly agrees, but is firm that no one goes back to Drift Rock without full team
+- Watches are to be set
+
+### Advancement to Level 3!
+
+
+### Next Day
+
+The night passed uneventfully and next morning Gereon continued to fight void death.
+- cyscokt uses medkit to *Treat Disease* granting +4 bonus to Gereon's next check, and he succeeds
+  - stays in Weakened state (1 of 2 needed saves)

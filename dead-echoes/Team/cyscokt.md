@@ -3,7 +3,7 @@
 
 ![Cyscokt](https://www.dropbox.com/s/q8v1jg6kf51dbqb/cyscokt.jpg?raw=1)
 
-Male Shirren Spacefarer Mystic (2)  
+Male Shirren Spacefarer Mystic (3)  
 **Homeworld**: The Diaspora
 
 ## Stats
@@ -14,7 +14,7 @@ Male Shirren Spacefarer Mystic (2)
 
 | Save | Fort (Con) | Reflex (Dex) | Will (Wis) |
 | ---- | :--------: | :----------: | :--------: |
-| Mod | +2 | +0 | +6 |
+| Mod | +3 | +1 | +6 |
 
 | Skill | Mod | Ranks | Notes
 | ---- | :--: | :---: | ----- |
@@ -22,19 +22,19 @@ Male Shirren Spacefarer Mystic (2)
 | Athletics (Str) | +1 | 0 ||
 | **Bluff (Cha)** | -1 | 0 ||
 | Computers (Int:T) | - | 0 ||
-| **Culture (Int:T)** | +8 | 2 |racial|
+| **Culture (Int:T)** | +9 | 3 |racial|
 | **Diplomacy (Cha)** | +1 | 0 |racial|
 | **Disguise (Cha)** | -1 | 0 ||
 | Engineering (Int:T) | - | 0 ||
 | **Intimidate (Cha)** | -1 | 0 ||
-| **Life Science (Int:T)** | +6 | 2 ||
-| **Medicine (Int)**| +6 | 2 ||
-| **Mysticism (Wis:T)** | +8 | 2 ||
-| **Perception (Wis)** | +8 | 1 |starShaman+1|
-| **Physical Science (Int:T)** | +6 | 2 |theme|
+| **Life Science (Int:T)** | +7 | 3 ||
+| **Medicine (Int)**| +10 | 3 |skillFocus|
+| **Mysticism (Wis:T)** | +9 | 3 ||
+| **Perception (Wis)** | +9 | 2 |starShaman+1|
+| **Physical Science (Int:T)** | +7 | 3 |theme|
 | **Piloting (Dex)** | +6 | 2 |starShaman+1|
 | Profession (varies:T) | +0 | 0 ||
-| **Sense Motive (Wis)** | +7 | 1 ||
+| **Sense Motive (Wis)** | +8 | 2 ||
 | Sleight of Hand (Dex:T) | - | 0 ||
 | Stealth (Dex) | +0 | 0 ||
 | **Survival (Wis)** | +3 | 0 ||
@@ -49,8 +49,8 @@ Male Shirren Spacefarer Mystic (2)
 
 | Health | Nominal | Current |
 | ------ | :-----: | :-----: |
-| Stamina | 16 | 16 |
-| Hp | 18 | 18 |
+| Stamina | 24 | 24 |
+| Hp | 24 | 24 |
 | Resolve | 4 | 4 |
 
 #### Defense
@@ -63,17 +63,17 @@ Male Shirren Spacefarer Mystic (2)
 | :-: | :-: | :------: |
 | 11 | 12 | 20 |
 
-#### Attack Bonuses : BAB +1
+#### Attack Bonuses : BAB +2
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
-| +2 | +1 | +2 |
+| +3 | +2 | +3 |
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-| battle staff | 1 | +2 | 1d4 B | Knockdown | - | 1 | analog, block |
-| pulsecaster pistol | 1 | +1 | 1d4 E | - | 20/1 | L | 30 ft, nonlethal|
-| needler pistol   | 1 | +1 | 1d4 P | inject DC+2 | 6/1 | L | analog, injection (2 MK1b healing serum darts) |
+| battle staff | 1 | +3 | 1d4+4 B | Knockdown | - | 1 | analog, block |
+| pulsecaster pistol | 1 | +2 | 1d4+3 E | - | 20/1 | L | 30 ft, nonlethal|
+| needler pistol   | 1 | +2 | 1d4+3 P | inject DC+2 | 6/1 | L | analog, injection (1 MK1b healing serum darts) |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
@@ -85,18 +85,19 @@ Male Shirren Spacefarer Mystic (2)
 
 | Name | Effect |
 | ---- | ------ |
-| psychokinetic hand | (conc) manipulate one unattended object of no more than 10 lbs. or 1 bulk within 30ft|
-| stabilize |stabilize a dying creature within 30ft |
-| daze | stdAct (1rd) humanoid CR3 or less within 30ft dazed unless Will save, then immune for 1min |
+| [psychokinetic hand](http://www.starjammersrd.com/magic-and-spells/spells/p/psychokinetic-hand/) | stdAct (conc) 30ft range. Telekinetically move an object of 1 bulk or less.|
+| [stabilize](http://www.starjammersrd.com/magic-and-spells/spells/s/stabilize/) | stdAct 30ft range. Cause a dying creature to stabilize. |
+| [daze](http://www.starjammersrd.com/magic-and-spells/spells/d/daze/) | stdAct (1rd) 30ft range. humanoid CR3 or less dazed unless Will save, then immune for 1min |
 | detect affliction | stdAct |
 | token spell | stdAct (1hr) minor magical effects, e.g. illuminate object to shed dim light in 30ft rad |
+| detect magic | stdAct, (3min conc) 60ft range detect all magic spells, effects, items, and objects, as well as hybrid items, in the area.|
 
 
 #### 1 - DC 14
 
-| Known | Slots Per Day | Slots Used |
-| :---: | :-----------: | :--------: |
-| 3 | 3 | 2 |
+| Known | Remaining / Slots per Day |
+| :---: | :-----------------------: |
+| 4 | 4/4 |
 
 | Name | Effect |
 | ---- | ------ |
@@ -104,6 +105,7 @@ Male Shirren Spacefarer Mystic (2)
 | wisp ally ||
 | mystic cure |1d8+3 HP touch|
 | remove condition, lesser | stdAct remove one minor harmful condition affecting a creature touched |
+| identify |   |
 
 ### Abilities
 
@@ -120,14 +122,17 @@ Male Shirren Spacefarer Mystic (2)
 
 #### Mystic
 
-- **Healing Touch (10hp)**: Once per day, you can spend 10 minutes to magically heal an ally up to 5hp per mystic level.
+- **Healing Touch (15hp)**: Once per day, you can spend 10 minutes to magically heal an ally up to 5hp per mystic level.
 - **Star Shaman Connection**
-	- **Walking the Void**: You are immune to the harmful environmental effects of outer space and vacuum. You also gain a fly speed of 20 feet while in space. In addition, whenever you can see the stars, you can determine your precise location.
+	- **Walking the Void**: Cyscokt is immune to the harmful environmental effects of outer space and vacuum. He gains a fly speed of 20 feet while in space. In addition, whenever he can see the stars, he can determine his precise location.
+	- **Starlight Form**: Cyscokt can transform himself into blazing starlight as a standard action. His body sheds normal light in a 30-foot radius, and he gains the benefits of concealment (20% miss chance). He can maintain his starlight form for **3** minutes per day; this duration does not need to be continuous, but it must be used in 1-minute increments. He can forgo the ability's concealment and blinding aspects to instead simply shed light, though this still counts against the ability’s duration for the day.
 - **Mindlink**: You can form a mental link with creatures you touch, communicating information rapidly through it. You can use mindlink at will as a spell-like ability, though only once per day on any given individual.
+- **Weapon Specialization**: basic melee weapons, small arms
 
 #### Feats
 
 - **Medical Expert**: You can use the Medicine skill in conjunction with a medpatch or sprayflesh to treat deadly wounds as a full action. When used in this way, the medpatch or sprayflesh does not perform any of its normal functions. You can also use the Medicine skill to provide long-term care with just a medkit.
+- **Skill Focus (Medicine)**: +3 insight bonus
 
 
 ### Proficiencies

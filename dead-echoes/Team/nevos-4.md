@@ -3,7 +3,7 @@
 
 ![Nevos-4](https://www.dropbox.com/s/hzvxqqys19cezwh/nevos-4.jpg?raw=1)
 
-Genderless Android Ace Pilot Soldier (2)  
+Genderless Android Ace Pilot Soldier (3)  
 **Homeworld**: Aballon
 
 ## Stats
@@ -18,8 +18,8 @@ Genderless Android Ace Pilot Soldier (2)
 
 | Skill | Mod | Ranks | Notes
 | ---- | :--: | :---: | ----- |
-| **Acrobatics (Dex)** | +8/+7 | 2 |acp|
-| **Athletics (Str)** | +6/+5 | 2 |acp|
+| **Acrobatics (Dex)** | +9/+8 | 3 |acp|
+| **Athletics (Str)** | +7/+6 | 3 |acp|
 | Bluff (Cha) | -1 | 0 ||
 | Computers (Int:T) | - | 0 ||
 | Culture (Int:T) | +3 | 1 ||
@@ -30,14 +30,14 @@ Genderless Android Ace Pilot Soldier (2)
 | Life Science (Int:T) | - | 0 ||
 | **Medicine (Int)**| +1 | 0 ||
 | Mysticism (Wis:T) | - | 0 ||
-| Perception (Wis) | +1 | 1 ||
+| Perception (Wis) | +2 | 2 ||
 | Physical Science (Int:T) | - | 0 ||
-| **Piloting (Dex)** | +9 | 2 ||
+| **Piloting (Dex)** | +10 | 3 ||
 | Profession (varies:T) | +0 | 0 ||
 | Sense Motive (Wis) | -2 | 0 |racial|
 | Sleight of Hand (Dex:T) | - | 0 |acp|
 | Stealth (Dex) | +3/+2 | 0 |acp|
-| **Survival (Wis)** | +5 | 2 ||
+| **Survival (Wis)** | +6 | 3 ||
 
 | Stat | Value |
 | ---- | ----- |
@@ -49,8 +49,8 @@ Genderless Android Ace Pilot Soldier (2)
 
 | Health | Nominal | Current |
 | ------ | :-----: | :-----: |
-| Stamina | 20 | 20 |
-| Hp | 18 | 18 |
+| Stamina | 30 | 30 |
+| Hp | 25 | 25 |
 | Resolve | 4 | 4 |
 
 #### Defense
@@ -61,23 +61,22 @@ Genderless Android Ace Pilot Soldier (2)
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
-| 16 | 18 | 26 |
+| 16 | 19 | 27 |
 
-#### Attack Bonuses : BAB +2
+#### Attack Bonuses : BAB +3
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
-| +4 | +5 | +4 |
+| +5 | +6 | +5 |
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-| *light reaction cannon | 1 | +6 | 1d10 P | *anchoring | 6/1 | 3 | 90ft range, penetrating, *anchoring fusion |
-| tactical shirren eye-rifle | 2 | +5 | 1d10 P | - | 1/1 | 1 | 70ft range, analog, sniper (250 ft.), unwieldy  |
-| assault hammer | 1 | +4 | 1d6+1 B | - | - | 1 | analog |
-| frag grenade (1) | 1 | +4 | 1d6 P | - | drawn | L | 20 ft range, explode (15 ft) |
-| incendiary grenade mk1 (2)| 2 | +1 | 1d6F, 1d4 burn | - | drawn | 2L | 20ft range, explode 5ft |
-| shock grenade mk1 | 2 | +1 | 1d8E | - | drawn | L | 20ft range, explode 15ft |
-| stickbomb grenade mk1 | 2 | +1 | Entangled 2d4 rds | - | drawn | L | 20ft range, explode 10ft |
+| *light reaction cannon | 1 | +7 | 1d10+3 P | *anchoring | 6/1 | 3 | 90ft range, penetrating, *anchoring fusion |
+| tactical shirren eye-rifle | 2 | +6 | 1d10+3 P | - | 1/1 | 1 | 70ft range, analog, sniper (250 ft.), unwieldy  |
+| assault hammer | 1 | +5 | 1d6+4 B | - | - | 1 | analog |
+| frag grenade (1) | 1 | +5 | 1d6 P | - | drawn | L | 20 ft range, explode (15 ft) |
+| incendiary grenade mk1 (2)| 2 | +5 | 1d6F, 1d4 burn | - | drawn | 2L | 20ft range, explode 5ft |
+| stickbomb grenade mk1 | 2 | +5 | Entangled 2d4 rds | - | drawn | L | 20ft range, explode 10ft |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
@@ -105,11 +104,14 @@ Genderless Android Ace Pilot Soldier (2)
 #### Soldier (Guard)
 
 - **Armor Training**: reduce the armor check penalty of armor you wear by 1 (to a minimum of 0) and increase the maximum Dexterity bonus allowed by your armor by 1.
+- **Armored Advantange**: +1 to KAC when wearing armor
+- **Weapon Specialization**: basic and advanced melee weapons, small arms, long arms, heavy weapons, sniper weapons
 
 #### Feats
 
 - **Toughness**: For every character level you have (and whenever you gain a new level), you gain 1 Stamina Point. In addition, you gain a +4 bonus to Constitution checks to continue running, to avoid damage from a forced march, to hold your breath, and to avoid damage from starvation or thirst. You also gain a +4 bonus to Fortitude saving throws to avoid taking damage from hot or cold environments, to withstand the harmful effects of thick and thin atmospheres, to avoid choking when breathing in heavy smoke, and to avoid fatigue caused by sleep deprivation.
 - **Weapon Focus (heavy weapons)**: +1 attack bonus to heavy weapons
+- **Deadly Aim (+1dmg)**: When you take the attack or full attack action with weapons, you can take a –2 penalty to your attack rolls to deal additional damage equal to half your base attack bonus.
 
 
 ### Proficiencies

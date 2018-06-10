@@ -3,7 +3,7 @@
 
 ![Taraea](https://www.dropbox.com/s/y7nqhqt74tzm859/taraea.jpg?raw=1)
 
-Female Lashunta(damaya) Xenoseeker Solarian (2)  
+Female Lashunta(damaya) Xenoseeker Solarian (3)  
 **Homeworld**: Castrovel
 
 ## Stats
@@ -23,13 +23,13 @@ Female Lashunta(damaya) Xenoseeker Solarian (2)
 | Bluff (Cha) | +3 | 0 ||
 | Computers (Int:T) | - | 0 ||
 | **Culture (Int:T)** | +5 | 1 ||
-| **Diplomacy (Cha)** | +10 | 2 |racial|
+| **Diplomacy (Cha)** | +11 | 3 |racial|
 | Disguise (Cha) | +3 | 0 ||
 | Engineering (Int:T) | - | 0 ||
-| **Intimidate (Cha)** | +7 | 1 ||
-| **Life Science (Int:T)** | +8 | 2 |theme, racial|
+| **Intimidate (Cha)** | +8 | 2 ||
+| **Life Science (Int:T)** | +9 | 3 |theme, racial|
 | Medicine (Int)| +1 | 0 ||
-| **Mysticism (Wis:T)** | +5 | 2 ||
+| **Mysticism (Wis:T)** | +6 | 3 ||
 | **Perception (Wis)** | +0 | 0 ||
 | **Physical Science (Int:T)** | - | 0 ||
 | Piloting (Dex) | +1 | 0 ||
@@ -37,7 +37,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (2)
 | **Sense Motive (Wis)** | +0 | 0 ||
 | Sleight of Hand (Dex:T) | - | 0 ||
 | **Stealth (Dex)** | +5 | 1 ||
-| **Survival (Wis)** | +0 | 0 ||
+| **Survival (Wis)** | +4 | 1 ||
 
 | Stat | Value |
 | ---- | ----- |
@@ -49,8 +49,8 @@ Female Lashunta(damaya) Xenoseeker Solarian (2)
 
 | Health | Nominal | Current |
 | ------ | :-----: | :-----: |
-| Stamina | 12 | 12 |
-| Hp | 18 | 18 |
+| Stamina | 18 | 18 |
+| Hp | 25 | 25 |
 | Resolve | 4 | 4 |
 
 #### Defense
@@ -65,16 +65,16 @@ Female Lashunta(damaya) Xenoseeker Solarian (2)
 
 **Backup Generator**: can connect charged electric items such as batteries to this miniature generator to recharge them. The electricity comes from the kinetic energy of your movement, which generates 1 charge every 10 minutes of movement. No more than one item can be plugged in at a time, and the generator doesn’t produce charges when you’re resting or otherwise stationary.
 
-#### Attack Bonuses : BAB +2
+#### Attack Bonuses : BAB +3
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
-| +4 | +3 | +4 |
+| +5 | +4 | +5 |
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-| tactical pike | 1 | +5 | 1d8+2 P | - | - | 2 | analog, reach |
-| azimuth pistol | 1 | +3 | 1d4 F | burn 1d4 | 19/1 | L | 80 ft range |
+| tactical pike | 1 | +6 | 1d8+5 P | - | - | 2 | analog, reach |
+| azimuth pistol | 1 | +4 | 1d4+3 F | burn 1d4 | 19/1 | L | 80 ft range |
 
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
@@ -111,10 +111,16 @@ Female Lashunta(damaya) Xenoseeker Solarian (2)
 		- After you use this revelation, you immediately become unattuned.
 		- Supernova functions as a zenith revelation for the purposes of abilities that reference them.
 	- **Stellar Rush (p)**: As a standard action, you can wreathe yourself in stellar fire and make a charge without the standard penalties. When you are attuned or fully attuned, you can substitute a bull rush for the melee attack at the end of the charge. Whether or not you succeed at the bull rush, the target takes 2d6 fire damage (Reflex half).
+- **Weapon Specialization**: basic melee and advanced weapons, small arms
+- **Sidereal Influence**: Spend 1 minute in meditation, then choose either graviton skills or photon skills. When attempting a skill check with one of your selected skills of the chosen type (either graviton or photon), you can roll 1d6 and add the result as an insight bonus to your check. This ability lasts until you enter combat, fall unconscious, sleep, or meditate again to choose a different skill type.
+	- **Graviton**: Mysticism
+	- **Photon**: Survival
+
 
 #### Feats
 
 - **Weapon Focus (adv melee weapons)**: +1 to attack with advance melee weapons
+- **Coordinated Shot**: Allies gain a +1 bonus to ranged attacks against foes you threaten
 
 ### Proficiencies
 

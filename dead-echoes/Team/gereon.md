@@ -3,10 +3,10 @@
 
 ![Gereon](https://www.dropbox.com/s/e1c87463yfzquuh/gereon.jpg?raw=1)
 
-Male Human Corporate Agent Envoy (2)  
+Male Human Corporate Agent Envoy (3)  
 **Homeworld**: Absalom Station
 
-**Diseased: Void Death, Impaired (1/2 saves), fatigued, exhausted**
+**Diseased: Void Death, Weakened (1/2 saves), fatigued**
 
 ## Stats
 
@@ -16,27 +16,27 @@ Male Human Corporate Agent Envoy (2)
 
 | Save | Fort (Con) | Reflex (Dex) | Will (Wis) |
 | ---- | :--------: | :----------: | :--------: |
-| Mod | +0 | +4 | +3 |
+| Mod | +1 | +4 | +3 |
 
 | Skill | Mod | Ranks | Notes
 | ---- | :--: | :---: | ----- |
-| **Acrobatics (Dex)** | +6 | 2 ||
+| **Acrobatics (Dex)** | +7 | 3 ||
 | **Athletics (Str)** | +0 | 0 ||
-| **Bluff (Cha)** | +8 | 2 ||
-| **Computers (Int:T)** | +7 | 2 ||
-| **Culture (Int:T)** | +7 | 2 ||
-| **Diplomacy (Cha)** | +9 | 2 |theme, expertise|
+| **Bluff (Cha)** | +9 | 3 ||
+| **Computers (Int:T)** | +8 | 3 ||
+| **Culture (Int:T)** | +8 | 3 ||
+| **Diplomacy (Cha)** | +10 | 3 |theme, expertise|
 | **Disguise (Cha)** | +7 | 1 ||
 | **Engineering (Int:T)** | - | 0 ||
-| **Intimidate (Cha)** | +3 | 0 ||
+| **Intimidate (Cha)** | +7 | 1 ||
 | Life Science (Int:T) | - | 0 ||
-| **Medicine (Int)**| +2 | 0 ||
-| Mysticism (Wis:T) | +0 | 0 ||
-| **Perception (Wis)** | +5 | 2 ||
+| **Medicine (Int)**| +6 | 1 ||
+| Mysticism (Wis:T) | - | 0 ||
+| **Perception (Wis)** | +6 | 3 ||
 | Physical Science (Int:T) | - | 0 ||
-| **Piloting (Dex)** | +6 | 2 ||
+| **Piloting (Dex)** | +7 | 3 ||
 | **Profession: negotiator (Cha:T)** | +7 | 1 ||
-| **Sense Motive (Wis)** | +5 | 2 |expertise|
+| **Sense Motive (Wis)** | +6 | 3 |expertise|
 | **Sleight of Hand (Dex:T)** | +5 | 1 ||
 | **Stealth (Dex)** | +6 | 2 ||
 | Survival (Wis) | +0 | 0 ||
@@ -51,8 +51,8 @@ Male Human Corporate Agent Envoy (2)
 
 | Health | Nominal | Current |
 | ------ | :-----: | :-----: |
-| Stamina | 12 | 12 |
-| Hp | 16 | 16 |
+| Stamina | 18 | 18 |
+| Hp | 22 | 22 |
 | Resolve | 4 | 4 |
 
 #### Defense
@@ -65,17 +65,17 @@ Male Human Corporate Agent Envoy (2)
 | :-: | :-: | :------: |
 | 12 | 13 | 21 |
 
-#### Attack Bonuses : BAB +1
+#### Attack Bonuses : BAB +2
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
-| +1 | +2 | +1 |
+| +2 | +3 | +2 |
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-| survival knife | 1 | +1 | 1d4 S | - | - | L | analog, operative |
-| tactical semi-auto pistol | 1 | +3 | 1d6P | - | 9/1 | L | analog, 30ft range |
-| azimuth laser pistol | 1 | +3 | 1d4F | burn 1d4 | 19/1 | L | 80ft range |
+| survival knife | 1 | +1 | 1d4+3 S | - | - | L | analog, operative |
+| tactical semi-auto pistol | 1 | +3 | 1d6+3 P | - | 9/1 | L | analog, 30ft range |
+| azimuth laser pistol | 1 | +3 | 1d4+3 F | burn 1d4 | 19/1 | L | 80ft range |
 | incendiary grenade mk1 | 2 | +1 | 1d6F, 1d4 burn | - | drawn | L | 20ft range, explode 5ft |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
@@ -100,11 +100,14 @@ Male Human Corporate Agent Envoy (2)
 	- **Inspiring Boost (7sta)**: As a standard action, you can signal an ally within 30 feet who has taken damage from any attack made by a significant enemy at any point after your last turn ended. That ally regains 7 Stamina Points. Once an ally has benefited from your inspiring boost, that ally can’t gain the benefits of your inspiring boost again until he takes a 10-minute rest to recover Stamina Points.
 - **Expertise**: +1d6 insight bonus to Sense Motive checks
 - **Skill Expertise**: expertise insight bonus to Diplomacy checks
+	- **Well Informed**: You keep yourself as up to date as possible about the events and major figures of any region you are in. Once you have been in a settlement or region for at least 24 hours, when you attempt a Diplomacy check to gather information, you can forgo your expertise die to attempt the check as a swift action (rather than the normal 1d4 hours).
+- **Weapon Specialization**: basic melee weapons, small arms
 
 #### Feats
 
 - **Diversion**: When you successfully use Bluff to create a distraction, you can allow an ally to attempt a Stealth check to hide (instead of attempting to hide yourself). You can attempt to allow multiple allies to use Stealth to hide, but you take a –5 penalty for every ally after the first, and on a failed check no ally can attempt to hide.
 - **Weapon Focus (small arms)**: +1 attack bonus with small arms
+- **Veiled Threat**: When you successfully use the Intimidate skill to bully a creature, after the duration of its helpful attitude ends, its attitude toward you becomes indifferent rather than hostile.
 
 ### Proficiencies
 
