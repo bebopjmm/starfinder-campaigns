@@ -57,11 +57,13 @@ Female Lashunta(damaya) Xenoseeker Solarian (2)
 
 | Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
 | ----- | :-: | :-: | :-: | :-----: | :-: | :---: | :---: | :--: |
-| second skin | 1 | +1 | +2 | +5 | - | - | 1 | L |
+| second skin | 1 | +1 | +2 | +5 | - | - | backup generator | L |
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
 | 12/13sa | 13/14sa | 21/22sa |
+
+**Backup Generator**: can connect charged electric items such as batteries to this miniature generator to recharge them. The electricity comes from the kinetic energy of your movement, which generates 1 charge every 10 minutes of movement. No more than one item can be plugged in at a time, and the generator doesn’t produce charges when you’re resting or otherwise stationary.
 
 #### Attack Bonuses : BAB +2
 
@@ -72,7 +74,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (2)
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
 | tactical pike | 1 | +5 | 1d8+2 P | - | - | 2 | analog, reach |
-| azimuth pistol | 1 | +3 | 1d4 F | burn 1d4 | 20/1 | L | 80 ft range |
+| azimuth pistol | 1 | +3 | 1d4 F | burn 1d4 | 19/1 | L | 80 ft range |
 
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
@@ -105,7 +107,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (2)
 	- **Black Hole**: When you’re fully graviton-attuned, as a standard action, you can pull any number of creatures within 20 feet of you closer. You choose which creatures are affected and which ones aren’t. Each target must succeed at a **DC14 Fortitude** save or be pulled 10 feet toward you. The range of this revelation and the distance pulled increase by 5 feet at 5th level and every 4 levels thereafter. Solid objects do not block this ability, but any creature that runs into a solid object ceases moving closer to you. Creatures moved by this ability do not provoke attacks of opportunity from this movement.
 		- After you use this revelation, you immediately become unattuned.
 		- Black hole functions as a zenith revelation for the purposes of abilities that reference them.
-	- **Supernova**: When you’re fully photon-attuned, as a standard action, you can deal 1d6 fire damage plus 1d6 additional fire damage per solarian level to all creatures within 10 feet of you. A creature that succeeds at a **DC14 Reflex** save takes half damage.
+	- **Supernova (3d6)**: When you’re fully photon-attuned, as a standard action, you can deal 1d6 fire damage plus 1d6 additional fire damage per solarian level to all creatures within 10 feet of you. A creature that succeeds at a **DC14 Reflex** save takes half damage.
 		- After you use this revelation, you immediately become unattuned.
 		- Supernova functions as a zenith revelation for the purposes of abilities that reference them.
 	- **Stellar Rush (p)**: As a standard action, you can wreathe yourself in stellar fire and make a charge without the standard penalties. When you are attuned or fully attuned, you can substitute a bull rush for the melee attack at the end of the charge. Whether or not you succeed at the bull rush, the target takes 2d6 fire damage (Reflex half).

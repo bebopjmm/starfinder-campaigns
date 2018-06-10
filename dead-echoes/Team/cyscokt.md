@@ -96,7 +96,7 @@ Male Shirren Spacefarer Mystic (2)
 
 | Known | Slots Per Day | Slots Used |
 | :---: | :-----------: | :--------: |
-| 3 | 3 | 1 |
+| 3 | 3 | 2 |
 
 | Name | Effect |
 | ---- | ------ |

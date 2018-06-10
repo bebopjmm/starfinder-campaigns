@@ -97,7 +97,7 @@ Male Human Corporate Agent Envoy (2)
 
 - **Envoy Improvisation (DC 13)**: little tricks that bolster allies, confound enemies, or change the ebb and flow of battle using guile, inspiration, or luck.
 	- **Get 'Em (Ex)**: As a move action, you can choose one enemy within 60 feet. Until the start of your next turn, you and your allies gain a +1 morale bonus to attack rolls made against that enemy. The bonus persists even if the enemy moves beyond 60 feet or out of line of sight or hearing
-	- **Inspiring Boost (Ex)**: As a standard action, you can signal an ally within 30 feet who has taken damage from any attack made by a significant enemy at any point after your last turn ended. That ally regains 7 Stamina Points. Once an ally has benefited from your inspiring boost, that ally can’t gain the benefits of your inspiring boost again until he takes a 10-minute rest to recover Stamina Points.
+	- **Inspiring Boost (7sta)**: As a standard action, you can signal an ally within 30 feet who has taken damage from any attack made by a significant enemy at any point after your last turn ended. That ally regains 7 Stamina Points. Once an ally has benefited from your inspiring boost, that ally can’t gain the benefits of your inspiring boost again until he takes a 10-minute rest to recover Stamina Points.
 - **Expertise**: +1d6 insight bonus to Sense Motive checks
 - **Skill Expertise**: expertise insight bonus to Diplomacy checks
 

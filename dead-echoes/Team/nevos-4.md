@@ -76,7 +76,7 @@ Genderless Android Ace Pilot Soldier (2)
 | assault hammer | 1 | +4 | 1d6+1 B | - | - | 1 | analog |
 | frag grenade (1) | 1 | +4 | 1d6 P | - | drawn | L | 20 ft range, explode (15 ft) |
 | incendiary grenade mk1 (2)| 2 | +1 | 1d6F, 1d4 burn | - | drawn | 2L | 20ft range, explode 5ft |
-| shock grenade mk1 (2)| 2 | +1 | 1d8E | - | drawn | 2L | 20ft range, explode 15ft |
+| shock grenade mk1 | 2 | +1 | 1d8E | - | drawn | L | 20ft range, explode 15ft |
 | stickbomb grenade mk1 | 2 | +1 | Entangled 2d4 rds | - | drawn | L | 20ft range, explode 10ft |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
