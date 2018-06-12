@@ -30,14 +30,14 @@ Female Ysoki Outlaw Operative(Hacker) (3)
 | Life Science (Int:T) | - | 0 ||
 | **Medicine (Int)**| +4 | 0 |edge|
 | Mysticism (Wis:T) | - | 0 ||
-| **Perception (Wis)** | +8 | 3 |edge|
+| **Perception (Wis)** | +7 | 2 |edge|
 | Physical Science (Int:T) | - | 0 ||
 | **Piloting (Dex)** | +9 | 1 |edge|
 | Profession (varies:T) | - | 0 ||
 | **Sense Motive (Wis)** | +8 | 3 |edge|
 | **Sleight of Hand (Dex:T)** | +12 | 3 |theme,edge|
 | **Stealth (Dex)** | +13 | 3 |racial,edge|
-| **Survival (Wis)** | +4 | 0 |racial,edge|
+| **Survival (Wis)** | +8 | 1 |racial,edge|
 
 | Stat | Value |
 | ---- | ----- |
@@ -74,6 +74,7 @@ Female Ysoki Outlaw Operative(Hacker) (3)
 | tactical baton | 1 | +5 | 1d4+3 B | - | - | L | analog, operative (quick-release) |
 | survival knife | 1 | +5 | 1d4+3 S  | - | - | L | analog, operative |
 | tactical semi-auto pistol | 1 | +6 | 1d6+3 P | - | 9/1 | L | analog, 30ft range, called fusion |
+| static arc pistol  | 2 | +6 | 1d6+3 E| Arc 2 | 20/2  | L | 50ft range, stun |
 | azimuth pistol | 1 | +6 | 1d4+3 F | burn 1d4 | 16/1 | L | 80ft range |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |

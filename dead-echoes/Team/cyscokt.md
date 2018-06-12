@@ -22,7 +22,7 @@ Male Shirren Spacefarer Mystic (3)
 | Athletics (Str) | +1 | 0 ||
 | **Bluff (Cha)** | -1 | 0 ||
 | Computers (Int:T) | - | 0 ||
-| **Culture (Int:T)** | +9 | 3 |racial|
+| **Culture (Int:T)** | +8 | 2 |racial|
 | **Diplomacy (Cha)** | +1 | 0 |racial|
 | **Disguise (Cha)** | -1 | 0 ||
 | Engineering (Int:T) | - | 0 ||
@@ -30,14 +30,14 @@ Male Shirren Spacefarer Mystic (3)
 | **Life Science (Int:T)** | +7 | 3 ||
 | **Medicine (Int)**| +10 | 3 |skillFocus|
 | **Mysticism (Wis:T)** | +9 | 3 ||
-| **Perception (Wis)** | +9 | 2 |starShaman+1|
+| **Perception (Wis)** | +8 | 1 |starShaman+1|
 | **Physical Science (Int:T)** | +7 | 3 |theme|
-| **Piloting (Dex)** | +6 | 2 |starShaman+1|
+| **Piloting (Dex)** | +7 | 3 |starShaman+1|
 | Profession (varies:T) | +0 | 0 ||
 | **Sense Motive (Wis)** | +8 | 2 ||
 | Sleight of Hand (Dex:T) | - | 0 ||
 | Stealth (Dex) | +0 | 0 ||
-| **Survival (Wis)** | +3 | 0 ||
+| **Survival (Wis)** | +7 | 1 ||
 
 | Stat | Value |
 | ---- | ----- |
@@ -57,11 +57,13 @@ Male Shirren Spacefarer Mystic (3)
 
 | Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
 | ----- | :-: | :-: | :-: | :-----: | :---: | :---: | :---: | :--: |
-| second skin | 1 | +1 | +2 | +5 | - | - | 1 | L |
+| second skin | 1 | +1 | +2 | +5 | - | - | backup generator | L |
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
 | 11 | 12 | 20 |
+
+**Backup Generator**: can connect charged electric items such as batteries to this miniature generator to recharge them. The electricity comes from the kinetic energy of your movement, which generates 1 charge every 10 minutes of movement. No more than one item can be plugged in at a time, and the generator doesn’t produce charges when you’re resting or otherwise stationary.
 
 #### Attack Bonuses : BAB +2
 

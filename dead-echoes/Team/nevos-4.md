@@ -80,7 +80,7 @@ Genderless Android Ace Pilot Soldier (3)
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
-| heavy round clips | 1 | 6/6 | L |   |
+| heavy round clips | 1 | 6/3 | L |   |
 | sniper rounds  | 1 | 24 | L |   |
 
 **Anchoring**: The weapon gains immobilization as a critical hit effect. A target affected by the immobilization critical hit effect is unable to move from its space under its own power for 1d4 rounds. It cannot use any form of movement, including teleportation effects, to change its position. If the target is entirely contained in a mobile object (such as a starship or large vehicle), the target is immobile relative to its location within that object. Other creatures and forces can move the target normally.

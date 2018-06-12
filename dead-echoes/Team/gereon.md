@@ -6,8 +6,6 @@
 Male Human Corporate Agent Envoy (3)  
 **Homeworld**: Absalom Station
 
-**Diseased: Void Death, Weakened (1/2 saves), fatigued**
-
 ## Stats
 
 |**Ability**|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA** \* |
@@ -74,8 +72,8 @@ Male Human Corporate Agent Envoy (3)
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
 | survival knife | 1 | +1 | 1d4+3 S | - | - | L | analog, operative |
-| tactical semi-auto pistol | 1 | +3 | 1d6+3 P | - | 9/1 | L | analog, 30ft range |
-| azimuth laser pistol | 1 | +3 | 1d4+3 F | burn 1d4 | 19/1 | L | 80ft range |
+| tactical semi-auto pistol | 1 | +4 | 1d6+3 P | - | 9/1 | L | analog, 30ft range |
+| azimuth laser pistol | 1 | +4 | 1d4+3 F | burn 1d4 | 20/1 | L | 80ft range |
 | incendiary grenade mk1 | 2 | +1 | 1d6F, 1d4 burn | - | drawn | L | 20ft range, explode 5ft |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |

@@ -239,11 +239,38 @@ Cyscokt strongly recommends a full day's bedrest for both Gereon and Taraea.
 - Taraea begrudingly agrees, but is firm that no one goes back to Drift Rock without full team
 - Watches are to be set
 
-### Advancement to Level 3!
+**Advancement to Level 3!**
 
-
-### Next Day
-
-The night passed uneventfully and next morning Gereon continued to fight void death.
-- cyscokt uses medkit to *Treat Disease* granting +4 bonus to Gereon's next check, and he succeeds
+The night passed uneventfully. Next morning Gereon continued to fight void death.
+- cyscokt uses medkit to *Treat Disease* granting +4 bonus to Gereon's check, and he succeeds
   - stays in Weakened state (1 of 2 needed saves)
+- Gereon and Taraea each heal 1 Str ability damage
+
+The next day both Gereon and Taraea had spent a full day of bed rest
+- Gereon has healed all Str ability damage and Taraea heals 2 more Str points (only down 1)
+- cyscokt uses medkit to *Treat Disease* granting +4 bonus to Gereon's check, and he succeeds- fully recovered from void death!
+- Taraea meditates for **Graviton** *Sidereal Influence*
+
+Team is ready to return to the Drift Rock. The spacewalk across to the Drift Rock goes without a hitch.
+- gereon and nevos-4 notice that the corpse of Nolkiek, the space goblin, is no longer in the chamber where they left it
+- taraea is able to wear the freebooter armor that belonged to clara-247
+
+## The Alien Machinery
+
+With nevos-4 and nisk in the lead, the team verifies the corridor that the sentry robot came from is now empty and is a dead end.
+- cyscokt casts *detect magic* and verifies the machinery is a hybrid technology
+- nisk does *Take 20* for Engineering check studying the machinery
+  - concludes this set of machinery was for monitoring the status and operation of larger, unknown systems located elsewhere
+  - the advanced technology of a type not seen in the Pact Worlds system
+  - with gereon's aid, she recognize the symbols as error messages and warning indicators in an unknown language.
+
+While everyone else was busy studying the machinery, nevos-4 found a sealed bolthole at the northwest corner of the corridor.
+- nisk can't engineer it open, so brute force is applied
+- between Taraea and nevos-4 hammering and blasting with artillery laser (full battery used) it takes a few minutes to break through
+
+## Sealed Bolthole
+
+- cyscokt inspects the body, its been here for quite some time. There are numerous wounds, but the cause of death was clearly self-inflicted head wound. Recognizes it as same woman as the driftdead that the team fought.
+- collect her gear
+  - nisk hacks into her infoPad and immediately finds her last recording
+  - nisk, gereon, and taraea recognize the ship name and legend

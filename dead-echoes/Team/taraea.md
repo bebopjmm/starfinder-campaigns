@@ -19,7 +19,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (3)
 | Skill | Mod | Ranks | Notes
 | ---- | :--: | :---: | ----- |
 | **Acrobatics (Dex)** | +1 | 0 ||
-| **Athletics (Str)** | +6 | 1 ||
+| **Athletics (Str)** | +7 | 2 ||
 | Bluff (Cha) | +3 | 0 ||
 | Computers (Int:T) | - | 0 ||
 | **Culture (Int:T)** | +5 | 1 ||
@@ -37,7 +37,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (3)
 | **Sense Motive (Wis)** | +0 | 0 ||
 | Sleight of Hand (Dex:T) | - | 0 ||
 | **Stealth (Dex)** | +5 | 1 ||
-| **Survival (Wis)** | +4 | 1 ||
+| **Survival (Wis)** | +0 | 0 ||
 
 | Stat | Value |
 | ---- | ----- |
@@ -57,13 +57,11 @@ Female Lashunta(damaya) Xenoseeker Solarian (3)
 
 | Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
 | ----- | :-: | :-: | :-: | :-----: | :-: | :---: | :---: | :--: |
-| second skin | 1 | +1 | +2 | +5 | - | - | backup generator | L |
+| freebooter armor I | 2 | +2 | +3 | +4 | - | - | 0 | L |
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
-| 12/13sa | 13/14sa | 21/22sa |
-
-**Backup Generator**: can connect charged electric items such as batteries to this miniature generator to recharge them. The electricity comes from the kinetic energy of your movement, which generates 1 charge every 10 minutes of movement. No more than one item can be plugged in at a time, and the generator doesn’t produce charges when you’re resting or otherwise stationary.
+| 13/14sa | 14/15sa | 22/23sa |
 
 #### Attack Bonuses : BAB +3
 
@@ -156,7 +154,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (3)
 
 Taraea was born on Castrovel to a prosperous Lashunta family of artisans. As she entered her formative years of study, Taraea became engrossed with the solarian path. Although they didn't understand her fascination, her family supported her choice to apprentice at the Cosmonastery of the Empty Orbit on Absalom Station. They do, however, have expectations that her endeavors will at some point benefit Castrovel, and naturally the family.
 
-Taraea graduated from her training shortly after the disasterous Scoured Stars incident. The subsequent  Starfinder Society recruitment push appealed strongly to her desire to seek out and understand alien life. The Wayfinders faction took interest in her application, and Taraea received a recruitment offer with instructions to meet Starfinder representative, Duravor Kreel.
+Taraea graduated from her training shortly after the disasterous Scoured Stars incident. The subsequent Starfinder Society recruitment push appealed strongly to her desire to seek out and understand alien life. The Wayfinders faction took interest in her application, and Taraea received a recruitment offer with instructions to meet Starfinder representative, Duravor Kreel.
 
 ## Personality
 ### Traits
