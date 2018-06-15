@@ -39,19 +39,15 @@ Genderless Android Ace Pilot Soldier (3)
 | Stealth (Dex) | +3/+2 | 0 |acp|
 | **Survival (Wis)** | +6 | 3 ||
 
-| Stat | Value |
-| ---- | ----- |
-| Size | Medium |
-| Speed | 30/25 |
-| Init | +3 |
+| Size | Speed | Init |
+| :--: | :---: | :--: |
+| Medium | 25/30 | +3 |
 
 ### Combat
 
-| Health | Nominal | Current |
-| ------ | :-----: | :-----: |
-| Stamina | 30 | 30 |
-| Hp | 25 | 25 |
-| Resolve | 4 | 4 |
+| Stamina | Hit Points | Resolve |
+| :-----: | :--------: | :-----: |
+| 30/30 | 25/25 | 4/4 |
 
 #### Defense
 
@@ -72,6 +68,7 @@ Genderless Android Ace Pilot Soldier (3)
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
 | *light reaction cannon | 1 | +7 | 1d10+3 P | *anchoring | 6/1 | 3 | 90ft range, penetrating, *anchoring fusion |
+| azimuth artillery laser | 1 | +7 | 1d10+3 P | burn 1d6 | 20/2 | 3 | 120ft range, penetrating |
 | tactical shirren eye-rifle | 2 | +6 | 1d10+3 P | - | 1/1 | 1 | 70ft range, analog, sniper (250 ft.), unwieldy  |
 | assault hammer | 1 | +5 | 1d6+4 B | - | - | 1 | analog |
 | frag grenade (1) | 1 | +5 | 1d6 P | - | drawn | L | 20 ft range, explode (15 ft) |

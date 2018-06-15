@@ -39,19 +39,15 @@ Female Ysoki Outlaw Operative(Hacker) (3)
 | **Stealth (Dex)** | +13 | 3 |racial,edge|
 | **Survival (Wis)** | +8 | 1 |racial,edge|
 
-| Stat | Value |
-| ---- | ----- |
-| Size | Small |
-| Speed | 40 |
-| Init | +5 |
+| Size | Speed | Init |
+| :--: | :---: | :--: |
+| Small | 40 | +5 |
 
 ### Combat
 
-| Health | Nominal | Current |
-| ------ | :-----: | :-----: |
-| Stamina | 18 | 18 |
-| Hp |  20 | 20 |
-| Resolve | 4 | 4 |
+| Stamina | Hit Points | Resolve |
+| :-----: | :--------: | :-----: |
+| 18/18 | 20/20 | 4/4 |
 
 #### Defense
 

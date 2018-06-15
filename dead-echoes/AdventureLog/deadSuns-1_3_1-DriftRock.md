@@ -272,5 +272,68 @@ While everyone else was busy studying the machinery, nevos-4 found a sealed bolt
 
 - cyscokt inspects the body, its been here for quite some time. There are numerous wounds, but the cause of death was clearly self-inflicted head wound. Recognizes it as same woman as the driftdead that the team fought.
 - collect her gear
-  - nisk hacks into her infoPad and immediately finds her last recording
+  - nisk hacks into her infoPad and immediately finds her last recording - very sad
   - nisk, gereon, and taraea recognize the ship name and legend
+
+Time to move on to the double doors.
+
+## The Starship Grotto
+
+As the team enters the grotto the see the starship, but also four dissected corpses on the floor, two human, one android, and one goblin. The android and goblin dissections are very fresh.
+
+- cyscokt and taraea both sense the telepathic presence as the garaggakal swoops in, but everyone else is surprised
+
+### Garaggakal Attack
+
+#### Surpise Round
+
+- taraea activates her solar armor and photon attunement
+- garaggakal *leech life* from nisk for 7 dmg (nisk hears eerie delight of flavors)
+- cyscokt moves next to nisk
+
+#### Round 1
+
+- Gereon issues *get'em* on the garaggakal and *inspiring boost* on nisk (7sta)
+- Taraea closes and strikes with pike but misses
+- Nevos-4 moves for better firing line but misses with artillery laser
+- Enticed by lashunta, garaggakal *leech life* on taraea for 8dmg
+- Nisk pulls off CRIT trick attack for 21 dmg with arc pistol! sadly the shot also arcs to hit taraea for 2dmg
+- Cyscokt casts *wisp ally*, providing covering fire for Taraea
+
+#### Round 2
+
+- Gereon issues *get'em* on the garaggakal and *inspiring boost* on Taraea (7sta)
+- taraea identifies the creature as a garaggakal and that it is vulnerable to electrical attack, but misses with pike
+- nevos-4 hits with both shots of full attack for 22 dmg
+- garaggakal acrobatically flies away from taraea and closes on nisk, biting for 17dmg
+- nisk doesn't pull off trick attack, but does hit garaggakal with arc pistol for 9dmg
+- cycsokt has *wisp ally* provide harrying fire and takes guarded step
+
+#### Round 3
+
+- Gereon moves to get clear shot and issues *get'em* on the garaggakal
+- Taraea *stellar rush* for bull rush against garaggakal for 9dmg
+- Nevos-4 takes guarded step and hits with artillery laser
+- garaggakal bites nisk again 15 dmg
+- nisk takes guarded step back and fires arc pistol, hitting for 7dmg
+- cyscokt casts *mystic cure* on nisk for 6HP healing and moves between nisk and garaggakal
+
+#### Round 4
+
+- Gereon issues *get'em* but misses shot
+- Taraea take guarded step back and triggers *supernova* 10dmg
+- Nevos-4 full attack hits once for 9dmg
+- garaggakal *leech life* from Cyscokt for 6 dmg
+- nisk doesn't pull off trick attack, but does hit garaggakal with arc pistol for 10dmg, killing it!
+
+ ### Development
+
+Cyscokt casts another *mystic cure* on nisk as everyone takes a rest.
+
+Take possession of the Sunrise Maiden!
+ - haul the remains of the sentry robot onboard to sell
+ - nisk hacks the computer system to open the docking bay
+
+Fly and dock with Acreon, grab remaining gear, and board to return to Absalom Station.
+
+# END OF BOOK 1

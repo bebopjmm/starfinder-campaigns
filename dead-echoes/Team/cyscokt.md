@@ -39,19 +39,15 @@ Male Shirren Spacefarer Mystic (3)
 | Stealth (Dex) | +0 | 0 ||
 | **Survival (Wis)** | +7 | 1 ||
 
-| Stat | Value |
-| ---- | ----- |
-| Size | Medium |
-| Speed | 30 |
-| Init | +0 |
+| Size | Speed | Init |
+| :--: | :---: | :--: |
+| Medium | 30 | +0 |
 
 ### Combat
 
-| Health | Nominal | Current |
-| ------ | :-----: | :-----: |
-| Stamina | 24 | 24 |
-| Hp | 24 | 24 |
-| Resolve | 4 | 4 |
+| Stamina | Hit Points | Resolve |
+| :-----: | :--------: | :-----: |
+| 24/24 | 24/24 | 4/4 |
 
 #### Defense
 
@@ -90,22 +86,22 @@ Male Shirren Spacefarer Mystic (3)
 | [psychokinetic hand](http://www.starjammersrd.com/magic-and-spells/spells/p/psychokinetic-hand/) | stdAct (conc) 30ft range. Telekinetically move an object of 1 bulk or less.|
 | [stabilize](http://www.starjammersrd.com/magic-and-spells/spells/s/stabilize/) | stdAct 30ft range. Cause a dying creature to stabilize. |
 | [daze](http://www.starjammersrd.com/magic-and-spells/spells/d/daze/) | stdAct (1rd) 30ft range. humanoid CR3 or less dazed unless Will save, then immune for 1min |
-| detect affliction | stdAct |
-| token spell | stdAct (1hr) minor magical effects, e.g. illuminate object to shed dim light in 30ft rad |
-| detect magic | stdAct, (3min conc) 60ft range detect all magic spells, effects, items, and objects, as well as hybrid items, in the area.|
+| [detect affliction](http://www.starjammersrd.com/magic-and-spells/spells/d/detect-affliction/) | stdAct 30ft range. Determine whether a creature or object has been poisoned, is diseased, is cursed, or is suffering a similar affliction. |
+| [token spell](http://www.starjammersrd.com/magic-and-spells/spells/t/token-spell/) | stdAct (1hr) 10ft range. minor magical effects, e.g. illuminate object to shed dim light in 30ft rad |
+| [detect magic](http://www.starjammersrd.com/magic-and-spells/spells/d/detect-magic/) | stdAct, (3min conc) 60ft range detect all magic spells, effects, items, and objects, as well as hybrid items, in the area.|
 
 
 #### 1 - DC 14
 
 | Known | Remaining / Slots per Day |
 | :---: | :-----------------------: |
-| 4 | 4/4 |
+| 4 | 2/4 |
 
 | Name | Effect |
 | ---- | ------ |
 | shooting stars |2 missiles (3 full-attack) do 1d4+1 force dmg|
-| wisp ally ||
-| mystic cure |1d8+3 HP touch|
+| [wisp ally](http://www.starjammersrd.com/magic-and-spells/spells/w/wisp-ally/) | stdAct (3rd) 30ft range. Create wisp of energy that shines light and distracts an enemy.|
+| [mystic cure](http://www.starjammersrd.com/magic-and-spells/spells/m/mystic-cure/) | stdAct touch. 1d8+3 HP. No AoO when casting|
 | remove condition, lesser | stdAct remove one minor harmful condition affecting a creature touched |
 | identify |   |
 

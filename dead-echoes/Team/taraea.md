@@ -39,19 +39,15 @@ Female Lashunta(damaya) Xenoseeker Solarian (3)
 | **Stealth (Dex)** | +5 | 1 ||
 | **Survival (Wis)** | +0 | 0 ||
 
-| Stat | Value |
-| ---- | ----- |
-| Size | Medium |
-| Speed | 30 |
-| Init | +1 |
+| Size | Speed | Init |
+| :--: | :---: | :--: |
+| Medium | 30 | +1 |
 
 ### Combat
 
-| Health | Nominal | Current |
-| ------ | :-----: | :-----: |
-| Stamina | 18 | 18 |
-| Hp | 25 | 25 |
-| Resolve | 4 | 4 |
+| Stamina | Hit Points | Resolve |
+| :-----: | :--------: | :-----: |
+| 18/18 | 25/25 | 4/4 |
 
 #### Defense
 
@@ -108,7 +104,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (3)
 	- **Supernova (3d6)**: When you’re fully photon-attuned, as a standard action, you can deal 1d6 fire damage plus 1d6 additional fire damage per solarian level to all creatures within 10 feet of you. A creature that succeeds at a **DC14 Reflex** save takes half damage.
 		- After you use this revelation, you immediately become unattuned.
 		- Supernova functions as a zenith revelation for the purposes of abilities that reference them.
-	- **Stellar Rush (p)**: As a standard action, you can wreathe yourself in stellar fire and make a charge without the standard penalties. When you are attuned or fully attuned, you can substitute a bull rush for the melee attack at the end of the charge. Whether or not you succeed at the bull rush, the target takes 2d6 fire damage (Reflex half).
+	- **Stellar Rush (p)**: As a standard action, you can wreathe yourself in stellar fire and make a charge without the standard penalties. When you are attuned or fully attuned, you can substitute a bull rush for the melee attack at the end of the charge. Whether or not you succeed at the bull rush, the target takes 2d6 fire damage (**DC14 Reflex** half).
 - **Weapon Specialization**: basic melee and advanced weapons, small arms
 - **Sidereal Influence**: Spend 1 minute in meditation, then choose either graviton skills or photon skills. When attempting a skill check with one of your selected skills of the chosen type (either graviton or photon), you can roll 1d6 and add the result as an insight bonus to your check. This ability lasts until you enter combat, fall unconscious, sleep, or meditate again to choose a different skill type.
 	- **Graviton**: Mysticism

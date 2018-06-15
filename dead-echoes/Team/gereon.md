@@ -39,19 +39,15 @@ Male Human Corporate Agent Envoy (3)
 | **Stealth (Dex)** | +6 | 2 ||
 | Survival (Wis) | +0 | 0 ||
 
-| Stat | Value |
-| ---- | ----- |
-| Size | Medium |
-| Speed | 30 |
-| Init | +1 |
+| Size | Speed | Init |
+| :--: | :---: | :--: |
+| Medium | 30 | +1 |
 
 ### Combat
 
-| Health | Nominal | Current |
-| ------ | :-----: | :-----: |
-| Stamina | 18 | 18 |
-| Hp | 22 | 22 |
-| Resolve | 4 | 4 |
+| Stamina | Hit Points | Resolve |
+| :-----: | :--------: | :-----: |
+| 18/18 | 22/22 | 4/4 |
 
 #### Defense
 
