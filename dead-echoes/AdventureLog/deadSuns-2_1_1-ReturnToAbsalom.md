@@ -32,6 +32,7 @@ Taraea calls battlestations.
 - iron rictus closes
 - nevos-4 evades (+2 AC/TL)
 - gereon scans and learns basic information and defenses
+  - nisk recognizes the ship's affiliation with the Corpse Fleet (Taraea concurs)
 - iron rictus fails at targeting
 
 #### gunnery
