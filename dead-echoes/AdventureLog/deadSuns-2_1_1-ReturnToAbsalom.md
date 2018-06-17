@@ -49,4 +49,58 @@ Taraea calls battlestations.
 #### helm
 
 - nevos-4 wins the initiative
-- 
+- iron rictus maneuvers
+- nevos-4 back-off stunt
+- gereon targets engines of iron Rictus (uses 1/2 modifiers)
+- iron fails to balance shields
+
+#### gunnery
+
+- iron rictus hits maiden fwd shields with coilgun (10dmg)
+- Taraea encouraged Cyscokt (+2 to Gunnery)
+- Cyscokt CRITS (24dmg) - engines and sensors glitching
+
+### Round 3
+
+#### Engineering
+
+- nisk diverts power to restore 7 shield Points
+- iron rictus patches engine glitching
+
+#### helm
+
+- iron rictus captain demand pilot get his shit together (+4)
+- nevos-4 still wins initiative (1/2 modifiers used)
+- iron rictus maneuvers and evades (+2 AC/TL)
+- Taraea directs Gereon to switch to gunnery
+- nevos-4 slides along port side of iron rictus
+
+#### gunnery
+
+- Taraea taunts gunners of iron rictus (-2 for 3rds)
+- iron rictus gunner misses!
+- gereon an nevos both miss
+
+### Round 4
+
+- nisk diverted aux power to weapons (1 treated as 2)
+- iron rictus patches sensors glitching
+
+#### helm
+
+- iron captain fails to encourage pilot
+- nevos-4 wins init
+- iron rictus maneuvers
+- nevos-4 maneuvers but fails to evade
+
+#### gunnery
+
+- iron coilgun hits for 7dmg
+- Taraea encourages cyscokt (+2)
+- Cyscokt CRITS AGAIN 26 dmg, disabling the Iron Rictus!
+
+### Development
+
+Stewards starships come over the comms offering support. The Iron Rictus explodes. Steward starships offer escort to Absalom Station.
+
+## Arrival in Absalom
