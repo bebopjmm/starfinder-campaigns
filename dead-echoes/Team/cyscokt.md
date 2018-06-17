@@ -10,16 +10,16 @@ Male Shirren Spacefarer Mystic (3)
 
 |**Ability**|**STR**|**DEX**|**CON**|**INT**|**WIS** \* |**CHA**|
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|Mod (Val)| +1 (12) | +0 (10) | +2 (14) | +1 (12) | +3 (16) | -1 (9) |
+|Mod (Val)| +0 (10) | +1 (12) | +2 (14) | +1 (12) | +3 (16) | -1 (9) |
 
 | Save | Fort (Con) | Reflex (Dex) | Will (Wis) |
 | ---- | :--------: | :----------: | :--------: |
-| Mod | +3 | +1 | +6 |
+| Mod | +3 | +2 | +6 |
 
 | Skill | Mod | Ranks | Notes
 | ---- | :--: | :---: | ----- |
-| Acrobatics (Dex) | +0 | 0 ||
-| Athletics (Str) | +1 | 0 ||
+| Acrobatics (Dex) | +1 | 0 ||
+| Athletics (Str) | +0 | 0 ||
 | **Bluff (Cha)** | -1 | 0 ||
 | Computers (Int:T) | - | 0 ||
 | **Culture (Int:T)** | +8 | 2 |racial|
@@ -32,11 +32,11 @@ Male Shirren Spacefarer Mystic (3)
 | **Mysticism (Wis:T)** | +9 | 3 ||
 | **Perception (Wis)** | +8 | 1 |starShaman+1|
 | **Physical Science (Int:T)** | +7 | 3 |theme|
-| **Piloting (Dex)** | +7 | 3 |starShaman+1|
+| **Piloting (Dex)** | +8 | 3 |starShaman+1|
 | Profession (varies:T) | +0 | 0 ||
 | **Sense Motive (Wis)** | +8 | 2 ||
 | Sleight of Hand (Dex:T) | - | 0 ||
-| Stealth (Dex) | +0 | 0 ||
+| Stealth (Dex) | +1 | 0 ||
 | **Survival (Wis)** | +7 | 1 ||
 
 | Size | Speed | Init |
@@ -57,7 +57,7 @@ Male Shirren Spacefarer Mystic (3)
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
-| 11 | 12 | 20 |
+| 12 | 13 | 21 |
 
 **Backup Generator**: can connect charged electric items such as batteries to this miniature generator to recharge them. The electricity comes from the kinetic energy of your movement, which generates 1 charge every 10 minutes of movement. No more than one item can be plugged in at a time, and the generator doesn’t produce charges when you’re resting or otherwise stationary.
 
@@ -65,13 +65,13 @@ Male Shirren Spacefarer Mystic (3)
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
-| +3 | +2 | +3 |
+| +2 | +3 | +2 |
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-| battle staff | 1 | +3 | 1d4+4 B | Knockdown | - | 1 | analog, block |
-| pulsecaster pistol | 1 | +2 | 1d4+3 E | - | 20/1 | L | 30 ft, nonlethal|
-| needler pistol   | 1 | +2 | 1d4+3 P | inject DC+2 | 6/1 | L | analog, injection (1 MK1b healing serum darts) |
+| battle staff | 1 | +2 | 1d4+4 B | Knockdown | - | 1 | analog, block |
+| pulsecaster pistol | 1 | +3 | 1d4+3 E | - | 20/1 | L | 30 ft, nonlethal|
+| needler pistol   | 1 | +3 | 1d4+3 P | inject DC+2 | 6/1 | L | analog, injection (1 MK1b healing serum darts) |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
@@ -149,8 +149,8 @@ Male Shirren Spacefarer Mystic (3)
 
 | Carry | Weight |
 | ----- | ------ |
-| Unencumbered | 1-8 |
-| Encumbered | 8-14 |
+| Unencumbered | 1-7 |
+| Encumbered | 7-12 |
 | Current | 3.8 |
 
 ### Equipment
