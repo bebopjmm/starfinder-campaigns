@@ -53,11 +53,11 @@ Female Lashunta(damaya) Xenoseeker Solarian (3)
 
 | Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
 | ----- | :-: | :-: | :-: | :-----: | :-: | :---: | :---: | :--: |
-| freebooter armor I | 2 | +2 | +3 | +4 | - | - | 0 | L |
+| lashunta tempweave basic | 4 | +4 | +4 | +5 | - | - | 1 | L |
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
-| 13/14sa | 14/15sa | 22/23sa |
+| 15/16sa | 15/16sa | 23/24sa |
 
 #### Attack Bonuses : BAB +3
 
@@ -67,13 +67,14 @@ Female Lashunta(damaya) Xenoseeker Solarian (3)
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-| tactical pike | 1 | +6 | 1d8+5 P | - | - | 2 | analog, reach |
+| *tactical pike | 2 | +6 | 1d8+5 P | - | - | 2 | analog, reach *defiant* fusion seal |
 | azimuth pistol | 1 | +4 | 1d4+3 F | burn 1d4 | 19/1 | L | 80 ft range |
-
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
 | battery | 1 | 20 | - |   |
+
+**Defiant**: weapon with the defiant fusion resists efforts to be removed from its wielder. If you are wielding it when you are knocked unconscious, panicked, or stunned, it stays in your hand. You also gain a bonus to your KAC against combat maneuvers to disarm the weapon equal to one-fifth the weapon’s level (minimum +1).
 
 ### Abilities
 
@@ -128,7 +129,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (3)
 
 ## Gear
 
-**Credits:** 383
+**Credits:** 1292
 
 | Carry | Weight |
 | ----- | ------ |
@@ -143,8 +144,6 @@ Female Lashunta(damaya) Xenoseeker Solarian (3)
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
 | personal comm | L | 80 / 1/hr ||
 | MK1b healing serum (2)| 2L | - | 5hp healing  |
-| zero-g clothing | L | - | +2 circumstance bonus to Acrobatics checks to stop movement or climb along handholds in zero-g  |
-| Starstone Compass | L | - | +2 insight bonus to Piloting checks when astrogating throughout the Pact Worlds system |
 
 ## Background
 

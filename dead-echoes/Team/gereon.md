@@ -53,11 +53,11 @@ Male Human Corporate Agent Envoy (3)
 
 | Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
 | ----- | :-: | :-: | :-: | :-----: | :---: | :---: | :---: | :--: |
-| second skin | 1 | +1 | +2 | +5 | - | - | 1 | L |
+| lashunta tempweave basic | 4 | +4 | +4 | +5 | - | - | 1 | L |
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
-| 12 | 13 | 21 |
+| 15 | 15 | 23 |
 
 #### Attack Bonuses : BAB +2
 
@@ -67,15 +67,16 @@ Male Human Corporate Agent Envoy (3)
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-| survival knife | 1 | +1 | 1d4+3 S | - | - | L | analog, operative |
-| tactical semi-auto pistol | 1 | +4 | 1d6+3 P | - | 9/1 | L | analog, 30ft range |
+| survival knife | 1 | +2 | 1d4+3 S | - | - | L | analog, operative |
+| *tactical semi-auto pistol | 1 | +4 | 1d6+3 P | - | 9/1 | L | analog, 30ft range, *glamered* fusion seal (1) |
 | azimuth laser pistol | 1 | +4 | 1d4+3 F | burn 1d4 | 20/1 | L | 80ft range |
-| incendiary grenade mk1 | 2 | +1 | 1d6F, 1d4 burn | - | drawn | L | 20ft range, explode 5ft |
+| incendiary grenade mk1 | 2 | +2 | 1d6F, 1d4 burn | - | drawn | L | 20ft range, explode 5ft |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
 | small arms clips | 1 | 9/9/9 | - |   |
 
+**Glamered**: As a standard action, a weapon with the glamered fusion can be commanded to change its appearance to assume the form of another object of similar size. The weapon retains all its properties (including bulk) when disguised but does not radiate magic. Only true seeing or similar magic reveals the true nature of a glamered weapon while it is in disguise. After a glamered weapon is used to make an attack, this fusion is suppressed for 1 minute.
 
 ### Abilities
 
@@ -116,7 +117,7 @@ Male Human Corporate Agent Envoy (3)
 
 ## Gear
 
-**Credits:** 546
+**Credits:** 1614
 
 | Carry | Weight |
 | ----- | ------ |
@@ -129,11 +130,8 @@ Male Human Corporate Agent Envoy (3)
 | Item | Bulk | Capacity/Usage | Notes |
 | ---- | :--: | :------------: | ----- |
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
-| flashlight | L | 10/ 1/hr | 20ft cone of light  |
 | personal comm | L | 80 / 1/hr ||
 | MK1b healing serum | L | - | 5hp healing  |
-| zero-g clothing | L | - | +2 circumstance bonus to Acrobatics checks to stop movement or climb along handholds in zero-g  |
-| Starstone Compass | L | - | +2 insight bonus to Piloting checks when astrogating throughout the Pact Worlds system  |
 
 ## Background
 

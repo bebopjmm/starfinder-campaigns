@@ -53,11 +53,11 @@ Female Ysoki Outlaw Operative(Hacker) (3)
 
 | Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
 | ----- | :-: | :-: | :-: | :-----: | :-: | :---: | :---: | :--: |
-| second skin | 1 | +1 | +2 | +5 | - | - | quick-release sheath | L |
+| lashunta tempweave basic | 4 | +4 | +4 | +5 | - | - | quik-release sheath | L |
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
-| 14 | 15 | 23 |
+| 17 | 17 | 25 |
 
 #### Attack Bonuses : BAB +2
 
@@ -68,15 +68,15 @@ Female Ysoki Outlaw Operative(Hacker) (3)
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
 | tactical baton | 1 | +5 | 1d4+3 B | - | - | L | analog, operative (quick-release) |
-| survival knife | 1 | +5 | 1d4+3 S  | - | - | L | analog, operative |
 | tactical semi-auto pistol | 1 | +6 | 1d6+3 P | - | 9/1 | L | analog, 30ft range, called fusion |
 | static arc pistol  | 2 | +6 | 1d6+3 E| Arc 2 | 20/2  | L | 50ft range, stun |
-| azimuth pistol | 1 | +6 | 1d4+3 F | burn 1d4 | 16/1 | L | 80ft range |
+| tactical shirren eye-rifle | 2 | +5 | 1d10+3 P | - | 1/1 | 1 | 70ft range, analog, sniper (250 ft.), unwieldy  |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
 | small arms clips | 1 | 9/9/5 | -  |   |
 | battery | 1 | 20 | - |   |
+| sniper rounds  | 1 | 24 | L |   |
 
 ### Abilities
 
@@ -117,6 +117,7 @@ Female Ysoki Outlaw Operative(Hacker) (3)
 ### Augmentations
 
 - **Vocal Modulator (Cyber-throat)**: You can more easily imitate accents or pronounce alien languages. When using Disguise to change your appearance, you gain a +2 circumstance bonus if the change in your voice also helps your disguise.
+- **Standard Datajack**: a programmable data port that allows you to access different types of computers and digital storage media. Any handheld computer can be inserted directly into the port, while larger systems need to be connected by an adapter cable. Having the system connected directly to your nervous system obviates the need for an interface to access data on a system. Actually operating the system requires you to use the Computers skill as usual. Some closed systems don’t allow data access or require you to do some rewiring to connect with a datajack (usually an Engineering check).
 
 ### Proficiencies
 
@@ -131,7 +132,7 @@ Common, Ysoki, Akitonian, Goblin, Vercite
 
 ## Gear
 
-**Credits:** 900
+**Credits:** 1575
 
 | Carry | Weight |
 | ----- | ------ |
@@ -144,15 +145,12 @@ Common, Ysoki, Akitonian, Goblin, Vercite
 | Item | Bulk | Capacity/Usage | Notes |
 | ---- | :--: | :------------: | ----- |
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
-| flashlight | L | 10/ 1/hr | 20ft cone of light  |
 | hacker kit | L | - ||
 | engineering kit  | L  | - | - |
 | trapsmith's kit | L | - | +4 Engineering bonus to arm/disarm traps |
 | personal comm | L | 80 / 1/hr ||
 | holoskin | L | 20 / 1/10min | belt mount  |
 | MK1b healing serum | L | - | 5hp healing  |
-| zero-g clothing | L | - | +2 circumstance bonus to Acrobatics checks to stop movement or climb along handholds in zero-g  |
-| Starstone Compass | L | - | +2 insight bonus to Piloting checks when astrogating throughout the Pact Worlds system |
 
 ## Background
 

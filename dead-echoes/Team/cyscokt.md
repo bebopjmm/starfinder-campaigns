@@ -10,15 +10,15 @@ Male Shirren Spacefarer Mystic (3)
 
 |**Ability**|**STR**|**DEX**|**CON**|**INT**|**WIS** \* |**CHA**|
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|Mod (Val)| +0 (10) | +1 (12) | +2 (14) | +1 (12) | +3 (16) | -1 (9) |
+|Mod (Val)| +0 (10) | +2 (14) | +2 (14) | +1 (12) | +3 (16) | -1 (9) |
 
 | Save | Fort (Con) | Reflex (Dex) | Will (Wis) |
 | ---- | :--------: | :----------: | :--------: |
-| Mod | +3 | +2 | +6 |
+| Mod | +3 | +3 | +6 |
 
 | Skill | Mod | Ranks | Notes
 | ---- | :--: | :---: | ----- |
-| Acrobatics (Dex) | +1 | 0 ||
+| Acrobatics (Dex) | +2 | 0 ||
 | Athletics (Str) | +0 | 0 ||
 | **Bluff (Cha)** | -1 | 0 ||
 | Computers (Int:T) | - | 0 ||
@@ -32,11 +32,11 @@ Male Shirren Spacefarer Mystic (3)
 | **Mysticism (Wis:T)** | +9 | 3 ||
 | **Perception (Wis)** | +8 | 1 |starShaman+1|
 | **Physical Science (Int:T)** | +7 | 3 |theme|
-| **Piloting (Dex)** | +8 | 3 |starShaman+1|
+| **Piloting (Dex)** | +9 | 3 |starShaman+1|
 | Profession (varies:T) | +0 | 0 ||
 | **Sense Motive (Wis)** | +8 | 2 ||
 | Sleight of Hand (Dex:T) | - | 0 ||
-| Stealth (Dex) | +1 | 0 ||
+| Stealth (Dex) | +2 | 0 ||
 | **Survival (Wis)** | +7 | 1 ||
 
 | Size | Speed | Init |
@@ -53,11 +53,11 @@ Male Shirren Spacefarer Mystic (3)
 
 | Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
 | ----- | :-: | :-: | :-: | :-----: | :---: | :---: | :---: | :--: |
-| second skin | 1 | +1 | +2 | +5 | - | - | backup generator | L |
+| lashunta tempweave, basic | 4 | +4 | +4 | +5 | - | - | backup generator | L |
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
-| 12 | 13 | 21 |
+| 16 | 16 | 24 |
 
 **Backup Generator**: can connect charged electric items such as batteries to this miniature generator to recharge them. The electricity comes from the kinetic energy of your movement, which generates 1 charge every 10 minutes of movement. No more than one item can be plugged in at a time, and the generator doesn’t produce charges when you’re resting or otherwise stationary.
 
@@ -65,13 +65,13 @@ Male Shirren Spacefarer Mystic (3)
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
-| +2 | +3 | +2 |
+| +2 | +4 | +2 |
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
 | battle staff | 1 | +2 | 1d4+4 B | Knockdown | - | 1 | analog, block |
-| pulsecaster pistol | 1 | +3 | 1d4+3 E | - | 20/1 | L | 30 ft, nonlethal|
-| needler pistol   | 1 | +3 | 1d4+3 P | inject DC+2 | 6/1 | L | analog, injection (1 MK1b healing serum darts) |
+| pulsecaster pistol | 1 | +4 | 1d4+3 E | - | 20/1 | L | 30 ft, nonlethal|
+| needler pistol   | 1 | +4 | 1d4+3 P | inject DC+2 | 6/1 | L | analog, injection (1 MK1b healing serum darts) |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
@@ -95,7 +95,7 @@ Male Shirren Spacefarer Mystic (3)
 
 | Known | Remaining / Slots per Day |
 | :---: | :-----------------------: |
-| 4 | 2/4 |
+| 4 | 4/4 |
 
 | Name | Effect |
 | ---- | ------ |
@@ -132,6 +132,9 @@ Male Shirren Spacefarer Mystic (3)
 - **Medical Expert**: You can use the Medicine skill in conjunction with a medpatch or sprayflesh to treat deadly wounds as a full action. When used in this way, the medpatch or sprayflesh does not perform any of its normal functions. You can also use the Medicine skill to provide long-term care with just a medkit.
 - **Skill Focus (Medicine)**: +3 insight bonus
 
+### Augmentations
+
+- **Mk1 Personal Upgrade**: Cycokt communed with a Mk1 Ability Crystal to gain +2 DEX
 
 ### Proficiencies
 
@@ -145,7 +148,7 @@ Male Shirren Spacefarer Mystic (3)
 
 ## Gear
 
-**Credits:** 635
+**Credits:** 435
 
 | Carry | Weight |
 | ----- | ------ |

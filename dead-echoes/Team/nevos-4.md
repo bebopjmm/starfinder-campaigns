@@ -53,11 +53,11 @@ Genderless Android Ace Pilot Soldier (3)
 
 | Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
 | ----- | :-: | :-: | :-: | :-----: | :-: | :---: | :---: | :--: |
-| hidden soldier armor | 2 | +3 | +5 | +3 * | -1 * | -5 | 1 | 2 |
+| ceremonial plate, officer | 4 | +6 | +8 | +3 * | -1 * | -5 | 1 | 2 |
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
-| 16 | 19 | 27 |
+| 19 | 22 | 30 |
 
 #### Attack Bonuses : BAB +3
 
@@ -67,20 +67,17 @@ Genderless Android Ace Pilot Soldier (3)
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-| *light reaction cannon | 1 | +7 | 1d10+3 P | *anchoring | 6/1 | 3 | 90ft range, penetrating, *anchoring fusion |
-| azimuth artillery laser | 1 | +7 | 1d10+3 P | burn 1d6 | 20/2 | 3 | 120ft range, penetrating |
-| tactical shirren eye-rifle | 2 | +6 | 1d10+3 P | - | 1/1 | 1 | 70ft range, analog, sniper (250 ft.), unwieldy  |
-| assault hammer | 1 | +5 | 1d6+4 B | - | - | 1 | analog |
+| azimuth artillery laser | 1 | +7 | 1d10+3 F | burn 1d6 | 20/2 | 3 | 120ft range, penetrating |
+| *thunderstrike pulse gauntlet | 2 | +5 | 1d6+4 B&So | Knockdown | 20/1 powered | 1 | Powered, *ulrikka duster* fusion seal (5th) |
 | frag grenade (1) | 1 | +5 | 1d6 P | - | drawn | L | 20 ft range, explode (15 ft) |
-| incendiary grenade mk1 (2)| 2 | +5 | 1d6F, 1d4 burn | - | drawn | 2L | 20ft range, explode 5ft |
-| stickbomb grenade mk1 | 2 | +5 | Entangled 2d4 rds | - | drawn | L | 20ft range, explode 10ft |
+| incendiary grenade mk1 (1)| 2 | +5 | 1d6F, 1d4 burn | - | drawn | L | 20ft range, explode 5ft |
+| stickybomb grenade mk1 | 2 | +5 | Entangled 2d4 rds | - | drawn | L | 20ft range, explode 10ft |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
-| heavy round clips | 1 | 6/3 | L |   |
-| sniper rounds  | 1 | 24 | L |   |
+| battery | 1 | 20 | - |   |
 
-**Anchoring**: The weapon gains immobilization as a critical hit effect. A target affected by the immobilization critical hit effect is unable to move from its space under its own power for 1d4 rounds. It cannot use any form of movement, including teleportation effects, to change its position. If the target is entirely contained in a mobile object (such as a starship or large vehicle), the target is immobile relative to its location within that object. Other creatures and forces can move the target normally.
+**Ulrikka Duster**: the Ulrikka duster fusion, which causes any weapon with it to take on an armored, stocky appearance. Attacks made with weapons with this fusion ignore half of a target item’s hardness
 
 ### Abilities
 
@@ -93,6 +90,7 @@ Genderless Android Ace Pilot Soldier (3)
 - **Exceptional Vision**: low-light and darkvision 60 ft
 - **Flat Effect**: -2 penalty to Sense Motive checks, +2 to DC of Sense Motive checks against them
 - **Upgrade Slot**: single armor upgrade slot in their bodies. Regardless of whether androids are wearing physical armor, they can use this slot to install any one armor upgrade that could be installed into light armor.
+	- **Jump Jets** (Cap: 20, Usage: 2/action): can activate jump jets as part of a move action in order to fly during your movement. You can fly up to 30 feet (average maneuverability) with a maximum height of 10 feet, or you can fly up to 20 feet straight up. You must land at the end of your move action. Jump jets can’t lift you if you’re encumbered.
 
 #### Ace Pilot
 
@@ -124,23 +122,21 @@ Genderless Android Ace Pilot Soldier (3)
 
 ## Gear
 
-**Credits:** 238
+**Credits:** 678
 
 | Carry | Weight |
 | ----- | ------ |
 | Unencumbered | 0-8 |
 | Encumbered | 8-15 |
-| Current | 7.2 |
+| Current | 6.6 |
 
 ### Equipment
 
 | Item | Bulk | Capacity/Usage | Notes |
 | ---- | :--: | :------------: | ----- |
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
-| flashlight | L | 10/ 1/hr | 20ft cone of light, strapped to assault cannon |
 | personal comm | L | 80 / 1/hr ||
 | MK1b healing serum | L | - | 5hp healing  |
-| zero-g clothing | L | - | +2 circumstance bonus to Acrobatics checks to stop movement or climb along handholds in zero-g  |
 | Starstone Compass | L | - | +2 insight bonus to Piloting checks when astrogating throughout the Pact Worlds system  |
 
 ## Background
