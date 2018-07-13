@@ -163,4 +163,8 @@ With only a couple of days to prepare, the team gets busy outfitting for the new
 
 ### Diamond
 
-Sell the noqual cocoons and security robot remains to Diamond along with some surplus gear.
+Sell the noqual cocoons and security robot remains to Diamond along with some surplus gear. Also spend a lot of credits upgrading armor and gear.
+
+## Departure
+
+The maintenance actually took three days, but then the team loaded up all their gear and headed for Castrovel.
