@@ -14,7 +14,7 @@ Male Human Corporate Agent Envoy (3)
 
 | Save | Fort (Con) | Reflex (Dex) | Will (Wis) |
 | ---- | :--------: | :----------: | :--------: |
-| Mod | +1 | +4 | +3 |
+| Mod | +2 | +4 | +3 |
 
 | Skill | Mod | Ranks | Notes
 | ---- | :--: | :---: | ----- |
@@ -117,7 +117,7 @@ Male Human Corporate Agent Envoy (3)
 
 ## Gear
 
-**Credits:** 1614
+**Credits:** 879
 
 | Carry | Weight |
 | ----- | ------ |
@@ -131,6 +131,7 @@ Male Human Corporate Agent Envoy (3)
 | ---- | :--: | :------------: | ----- |
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
 | personal comm | L | 80 / 1/hr ||
+| Mk1 ring of resistance | - | - | +1 bonus to Fort Save  |
 | MK1b healing serum | L | - | 5hp healing  |
 
 ## Background

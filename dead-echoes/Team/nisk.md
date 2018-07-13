@@ -53,11 +53,13 @@ Female Ysoki Outlaw Operative(Hacker) (3)
 
 | Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
 | ----- | :-: | :-: | :-: | :-----: | :-: | :---: | :---: | :--: |
-| lashunta tempweave basic | 4 | +4 | +4 | +5 | - | - | quik-release sheath | L |
+| lashunta tempweave basic | 4 | +4 | +4 | +5 | - | - | quick-release sheath | L |
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
 | 17 | 17 | 25 |
+
+**Quick-Release Sheath**: This articulated compartment can hold a one-handed weapon of no more than light bulk. You can activate this upgrade as a swift action to put the item in your hand as though you’d drawn it.
 
 #### Attack Bonuses : BAB +2
 
@@ -68,7 +70,7 @@ Female Ysoki Outlaw Operative(Hacker) (3)
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
 | tactical baton | 1 | +5 | 1d4+3 B | - | - | L | analog, operative (quick-release) |
-| tactical semi-auto pistol | 1 | +6 | 1d6+3 P | - | 9/1 | L | analog, 30ft range, called fusion |
+| *tactical semi-auto pistol | 1 | +6 | 1d6+3 P | - | 9/1 | L | analog, 30ft range, *called* fusion |
 | static arc pistol  | 2 | +6 | 1d6+3 E| Arc 2 | 20/2  | L | 50ft range, stun |
 | tactical shirren eye-rifle | 2 | +5 | 1d10+3 P | - | 1/1 | 1 | 70ft range, analog, sniper (250 ft.), unwieldy  |
 
@@ -77,6 +79,8 @@ Female Ysoki Outlaw Operative(Hacker) (3)
 | small arms clips | 1 | 9/9/5 | -  |   |
 | battery | 1 | 20 | - |   |
 | sniper rounds  | 1 | 24 | L |   |
+
+**Called**: A weapon with the called fusion can be teleported to its owner’s hand as a swift action, even if the weapon is in the possession of another creature. This ability has a maximum range of 100 feet, and effects that block teleportation prevent the return of a called weapon. A weapon with the called fusion must be in your possession for at least 24 hours for this ability to function.
 
 ### Abilities
 

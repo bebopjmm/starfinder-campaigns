@@ -14,7 +14,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (3)
 
 | Save | Fort (Con) | Reflex (Dex) | Will (Wis) |
 | ---- | :--------: | :----------: | :--------: |
-| Mod | +2 | +1 | +3 |
+| Mod | +2 | +2 | +3 |
 
 | Skill | Mod | Ranks | Notes
 | ---- | :--: | :---: | ----- |
@@ -53,11 +53,13 @@ Female Lashunta(damaya) Xenoseeker Solarian (3)
 
 | Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
 | ----- | :-: | :-: | :-: | :-----: | :-: | :---: | :---: | :--: |
-| lashunta tempweave basic | 4 | +4 | +4 | +5 | - | - | 1 | L |
+| lashunta tempweave basic | 4 | +4 | +4 | +5 | - | - | infrared sensors | L |
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
 | 15/16sa | 15/16sa | 23/24sa |
+
+**Infrared Sensors**: you gain darkvision 60ft
 
 #### Attack Bonuses : BAB +3
 
@@ -129,7 +131,7 @@ Female Lashunta(damaya) Xenoseeker Solarian (3)
 
 ## Gear
 
-**Credits:** 1292
+**Credits:** 1092
 
 | Carry | Weight |
 | ----- | ------ |
