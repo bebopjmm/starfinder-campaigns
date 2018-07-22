@@ -2,36 +2,47 @@
 
 ## Further Investigations
 
-Hangovers were rather brutal the next morning, but a greasy breakfast help ease the worst of it. Plans were made:
+It was early afternoon before everyone was moving the next day, and the hangovers were rather brutal. A greasy breakfast at a nearby diner helped ease the worst of it. The team universally agreed that the first priority for the day was making arrangements at the Moons of Sleep to eliminate the need to spend another night in a sleep pod. During 'breakfast' Gereon received a message from his corporate contact, and a meeting was arranged at Tattle Tails for that night. Taraea was not amused,
 
-1. Get setup in the Moons of Sleep so that another night in a godawful sleep pod isn't necessary.
-2. Gereon knows someone who might be able to dig up more details on Astral Extractions
-3. Redacted has underworld connections that could shed some more light on Downside Kings and Level-21.
+>"Honestly Gereon, is that the only establishment on Absalom Station that you know?"
 
-Gereon also has a message from his father. The news reports of the Dock 94 assault are out and Gereon's involvement is public. His father is cutting him off.
+With a wry grin, Gereon replied,
+
+>"This is how business gets done, and believe it or not Tattle Tails is one of the few places I trust on this station for sensitive discussions."
+
+As they departed the diner, Gereon received message from his father. After reading the message, he stowed his comms device and informed the others,
+
+>"Well that didn't take long. The news reports have made my involvement in the Dock 94 incident public, including our meeting a Starfinder representative. My father has officially cut me off."
 
 ### Moons of Sleep
 
-The team walks to the Moons of Sleep, which also helps work the self-inflicted toxins out of their systems. The Starfinder discount is on weekly rates: 16cr for an efficiency, and 50cr for a small two-bed suite.
+The team walked the moderate distance to the Moons of Sleep, which also helped work the self-inflicted toxins out of their systems. An older man with multiple cyber enhancements greets the group at the lobby's registration desk,
 
-- everyone ops for an efficiency room, except for Gereon who chooses a suite.
+>"Welcome to the Moons of Sleep, my name is Quenton Fletcher, and how may I assist you today?"
 
-After a much needed freshening up, they head for lunch with Gereon's contact.
+Taraea identified the group as Starfinder recruits and that there should be lodging arranged. After verifying their identification, Quenton checked his terminal,
+
+>"Ah yes, the Starfinder Society has secured a week of lodging for each of you in one of our efficiency suites. If you wish to extend your stay we offer a special society discount of 16 credits per week, and if you wish to upgrade to one of our two-bed suites, the cost is 50 credits per week."
+
+![Moons of Sleep](https://www.dropbox.com/s/fe1klwkmgvi14yb/moonsOfSleep.jpg?raw=1)
+
+After a much needed freshening up, the team regrouped in the lobby. Nisk brought up a potential avenue for getting information on the street gangs involved in the Dock 94 attack from a contact she had in Little Akiton. With plenty of time before meeting with Gereon's contact, the team grabbed a ride to Little Akiton.
+
+### A Visit to Little Akiton
+
+![Little Akiton](https://www.dropbox.com/s/t3u3n23yksfyh13/littleAkiton.jpg?raw=1)
+
+Nisk succeeded in tracking down Bezilt, a ysoki dock foreman. After an extended period of rapid chattering back and forth in ysoki, he reluctantly shared some information on the Downside Kings,
+
+>"The Downside Kings are a brutual bunch and turnover amongst their leadership i pretty high. Last I heard a barbarous human woman is there current boss- Ferani Nadaz is her name. Now, if you really want to more about the dealings of gangs like the Downside Kings and Level-21 Crew, you should go see Diamond, of Diamond Defense and Surplus down in the Spire. Fair warning though, Diamond doesn't give out information like this for free. She'll be wanting something. That is if she's willing to deal with you at all."
+
+Time was growing short to meet up with Gereon's corporate contact, so the team travelled back to Tattle Tails.
 
 ### The Corporate Contact
 
 Gereon is able to squeeze some critical information from his corporate contact, but the meal tab seemed excessive to most of the team (115cr):
 
 - Following the arrival of the Acreon, Astral Extractions secretly hired a violent Absalom Station street gang called the Downside Kings to coerce the Hardscrabble Collective into abandoning its claims on the Acreon and the Drift Rock.
-
-### A Visit to Little Akiton
-
-The team tracks down Bezilt, a ysoki dock foreman. He reluctantly shares some information on the Downside Kings:
-
-- Turnover among the Downside Kings’ leadership is high, but the gang’s current boss is a barbarous human woman named Ferani Nadaz.
-- Astral Extractions recruited the Downside Kings to threaten the Hardscrabble Collective and pressure the miners into handing over the Acreon and the Drift Rock to the company without dispute.
-
-He suggests that if the team really wants to know more about stuff like this, that they shoud go visit Diamond of Diamond Defense and Surplus down in the Spire.
 
 ### Diamond Defense and Surplus
 
@@ -42,7 +53,11 @@ They find the shop in the Spire and are greeted by Diamond. She listens to their
 
 ### Goblins in Botscrap
 
-The team follows the directions to the Botscrap location and arrive without incident. Nevos-4 and Redacted scout the area and determine good locations to hunker down and wait. In the dim light it is difficult to see well, and the team notices the approaching two scouts at the same time the scouts notice them:
+The team follows the directions to the Botscrap location and arrive without incident. Nevos-4 and Redacted scout the area and determine good locations to hunker down and wait.
+
+![Botscrap](https://www.dropbox.com/s/4az1v6vqk1bgskz/absalomBotscrap-01.jpg?raw=1)
+
+In the dim light it is difficult to see well, and the team notices the approaching two scouts at the same time the scouts notice them:
 
 #### Round 1
 - Nevos-4 misses

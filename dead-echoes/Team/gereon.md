@@ -3,7 +3,7 @@
 
 ![Gereon](https://www.dropbox.com/s/e1c87463yfzquuh/gereon.jpg?raw=1)
 
-Male Human Corporate Agent Envoy (2)  
+Male Human Corporate Agent Envoy (3)  
 **Homeworld**: Absalom Station
 
 ## Stats
@@ -14,72 +14,69 @@ Male Human Corporate Agent Envoy (2)
 
 | Save | Fort (Con) | Reflex (Dex) | Will (Wis) |
 | ---- | :--------: | :----------: | :--------: |
-| Mod | +0 | +4 | +3 |
+| Mod | +2 | +4 | +3 |
 
 | Skill | Mod | Ranks | Notes
 | ---- | :--: | :---: | ----- |
-| **Acrobatics (Dex)** | +6 | 2 ||
+| **Acrobatics (Dex)** | +7 | 3 ||
 | **Athletics (Str)** | +0 | 0 ||
-| **Bluff (Cha)** | +8 | 2 ||
-| **Computers (Int:T)** | +7 | 2 ||
-| **Culture (Int:T)** | +7 | 2 ||
-| **Diplomacy (Cha)** | +9 | 2 |theme, expertise|
+| **Bluff (Cha)** | +9 | 3 ||
+| **Computers (Int:T)** | +8 | 3 ||
+| **Culture (Int:T)** | +8 | 3 ||
+| **Diplomacy (Cha)** | +10 | 3 |theme, expertise|
 | **Disguise (Cha)** | +7 | 1 ||
 | **Engineering (Int:T)** | - | 0 ||
-| **Intimidate (Cha)** | +3 | 0 ||
+| **Intimidate (Cha)** | +7 | 1 ||
 | Life Science (Int:T) | - | 0 ||
-| **Medicine (Int)**| +2 | 0 ||
-| Mysticism (Wis:T) | +0 | 0 ||
-| **Perception (Wis)** | +5 | 2 ||
+| **Medicine (Int)**| +6 | 1 ||
+| Mysticism (Wis:T) | - | 0 ||
+| **Perception (Wis)** | +6 | 3 ||
 | Physical Science (Int:T) | - | 0 ||
-| **Piloting (Dex)** | +6 | 2 ||
+| **Piloting (Dex)** | +7 | 3 ||
 | **Profession: negotiator (Cha:T)** | +7 | 1 ||
-| **Sense Motive (Wis)** | +5 | 2 |expertise|
+| **Sense Motive (Wis)** | +6 | 3 |expertise|
 | **Sleight of Hand (Dex:T)** | +5 | 1 ||
 | **Stealth (Dex)** | +6 | 2 ||
 | Survival (Wis) | +0 | 0 ||
 
-| Stat | Value |
-| ---- | ----- |
-| Size | Medium |
-| Speed | 30 |
-| Init | +1 |
+| Size | Speed | Init |
+| :--: | :---: | :--: |
+| Medium | 30 | +1 |
 
 ### Combat
 
-| Health | Nominal | Current |
-| ------ | :-----: | :-----: |
-| Stamina | 12 | 12 |
-| Hp | 16 | 16 |
-| Resolve | 4 | 4 |
+| Stamina | Hit Points | Resolve |
+| :-----: | :--------: | :-----: |
+| 18/18 | 22/22 | 4/4 |
 
 #### Defense
 
 | Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
 | ----- | :-: | :-: | :-: | :-----: | :---: | :---: | :---: | :--: |
-| second skin | 1 | +1 | +2 | +5 | - | - | 1 | L |
+| lashunta tempweave basic | 4 | +4 | +4 | +5 | - | - | 1 | L |
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
-| 12 | 13 | 21 |
+| 15 | 15 | 23 |
 
-#### Attack Bonuses : BAB +1
+#### Attack Bonuses : BAB +2
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
-| +1 | +2 | +1 |
+| +2 | +3 | +2 |
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-| survival knife | 1 | +1 | 1d4 S | - | - | L | analog, operative |
-| tactical semi-auto pistol | 1 | +3 | 1d6P | - | 9/1 | L | analog, 30ft range |
-| azimuth laser pistol | 1 | +3 | 1d4F | burn 1d4 | 19/1 | L | 80ft range |
-| incendiary grenade mk1 | 2 | +1 | 1d6F, 1d4 burn | - | drawn | L | 20ft range, explode 5ft |
+| survival knife | 1 | +2 | 1d4+3 S | - | - | L | analog, operative |
+| *tactical semi-auto pistol | 1 | +4 | 1d6+3 P | - | 9/1 | L | analog, 30ft range, *glamered* fusion seal (1) |
+| azimuth laser pistol | 1 | +4 | 1d4+3 F | burn 1d4 | 20/1 | L | 80ft range |
+| incendiary grenade mk1 | 2 | +2 | 1d6F, 1d4 burn | - | drawn | L | 20ft range, explode 5ft |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
 | small arms clips | 1 | 9/9/9 | - |   |
 
+**Glamered**: As a standard action, a weapon with the glamered fusion can be commanded to change its appearance to assume the form of another object of similar size. The weapon retains all its properties (including bulk) when disguised but does not radiate magic. Only true seeing or similar magic reveals the true nature of a glamered weapon while it is in disguise. After a glamered weapon is used to make an attack, this fusion is suppressed for 1 minute.
 
 ### Abilities
 
@@ -95,14 +92,17 @@ Male Human Corporate Agent Envoy (2)
 
 - **Envoy Improvisation (DC 13)**: little tricks that bolster allies, confound enemies, or change the ebb and flow of battle using guile, inspiration, or luck.
 	- **Get 'Em (Ex)**: As a move action, you can choose one enemy within 60 feet. Until the start of your next turn, you and your allies gain a +1 morale bonus to attack rolls made against that enemy. The bonus persists even if the enemy moves beyond 60 feet or out of line of sight or hearing
-	- **Inspiring Boost (Ex)**: As a standard action, you can signal an ally within 30 feet who has taken damage from any attack made by a significant enemy at any point after your last turn ended. That ally regains 7 Stamina Points. Once an ally has benefited from your inspiring boost, that ally can’t gain the benefits of your inspiring boost again until he takes a 10-minute rest to recover Stamina Points.
+	- **Inspiring Boost (7sta)**: As a standard action, you can signal an ally within 30 feet who has taken damage from any attack made by a significant enemy at any point after your last turn ended. That ally regains 7 Stamina Points. Once an ally has benefited from your inspiring boost, that ally can’t gain the benefits of your inspiring boost again until he takes a 10-minute rest to recover Stamina Points.
 - **Expertise**: +1d6 insight bonus to Sense Motive checks
 - **Skill Expertise**: expertise insight bonus to Diplomacy checks
+	- **Well Informed**: You keep yourself as up to date as possible about the events and major figures of any region you are in. Once you have been in a settlement or region for at least 24 hours, when you attempt a Diplomacy check to gather information, you can forgo your expertise die to attempt the check as a swift action (rather than the normal 1d4 hours).
+- **Weapon Specialization**: basic melee weapons, small arms
 
 #### Feats
 
 - **Diversion**: When you successfully use Bluff to create a distraction, you can allow an ally to attempt a Stealth check to hide (instead of attempting to hide yourself). You can attempt to allow multiple allies to use Stealth to hide, but you take a –5 penalty for every ally after the first, and on a failed check no ally can attempt to hide.
 - **Weapon Focus (small arms)**: +1 attack bonus with small arms
+- **Veiled Threat**: When you successfully use the Intimidate skill to bully a creature, after the duration of its helpful attitude ends, its attitude toward you becomes indifferent rather than hostile.
 
 ### Proficiencies
 
@@ -117,7 +117,7 @@ Male Human Corporate Agent Envoy (2)
 
 ## Gear
 
-**Credits:** 446
+**Credits:** 879
 
 | Carry | Weight |
 | ----- | ------ |
@@ -130,10 +130,9 @@ Male Human Corporate Agent Envoy (2)
 | Item | Bulk | Capacity/Usage | Notes |
 | ---- | :--: | :------------: | ----- |
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
-| flashlight | L | 10/ 1/hr | 20ft cone of light  |
 | personal comm | L | 80 / 1/hr ||
+| Mk1 ring of resistance | - | - | +1 bonus to Fort Save  |
 | MK1b healing serum | L | - | 5hp healing  |
-| Starstone Compass | L | - | +2 insight bonus to Piloting checks when astrogating throughout the Pact Worlds system  |
 
 ## Background
 

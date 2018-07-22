@@ -3,7 +3,7 @@
 
 ![Nisk](https://www.dropbox.com/s/21mqefasnx12apx/redacted.jpg?raw=1)
 
-Female Ysoki Outlaw Operative(Hacker) (2)  
+Female Ysoki Outlaw Operative(Hacker) (3)  
 **Homeworld**: Akiton
 
 ## Stats
@@ -14,71 +14,73 @@ Female Ysoki Outlaw Operative(Hacker) (2)
 
 | Save | Fort (Con) | Reflex (Dex) | Will (Wis) |
 | ---- | :--------: | :----------: | :--------: |
-| Mod | +0 | +6 | +3 |
+| Mod | +1 | +6 | +3 |
 
 | Skill | Mod | Ranks | Notes
 | ---- | :--: | :---: | ----- |
-| **Acrobatics (Dex)** | +9 | 2 |edge|
-| **Athletics (Str)** | +0 | 0 |edge|
-| **Bluff (Cha)** | +8 | 2 |edge|
-| **Computers (Int:T)** | +10 | 2 |edge,skillFocus|
-| **Culture (Int:T)** | +8 | 2 |edge|
-| Diplomacy (Cha) | +3 | 0 |edge|
-| **Disguise (Cha)** | +7 | 1 |edge, *vocalModulator|
-| **Engineering (Int:T)** | +12 | 2 |racial,edge,skillFocus|
-| **Intimidate (Cha)** | +7 | 1 |edge|
+| **Acrobatics (Dex)** | +11 | 3 |edge|
+| **Athletics (Str)** | +1 | 0 |edge|
+| **Bluff (Cha)** | +10 | 3 |edge|
+| **Computers (Int:T)** | +12 | 3 |edge,skillFocus|
+| **Culture (Int:T)** | +10 | 3 |edge|
+| Diplomacy (Cha) | +4 | 0 |edge|
+| **Disguise (Cha)** | +9 | 2 |edge, *vocalModulator|
+| **Engineering (Int:T)** | +14 | 3 |racial,edge,skillFocus|
+| **Intimidate (Cha)** | +8 | 1 |edge|
 | Life Science (Int:T) | - | 0 ||
-| **Medicine (Int)**| +3 | 0 |edge|
+| **Medicine (Int)**| +4 | 0 |edge|
 | Mysticism (Wis:T) | - | 0 ||
-| **Perception (Wis)** | +6 | 2 |edge|
+| **Perception (Wis)** | +7 | 2 |edge|
 | Physical Science (Int:T) | - | 0 ||
-| **Piloting (Dex)** | +8 | 1 |edge|
+| **Piloting (Dex)** | +9 | 1 |edge|
 | Profession (varies:T) | - | 0 ||
-| **Sense Motive (Wis)** | +6 | 2 |edge|
-| **Sleight of Hand (Dex:T)** | +10 | 2 |theme,edge|
-| **Stealth (Dex)** | +11 | 2 |racial,edge|
-| **Survival (Wis)** | +3 | 0 |racial,edge|
+| **Sense Motive (Wis)** | +8 | 3 |edge|
+| **Sleight of Hand (Dex:T)** | +12 | 3 |theme,edge|
+| **Stealth (Dex)** | +13 | 3 |racial,edge|
+| **Survival (Wis)** | +8 | 1 |racial,edge|
 
-| Stat | Value |
-| ---- | ----- |
-| Size | Small |
-| Speed | 30 |
-| Init | +4 |
+| Size | Speed | Init |
+| :--: | :---: | :--: |
+| Small | 40 | +5 |
 
 ### Combat
 
-| Health | Nominal | Current |
-| ------ | :-----: | :-----: |
-| Stamina | 12 | 12 |
-| Hp |  14 | 14 |
-| Resolve | 4 | 4 |
+| Stamina | Hit Points | Resolve |
+| :-----: | :--------: | :-----: |
+| 18/18 | 20/20 | 4/4 |
 
 #### Defense
 
 | Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
 | ----- | :-: | :-: | :-: | :-----: | :-: | :---: | :---: | :--: |
-| second skin | 1 | +1 | +2 | +5 | - | - | quick-release sheath | L |
+| lashunta tempweave basic | 4 | +4 | +4 | +5 | - | - | quick-release sheath | L |
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
-| 14 | 15 | 23 |
+| 17 | 17 | 25 |
 
-#### Attack Bonuses : BAB +1
+**Quick-Release Sheath**: This articulated compartment can hold a one-handed weapon of no more than light bulk. You can activate this upgrade as a swift action to put the item in your hand as though you’d drawn it.
+
+#### Attack Bonuses : BAB +2
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
-| +1 | +4 | +1 |
+| +2 | +5 | +2 |
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-| tactical baton | 1 | +4 | 1d4 B | - | - | L | analog, operative (quick-release) |
-| tactical semi-auto pistol | 1 | +4 | 1d6 P | - | 7/1 | L | analog, 30ft range, called fusion |
-| azimuth pistol | 1 | +3 | 1d4 F | burn 1d4 | 20/1 | L | 80ft range |
+| tactical baton | 1 | +5 | 1d4+3 B | - | - | L | analog, operative (quick-release) |
+| *tactical semi-auto pistol | 1 | +6 | 1d6+3 P | - | 9/1 | L | analog, 30ft range, *called* fusion |
+| static arc pistol  | 2 | +6 | 1d6+3 E| Arc 2 | 20/2  | L | 50ft range, stun |
+| tactical shirren eye-rifle | 2 | +5 | 1d10+3 P | - | 1/1 | 1 | 70ft range, analog, sniper (250 ft.), unwieldy  |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
-| small arms clips | 1 | 9/9/9 | -  |   |
+| small arms clips | 1 | 9/9/5 | -  |   |
 | battery | 1 | 20 | - |   |
+| sniper rounds  | 1 | 24 | L |   |
+
+**Called**: A weapon with the called fusion can be teleported to its owner’s hand as a swift action, even if the weapon is in the possession of another creature. This ability has a maximum range of 100 feet, and effects that block teleportation prevent the return of a called weapon. A weapon with the called fusion must be in your possession for at least 24 hours for this ability to function.
 
 ### Abilities
 
@@ -101,21 +103,25 @@ Female Ysoki Outlaw Operative(Hacker) (2)
 
 #### Operative (Hacker)
 
-- **Operative Edge**: +1 Insight bonus to initiative and skill checks
-- **Trick Attack (+1d4)**: As a full action, you can move up to your speed. Whether or not you moved, you can then make an attack with a melee weapon with the operative special property or with any small arm. Just before making your attack, attempt a Bluff, Intimidate, or Stealth check with a DC equal to 20 + your target’s CR. If you succeed at the check, you deal additional damage and the target is flat-footed. You can’t use this ability with a weapon that has the unwieldy special property or that requires a full action to make a single attack.
+- **Operative Edge**: +2 Insight bonus to initiative and skill checks
+- **Trick Attack (+1d8)**: As a full action, you can move up to your speed. Whether or not you moved, you can then make an attack with a melee weapon with the operative special property or with any small arm. Just before making your attack, attempt a Bluff, Intimidate, or Stealth check with a DC equal to 20 + your target’s CR. If you succeed at the check, you deal additional damage and the target is flat-footed. You can’t use this ability with a weapon that has the unwieldy special property or that requires a full action to make a single attack.
 	- attempt trick attack using Computers check with a +4 bonus by creating a computerized distraction (you can’t use this option if stripped of all computerized gear in an area with no computers).
 - **Specialization Skills (Skill Focus,Free Skill Rank)**: Computers, Engineering
 - **Evasion**: If you succeed at a Reflex save against an effect that normally has a partial effect on a successful save, you instead suffer no effect. You gain this benefit only when unencumbered and wearing light armor or no armor, and you lose the benefit when you are helpless or otherwise unable to move.
 - **Operative Exploits**: Effects DC14, Skill DC 16
 	- **Holographic Clone**: 1/day stdAct, You can create 1d4 holographic duplicates or psychic projections of yourself that conceal your true location and last for 2min.
+- **Quick Movement (+10ft)**: As long as you are unencumbered and wearing light armor or no armor, your land speed increases
+- **Weapon Specialization**: basic melee weapons, small arms, sniper weapons
 
 #### Feats
 
 - **Mobility**: +4 bonus to AC against AoO from movement
+- **Weapon Focus (small arms)**: +1 attack bonus
 
 ### Augmentations
 
 - **Vocal Modulator (Cyber-throat)**: You can more easily imitate accents or pronounce alien languages. When using Disguise to change your appearance, you gain a +2 circumstance bonus if the change in your voice also helps your disguise.
+- **Standard Datajack**: a programmable data port that allows you to access different types of computers and digital storage media. Any handheld computer can be inserted directly into the port, while larger systems need to be connected by an adapter cable. Having the system connected directly to your nervous system obviates the need for an interface to access data on a system. Actually operating the system requires you to use the Computers skill as usual. Some closed systems don’t allow data access or require you to do some rewiring to connect with a datajack (usually an Engineering check).
 
 ### Proficiencies
 
@@ -130,27 +136,25 @@ Common, Ysoki, Akitonian, Goblin, Vercite
 
 ## Gear
 
-**Credits:** 800
+**Credits:** 1575
 
 | Carry | Weight |
 | ----- | ------ |
 | Unencumbered | 6 |
 | Encumbered | 10 |
-| Current | 1.2 |
+| Current | 1.3 |
 
 ### Equipment
 
 | Item | Bulk | Capacity/Usage | Notes |
 | ---- | :--: | :------------: | ----- |
 | industrial backpack | 0 | - | add 2 bulk to carry capacity |
-| flashlight | L | 10/ 1/hr | 20ft cone of light  |
 | hacker kit | L | - ||
 | engineering kit  | L  | - | - |
 | trapsmith's kit | L | - | +4 Engineering bonus to arm/disarm traps |
 | personal comm | L | 80 / 1/hr ||
 | holoskin | L | 20 / 1/10min | belt mount  |
 | MK1b healing serum | L | - | 5hp healing  |
-| Starstone Compass | L | - | +2 insight bonus to Piloting checks when astrogating throughout the Pact Worlds system |
 
 ## Background
 
