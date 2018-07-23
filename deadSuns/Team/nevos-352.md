@@ -5,69 +5,71 @@
 (image here)
 
 Male Android Mercenary Soldier (Guard) 1  
-humanoid ()  
-**Homeworld**:
+humanoid (android)  
+**Homeworld**: Aballon
 
 ## Stats
 
-|**Ability**|**STR**|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
+|**Ability**|**STR**|**DEX** \*|**CON**|**INT**|**WIS**|**CHA**|
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|Mod (Val)| +0 (0) | +0 (0) | +0 (0) | +0 (0) | +0 (0) | +0 (0) |
+|Mod (Val)| +2 (14) | +3 (16) | +1 (13) | +1 (12) | +0 (10) | -1 (8) |
 
 | Save | Fort (Con) | Reflex (Dex) | Will (Wis) |
 | ---- | :--------: | :----------: | :--------: |
-| Mod | 0 | 0 | 0 |
+| Mod | +3 | +3 | +2 |
 
-| Skill | Mod | Ranks (0) | Notes
+| Skill | Mod | Ranks (5) | Notes
 | ---- | :--: | :---: | ----- |
-| **Acrobatics (Dex)** | - |||
-| **Athletics (Str)** | - |||
-| **Bluff (Cha)** | - |||
-| **Computers (Int:T)** | - |||
-| **Culture (Int:T)** | - ||||
-| Diplomacy (Cha) | - |||
-| **Disguise (Cha)** | - |||
+| **Acrobatics (Dex)** | +7 |1||
+| **Athletics (Str)** | +7 |1|theme|
+| Bluff (Cha) | -1 |||
+| Computers (Int:T) | - |||
+| Culture (Int:T) | - ||||
+| Diplomacy (Cha) | -1 |||
+| Disguise (Cha) | -1 |||
 | **Engineering (Int:T)** | - |||
-| **Intimidate (Cha)** | - |||
+| **Intimidate (Cha)** | -1 |||
 | Life Science (Int:T) | - |||
-| **Medicine (Int)**| - |||
+| **Medicine (Int)** | +5 |1||
 | Mysticism (Wis:T) | - |||
-| **Perception (Wis)** | - |||
+| Perception (Wis) | +0 |||
 | Physical Science (Int:T) | - |||
-| **Piloting (Dex)** | - |||
-| **Profession (bounty hunter:T)** | - |||
-| **Sense Motive (Wis)** | - |||
-| **Sleight of Hand (Dex:T)** | - |||
-| **Stealth (Dex)** |  - |||
-| **Survival (Wis)** | - |||
+| **Piloting (Dex)** | +3 |||
+| **Profession (mercenary:T)** | +4 |1||
+| Sense Motive (Wis) | -2 ||racial|
+| Sleight of Hand (Dex:T) | - |||
+| Stealth (Dex) |  +4 |1||
+| **Survival (Wis)** | +0 |||
 
 | Size | Speed | Init |
 | :--: | :---: | :--: |
-| Medium | 30 | +0 |
+| Medium | 30 | +3 |
 
 ### Combat
 
 | Stamina | Hit Points | Resolve |
 | :-----: | :--------: | :-----: |
-| 0/0 | 0/0 | 0/0 |
+| 8/8 | 11/11 | 4/4 |
 
 #### Defense
 
 | Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
 | ----- | :-: | :-: | :-: | :-----: | :---: | :---: | :---: | :--: |
+| lashunta ringwear 1 | 1 | +2 | +4 | +3 | -1 | -5 | 0 | 2 |
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
-| 10 | 10 | 10 |
+| 15 | 17 | 25 |
 
-#### Attack Bonuses : BAB +0
+#### Attack Bonuses : BAB +1
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
-| +0 | +0 | +0 |
+| +3 | +4 | +3 |
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
+| azimuth artillery laser | 1 | +5 | 1d10 F | burn 1d6 | 20/2 | 3 | 120ft range, penetrating |
 
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
@@ -77,21 +79,42 @@ humanoid ()
 
 ### Racial
 
+- **Constructed**:
+	- androids count as both humanoids and constructs (whichever effect is worse) for effects targeting creatures by type.
+	- +2 racial bonus to saving throws against disease, mind-affecting effects, poison, and sleep, unless those effects specifically target constructs.
+	- do not breathe or suffer the normal environmental effects of being in a vacuum.
+- **Exceptional Vision**: low-light and darkvision 60 ft
+- **Flat Effect**: -2 penalty to Sense Motive checks, +2 to DC of Sense Motive checks against them
+- **Upgrade Slot**: single armor upgrade slot in their bodies. Regardless of whether androids are wearing physical armor, they can use this slot to install any one armor upgrade that could be installed into light armor.
 
-### Bounty Hunter
+### Mercenary
 
+- **Theme Knowledge**: You are knowledgeable about the military, from rival mercenary groups to standard military procedures to planetary armed forces, and you can draw upon this fount of information to aid your adventurous pursuits.
+  - Reduce the DC of Culture checks and Profession (mercenary) checks to recall knowledge about hierarchies, practices, personnel, and so on in the military by 5.
+  - Athletics is a class skill for you, though if it is a class skill from the class you take at 1st level, you instead gain a +1 bonus to Athletics checks.
 
-### Operative (Detective)
+### Soldier (Guard)
 
+- **Armor Training**: reduce the armor check penalty of armor you wear by 1 (to a minimum of 0) and increase the maximum Dexterity bonus allowed by your armor by 1.
 
 ### Feats
 
+- **Weapon Focus (heavy weapons)**: +1 attack bonus to heavy weapons
 
 ### Augmentations
 
 
 ### Proficiencies
 
+- light armor
+- heavy armor
+- basic melee weapons
+- advanced melee weapons
+- small arms
+- longarms
+- heavy weapons
+- sniper weapons
+- grenades
 
 ### Languages
 
@@ -99,18 +122,20 @@ humanoid ()
 
 ## Gear
 
-**Credits:** 1000
+**Credits:** 128
 
 | Carry | Weight |
 | ----- | ------ |
-| Unencumbered | 0-5 |
-| Encumbered | 6-10 |
-| Current | 0 |
+| Unencumbered | 0-8 |
+| Encumbered | 9-16 |
+| Current | 6.1 |
 
 ### Equipment
 
 | Item | Bulk | Capacity/Usage | Notes |
 | ---- | :--: | :------------: | ----- |
+| industrial backpack | 1 | - |   |
+| personal comm unit  | L | 80/ 1/hr |   |
 
 ## Background
 
