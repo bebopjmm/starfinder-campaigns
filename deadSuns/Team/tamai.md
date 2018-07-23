@@ -136,8 +136,8 @@ humanoid (human)
 
 | Carry | Weight |
 | ----- | ------ |
-| Unencumbered | 0-6 |
-| Encumbered | 7-12 |
+| Unencumbered | 0-8 |
+| Encumbered | 9-16 |
 | Current | 0 |
 
 ### Equipment

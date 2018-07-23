@@ -5,7 +5,7 @@
 (image here)
 
 Astrazoan Bounty Hunter Operative (Detective) 1  
-aberration (shapechanger)  
+humanoid/aberration (shapechanger)  
 **Homeworld**: Absalom Station
 
 ## Stats
@@ -55,10 +55,11 @@ aberration (shapechanger)
 
 | Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
 | ----- | :-: | :-: | :-: | :-----: | :---: | :---: | :---: | :--: |
+| second skin | 1 | +1 | +2 | +5 | - | - | 1 | L |
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
-| 10 | 10 | 18 |
+| 14 | 15 | 23 |
 
 #### Attack Bonuses : BAB +0
 
@@ -68,10 +69,13 @@ aberration (shapechanger)
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
+| semi-auto pistol, tactical | 1 | +3 | 1d6 P | - | 9/1  | L | analog |
+| tactical baton | 1 | +0 | 1d4 B | - | - | L | analog, operative |
 
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
+| small arms rounds | 1 | 9/9/9/3  | L |   |
 
 ## Abilities
 
@@ -82,11 +86,10 @@ aberration (shapechanger)
   - +10 bonus to Disguise checks to appear as a creature of the type and subtype of the new form
   - DC of a Disguise check is not modified as a result of altering major feature or if they disguise themself as an aberration or a humanoid (though the DC is still modified if the astrazoan attempts to disguise themself as a different creature type)
   - Renlih can remain in an alternate form indefinitely (or until they take another form)
-- **Compression**: Renlih can move through an area as small as one-quarter their space without squeezing or one-eighth their space when squeezing.
+- **Compression**: Renlih can move through an area as small as 1/4 their space without squeezing or 1/8 their space when squeezing.
 - **Darkvision**: Renlih can see up to 60 feet in the dark.
 - **Many Forms**: For effects targeting creatures by type, astrazoans count as both aberrations and humanoids.
-- **Rapid Revival**: Once per day, when an astrazoan takes a 10-minute rest to regain Stamina Points, they can additionally recover Hit Points as though they had taken a full
-night’s rest.
+- **Rapid Revival**: Once per day, when an astrazoan takes a 10-minute rest to regain Stamina Points, they can additionally recover Hit Points as though they had taken a full night’s rest.
 
 ### Bounty Hunter
 
@@ -98,7 +101,7 @@ night’s rest.
 
 ### Operative (Detective)
 
-- **Operative Edge**: +1 Insight bonus to initiative and skill checks
+- **Operative Edge**: +1 insight bonus to initiative and skill checks
 - **Trick Attack (+1d4)**: As a full action, you can move up to your speed. Whether or not you moved, you can then make an attack with a melee weapon with the operative special property or with any small arm. Just before making your attack, attempt a Bluff, Intimidate, or Stealth check with a DC equal to 20 + your target’s CR. If you succeed at the check, you deal additional damage and the target is flat-footed. You can’t use this ability with a weapon that has the unwieldy special property or that requires a full action to make a single attack.
 	- attempt trick attack using Computers check with a +4 bonus by creating a computerized distraction (you can’t use this option if stripped of all computerized gear in an area with no computers).
 - **Specialization Skills (Skill Focus,Free Skill Rank)**: Culture, Sense Motive
@@ -124,18 +127,21 @@ night’s rest.
 
 ## Gear
 
-**Credits:** 1000
+**Credits:** 308
 
 | Carry | Weight |
 | ----- | ------ |
-| Unencumbered | 0-5 |
-| Encumbered | 6-10 |
+| Unencumbered | 0-6 |
+| Encumbered | 7-12 |
 | Current | 0 |
 
 ### Equipment
 
 | Item | Bulk | Capacity/Usage | Notes |
 | ---- | :--: | :------------: | ----- |
+| industrial backpack | 1 | - |   |
+| personal comm unit  | L | 80/ 1/hr |   |
+| binders (4) | 1 | - | single use, stdAction to helpless, pinned, or willing target. DC 21 Acrobatics to escape |
 
 ## Background
 
