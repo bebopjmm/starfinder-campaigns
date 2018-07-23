@@ -1,12 +1,12 @@
-# Kofeman
+# Shero
 
 *tagline*
 
 (image here)
 
-Lashunta Tempered Pilgrim Solarian 1  
+Female Lashunta Xenoseeker Mystic (Xenodruid) 1  
 humanoid (lashunta)  
-**Homeworld**: Absalom Station
+**Homeworld**:
 
 ## Stats
 
