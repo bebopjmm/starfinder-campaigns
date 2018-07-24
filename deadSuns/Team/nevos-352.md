@@ -35,7 +35,7 @@ humanoid (android)
 | Perception (Wis) | +0 |||
 | Physical Science (Int:T) | - |||
 | **Piloting (Dex)** | +3 |||
-| **Profession (mercenary:T)** | +4 |1||
+| **Profession (mercenary) (Wis:T)** | +4 |1||
 | Sense Motive (Wis) | -2 ||racial|
 | Sleight of Hand (Dex:T) | - |||
 | Stealth (Dex) |  +4 |1||
@@ -118,7 +118,7 @@ humanoid (android)
 
 ### Languages
 
-- Common
+- Common, Shirren
 
 ## Gear
 
