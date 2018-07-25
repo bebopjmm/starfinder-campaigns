@@ -113,6 +113,9 @@ humanoid/aberration (shapechanger)
 
 ### Augmentations
 
+- **Starfinder Society Subdermal Graft (right hand)**: This implant rests underneath the skin and can be activated/deactivated as a swift action.
+  - activation causes a rendition of the Starfinder Society’s symbol to glow underneath the skin, acting as a mark that lets others know the bearer is a member of the Society
+  - activation increases light level within 5ft by one step
 
 ### Proficiencies
 
@@ -123,7 +126,7 @@ humanoid/aberration (shapechanger)
 
 ### Languages
 
-- Common, Ysoki, Vesk
+- Common, Ysoki, Shirren
 
 ## Gear
 
