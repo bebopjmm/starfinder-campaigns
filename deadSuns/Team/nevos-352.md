@@ -43,7 +43,7 @@ humanoid (android)
 
 | Size | Speed | Init |
 | :--: | :---: | :--: |
-| Medium | 30 | +3 |
+| Medium | 25 | +3 |
 
 ### Combat
 

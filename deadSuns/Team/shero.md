@@ -142,18 +142,21 @@ humanoid (lashunta)
 
 ## Gear
 
-**Credits:** 320
+**Credits:** 188
 
 | Carry | Weight |
 | ----- | ------ |
-| Unencumbered | 0-5 |
-| Encumbered | 6-10 |
+| Unencumbered | 0-6 |
+| Encumbered | 7-12 |
 | Current | 0 |
 
 ### Equipment
 
 | Item | Bulk | Capacity/Usage | Notes |
 | ---- | :--: | :------------: | ----- |
+| industrial backpack | 1 | - |   |
+| personal comm unit  | L | 80/ 1/hr |   |
+| basic medkit | 1 |   |   |
 
 ## Background
 
