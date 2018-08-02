@@ -125,7 +125,7 @@ humanoid (android)
 
 ## Gear
 
-**Credits:** 128
+**Credits:** 328
 
 | Carry | Weight |
 | ----- | ------ |

@@ -1,10 +1,17 @@
-# Dead Suns Book 0: Commencement, Ch 1 - Graduation 
+# Dead Suns Book 0: Commencement, Ch 1 - Graduation
 
 The team is assembled at their graduation ceremony, held in the Lorespire Complex. Following a brief commencement speech from First Seeker Luwazi Elsebo, each member of the team is presented a Starfinder emblem by their senior evaluator, Chiskisk, a host shirren. Following the ceremony they proceed to a small reception.
-- Chiskisk and Duravor Kreel congratulate the team and socialize on current events
-  - gossip of the day is the mysterious arrival of the starship *Acreon* towing some asteroid but missing its crew
-    - Kreel mentions that it is a Hardscrabble ship and that he needs to look into the situation
-  	- Kreel promises to take team out for celebratory drinks at Paralax Cantina once they complete their commencement assignments
+- Chiskisk and Duravor Kreel congratulate the team
+  - Tamai: It was an intense four weeks, but it was rewarding. There was mention of commencement assignments
+    - Kreel: always eager to get to it. You will meet with Guidance later today who will explain it all. Promises to take team out for celebratory drinks at Paralax Cantina once they complete their commencement assignments
+  - Shero: Hopes that assignments will take them off station soon, longs to be back in open air planetside. Holosims are amazing technology but still not the same.
+  - Renlih:
+  - Nevos-352: Will we be remaining as a team going forward?
+    - Chiskisk comments that the group has come a long way towards being a team. The SFS strives to keep high functioning teams together, but mission priorities and personal decisions drive team composition changes.
+  - Myhin: 
+
+- socialize on current events -gossip of the day is the mysterious arrival of the starship *Acreon* towing some asteroid but missing its crew
+  - Kreel mentions that it is a Hardscrabble ship and that he needs to look into the situation
 
 Shortly after Duravor departs, Chiskisk's comms beeps, indicating that it is time to escort the team to their meeting with Guidance.
 - along the way, they share that Kreel has ties with the Hardscrabble Collective

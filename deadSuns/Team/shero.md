@@ -83,7 +83,7 @@ humanoid (lashunta)
 | Name | Effect |
 | ---- | ------ |
 | [stabilize](http://www.starjammersrd.com/magic-and-spells/spells/s/stabilize/) | stdAct 30ft range. Cause a dying creature to stabilize. |
-| [daze](http://www.starjammersrd.com/magic-and-spells/spells/d/daze/) | stdAct (1rd) 30ft range. humanoid CR3 or less dazed unless Will save, then immune for 1min |
+| [telekinetic projectile](http://www.starjammersrd.com/magic-and-spells/spells/t/telekinetic-projectile/) | stdAct (1rd) 30ft range. Telekinetically hurl an object (ranged attack vs KAC), dealing 1d6 damage to the target and object |
 | [detect affliction](http://www.starjammersrd.com/magic-and-spells/spells/d/detect-affliction/) | stdAct 30ft range. Determine whether a creature or object has been poisoned, is diseased, is cursed, or is suffering a similar affliction. |
 | [token spell](http://www.starjammersrd.com/magic-and-spells/spells/t/token-spell/) | stdAct (1hr) 10ft range. minor magical effects, e.g. illuminate object to shed dim light in 30ft rad |
 
@@ -91,7 +91,7 @@ humanoid (lashunta)
 
 | Known | Remaining / Slots per Day |
 | :---: | :-----------------------: |
-| 2 | 3/3 |
+| 2 | 2/3 |
 
 | Name | Effect |
 | ---- | ------ |
@@ -104,8 +104,8 @@ humanoid (lashunta)
 ### Racial
 
 - **Lashunta Magic**: Lashuntas gain the following spell-like abilities:
-	- **At will**: daze (DC11), psychokinetic hand
-	- **1/day**: detect thoughts (DC12)
+	- **At will**: daze (Will DC11), psychokinetic hand
+	- **1/day**: detect thoughts (Will DC12)
 - **Limited Telepathy**: Lashuntas can mentally communicate with any creatures within 30 feet with whom they share a language. Conversing telepathically with multiple creatures simultaneously is just as difficult as listening to multiple people speaking.
 - **Student**: +2 racial bonus to Life Sciences, Computers
 
@@ -145,7 +145,7 @@ humanoid (lashunta)
 
 ## Gear
 
-**Credits:** 188
+**Credits:** 388
 
 | Carry | Weight |
 | ----- | ------ |

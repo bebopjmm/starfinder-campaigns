@@ -26,7 +26,7 @@ humanoid/aberration (shapechanger)
 | **Computers (Int:T)** | +6 |1|edge|
 | **Culture (Int:T)** | +8 |1|skillFocus|
 | Diplomacy (Cha) | +3 ||edge|
-| **Disguise (Cha)** | +7 |1|edge|
+| **Disguise (Cha)** | +7/+17 |1|edge,manyForms|
 | **Engineering (Int:T)** | - |||
 | **Intimidate (Cha)** | +7 |1|edge|
 | Life Science (Int:T) | - |||
@@ -70,6 +70,7 @@ humanoid/aberration (shapechanger)
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
 | semi-auto pistol, tactical | 1 | +3 | 1d6 P | - | 9/1  | L | analog |
+| pulsecaster pistol | 1 | +3 | 1d4 E | - | 20/1 | L | nonlethal |
 | tactical baton | 1 | +0 | 1d4 B | - | - | L | analog, operative |
 
 
@@ -84,7 +85,7 @@ humanoid/aberration (shapechanger)
 - **Change Form**: As a standard action, Renlih can physically alter their form to look like any Medium creature, as long as they have seen a similar creature before.
   - they can mimic either a specific creature or a general creature of the choosen type
   - +10 bonus to Disguise checks to appear as a creature of the type and subtype of the new form
-  - DC of a Disguise check is not modified as a result of altering major feature or if they disguise themself as an aberration or a humanoid (though the DC is still modified if the astrazoan attempts to disguise themself as a different creature type)
+  - DC of a Disguise check is not modified as a result of altering major feature or if they disguise themselves as an aberration or a humanoid (though the DC is still modified if the astrazoan attempts to disguise themselves as a different creature type)
   - Renlih can remain in an alternate form indefinitely (or until they take another form)
 - **Compression**: Renlih can move through an area as small as 1/4 their space without squeezing or 1/8 their space when squeezing.
 - **Darkvision**: Renlih can see up to 60 feet in the dark.
@@ -103,7 +104,7 @@ humanoid/aberration (shapechanger)
 
 - **Operative Edge**: +1 insight bonus to initiative and skill checks
 - **Trick Attack (+1d4)**: As a full action, you can move up to your speed. Whether or not you moved, you can then make an attack with a melee weapon with the operative special property or with any small arm. Just before making your attack, attempt a Bluff, Intimidate, or Stealth check with a DC equal to 20 + your target’s CR. If you succeed at the check, you deal additional damage and the target is flat-footed. You can’t use this ability with a weapon that has the unwieldy special property or that requires a full action to make a single attack.
-	- attempt trick attack using Computers check with a +4 bonus by creating a computerized distraction (you can’t use this option if stripped of all computerized gear in an area with no computers).
+	- You can attempt a Sense Motive check with a +4 bonus to make a trick attack by reading your foe.
 - **Specialization Skills (Skill Focus,Free Skill Rank)**: Culture, Sense Motive
   - Renlih can attempt a Sense Motive check with a +4 bonus to make a trick attack by reading their foe.
 
@@ -130,7 +131,7 @@ humanoid/aberration (shapechanger)
 
 ## Gear
 
-**Credits:** 308
+**Credits:** 508
 
 | Carry | Weight |
 | ----- | ------ |

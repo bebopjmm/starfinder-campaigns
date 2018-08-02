@@ -135,7 +135,7 @@ humanoid (human)
 
 ## Gear
 
-**Credits:** 208
+**Credits:** 408
 
 | Carry | Weight |
 | ----- | ------ |
