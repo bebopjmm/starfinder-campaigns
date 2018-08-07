@@ -130,7 +130,7 @@ humanoid (verthani)
 
 ## Gear
 
-**Credits:** 415
+**Credits:** 740
 
 | Carry | Weight |
 | ----- | ------ |

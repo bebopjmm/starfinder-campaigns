@@ -131,7 +131,7 @@ humanoid/aberration (shapechanger)
 
 ## Gear
 
-**Credits:** 508
+**Credits:** 833
 
 | Carry | Weight |
 | ----- | ------ |

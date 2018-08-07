@@ -145,7 +145,7 @@ humanoid (lashunta)
 
 ## Gear
 
-**Credits:** 388
+**Credits:** 713
 
 | Carry | Weight |
 | ----- | ------ |
