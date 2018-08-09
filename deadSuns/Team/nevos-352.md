@@ -70,7 +70,7 @@ humanoid (android)
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
 | azimuth artillery laser | 1 | +5 | 1d10 F | burn 1d6 | 20/2 | 3 | 120ft range, penetrating |
-
+| tactical baton | 1 | +3 | 1d4+2 B | - | - | L | analog, operative  |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
@@ -125,13 +125,13 @@ humanoid (android)
 
 ## Gear
 
-**Credits:** 653
+**Credits:** 933
 
 | Carry | Weight |
 | ----- | ------ |
 | Unencumbered | 0-8 |
 | Encumbered | 9-16 |
-| Current | 6.1 |
+| Current | 6.3 |
 
 ### Equipment
 
@@ -139,6 +139,7 @@ humanoid (android)
 | ---- | :--: | :------------: | ----- |
 | industrial backpack | 1 | - |   |
 | personal comm unit  | L | 80/ 1/hr |   |
+| healing serum, mk1b | L | 1 | 5hp healing |
 
 ## Background
 

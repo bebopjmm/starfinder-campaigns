@@ -135,13 +135,13 @@ humanoid (human)
 
 ## Gear
 
-**Credits:** 733
+**Credits:** 1013
 
 | Carry | Weight |
 | ----- | ------ |
 | Unencumbered | 0-8 |
 | Encumbered | 9-16 |
-| Current | 0 |
+| Current | 2.6 |
 
 ### Equipment
 
@@ -149,6 +149,7 @@ humanoid (human)
 | ---- | :--: | :------------: | ----- |
 | industrial backpack | 1 | - |   |
 | personal comm unit  | L | 80/ 1/hr |   |
+| healing serum, mk1b | L | 1 | (2) 5hp healing |
 
 ## Background
 

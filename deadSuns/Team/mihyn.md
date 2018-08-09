@@ -130,19 +130,20 @@ humanoid (verthani)
 
 ## Gear
 
-**Credits:** 740
+**Credits:** 1020
 
 | Carry | Weight |
 | ----- | ------ |
 | Unencumbered | 0-5 |
 | Encumbered | 5-11 |
-| Current | 0 |
+| Current | 4.3 |
 
 ### Equipment
 
 | Item | Bulk | Capacity/Usage | Notes |
 | ---- | :--: | :------------: | ----- |
 | industrial backpack | 1 | - |   |
+| healing serum, mk1b | L | 1 | (2) 5hp healing |
 
 ## Background
 

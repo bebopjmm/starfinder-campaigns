@@ -91,7 +91,7 @@ humanoid (lashunta)
 
 | Known | Remaining / Slots per Day |
 | :---: | :-----------------------: |
-| 2 | 2/3 |
+| 2 | 1/3 |
 
 | Name | Effect |
 | ---- | ------ |
@@ -145,13 +145,13 @@ humanoid (lashunta)
 
 ## Gear
 
-**Credits:** 713
+**Credits:** 1113
 
 | Carry | Weight |
 | ----- | ------ |
 | Unencumbered | 0-6 |
 | Encumbered | 7-12 |
-| Current | 0 |
+| Current | 3.3 |
 
 ### Equipment
 
@@ -159,7 +159,7 @@ humanoid (lashunta)
 | ---- | :--: | :------------: | ----- |
 | industrial backpack | 1 | - |   |
 | personal comm unit  | L | 80/ 1/hr |   |
-| basic medkit | 1 |   |   |
+| basic medkit | 1 | - |   |
 
 ## Background
 

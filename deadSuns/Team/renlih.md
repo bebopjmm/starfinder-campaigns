@@ -131,13 +131,13 @@ humanoid/aberration (shapechanger)
 
 ## Gear
 
-**Credits:** 833
+**Credits:** 1113
 
 | Carry | Weight |
 | ----- | ------ |
 | Unencumbered | 0-6 |
 | Encumbered | 7-12 |
-| Current | 0 |
+| Current | 2.8 |
 
 ### Equipment
 
@@ -146,6 +146,7 @@ humanoid/aberration (shapechanger)
 | industrial backpack | 1 | - |   |
 | personal comm unit  | L | 80/ 1/hr |   |
 | binders (4) | 1 | - | single use, stdAction to helpless, pinned, or willing target. DC 21 Acrobatics to escape |
+| healing serum, mk1b | L | 1 | (2) 5hp healing |
 
 ## Background
 
