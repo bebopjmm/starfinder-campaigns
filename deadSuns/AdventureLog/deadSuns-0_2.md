@@ -59,7 +59,7 @@ Nevos-352 and Shero escort Jubair to the Lorespire Complex and transfer him prot
 ### Pass/Fail
 - Pass: Renlih Disguse check to pass as Jubair
 - Pass: Tamai Diplomacy check to provide Ceren with contacts in her new life
-- Pass: Mihyn Computers check to forge new identification
+- Pass: Mihyn Computers check to forge new identification (Birsen Taylan)
 - Pass: Renlih Bluff check to claim an unidentified body is Ceren
 - Pass: Renlih and Tamai Culture check to concoct a new alias
 
