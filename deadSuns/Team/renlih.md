@@ -4,7 +4,7 @@
 
 (image here)
 
-Astrazoan Bounty Hunter Operative (Detective) 1  
+Astrazoan Bounty Hunter Operative (Detective) 2  
 humanoid/aberration (shapechanger)  
 **Homeworld**: Absalom Station
 
@@ -16,29 +16,29 @@ humanoid/aberration (shapechanger)
 
 | Save | Fort (Con) | Reflex (Dex) | Will (Wis) |
 | ---- | :--------: | :----------: | :--------: |
-| Mod | -1 | +5 | +3 |
+| Mod | -1 | +6 | +4 |
 
-| Skill | Mod | Ranks (11) | Notes
+| Skill | Mod | Ranks (22) | Notes
 | ---- | :--: | :---: | ----- |
-| **Acrobatics (Dex)** | +8 |1|edge|
+| **Acrobatics (Dex)** | +9 |2|edge|
 | **Athletics (Str)** | +1 ||edge|
-| **Bluff (Cha)** | +7 |1|edge|
-| **Computers (Int:T)** | +6 |1|edge|
-| **Culture (Int:T)** | +8 |1|skillFocus|
+| **Bluff (Cha)** | +8 |2|edge|
+| **Computers (Int:T)** | +7 |2|edge|
+| **Culture (Int:T)** | +9 |2|skillFocus|
 | Diplomacy (Cha) | +3 ||edge|
-| **Disguise (Cha)** | +7/+17 |1|edge,manyForms|
+| **Disguise (Cha)** | +8/+18 |2|edge,manyForms|
 | **Engineering (Int:T)** | - |||
-| **Intimidate (Cha)** | +7 |1|edge|
+| **Intimidate (Cha)** | +8 |2|edge|
 | Life Science (Int:T) | - |||
 | **Medicine (Int)**| +2 ||edge|
 | Mysticism (Wis:T) | - |||
-| **Perception (Wis)** | +6 |1|edge|
+| **Perception (Wis)** | +7 |2|edge|
 | Physical Science (Int:T) | - |||
-| **Piloting (Dex)** | +8 |1|edge|
+| **Piloting (Dex)** | +9 |2|edge|
 | **Profession (bounty hunter:T)** | +6 |1|edge|
-| **Sense Motive (Wis)** | +8 |1|skillFocus|
-| **Sleight of Hand (Dex:T)** | - |||
-| **Stealth (Dex)** | +8 |1|edge|
+| **Sense Motive (Wis)** | +9 |2|skillFocus|
+| **Sleight of Hand (Dex:T)** | +7 |1||
+| **Stealth (Dex)** | +9 |2|edge|
 | **Survival (Wis)** | +3 ||theme, edge|
 
 | Size | Speed | Init |
@@ -49,7 +49,7 @@ humanoid/aberration (shapechanger)
 
 | Stamina | Hit Points | Resolve |
 | :-----: | :--------: | :-----: |
-| 5/5 | 10/10 | 4/4 |
+| 10/10 | 16/16 | 4/4 |
 
 #### Defense
 
@@ -61,17 +61,17 @@ humanoid/aberration (shapechanger)
 | :-: | :-: | :------: |
 | 14 | 15 | 23 |
 
-#### Attack Bonuses : BAB +0
+#### Attack Bonuses : BAB +1
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
-| +0 | +3 | +0 |
+| +1 | +4 | +0 |
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-| semi-auto pistol, tactical | 1 | +3 | 1d6 P | - | 9/1  | L | analog |
-| pulsecaster pistol | 1 | +3 | 1d4 E | - | 20/1 | L | nonlethal |
-| tactical baton | 1 | +0 | 1d4 B | - | - | L | analog, operative |
+| semi-auto pistol, tactical | 1 | +4 | 1d6 P | - | 9/1  | L | analog |
+| pulsecaster pistol | 1 | +4 | 1d4 E | - | 20/1 | L | nonlethal |
+| tactical baton | 1 | +1 | 1d4 B | - | - | L | analog, operative |
 
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
@@ -107,6 +107,9 @@ humanoid/aberration (shapechanger)
 	- You can attempt a Sense Motive check with a +4 bonus to make a trick attack by reading your foe.
 - **Specialization Skills (Skill Focus,Free Skill Rank)**: Culture, Sense Motive
   - Renlih can attempt a Sense Motive check with a +4 bonus to make a trick attack by reading their foe.
+- **Evasion**: If Renlih succeeds at a Reflex save against an effect that normally has a partial effect on a successful save, he instead suffers no effect. He gains this benefit only when unencumbered and wearing light armor or no armor, and he loses the benefit when he is helpless or otherwise unable to move.
+- **Operative Exploits**
+  - **Inoculation(+1)**: Renlih trained to resist various chemical and biological weapons, toxins, and pathogens he come across in the course of his missions. He add your operative’s edge bonus to Fortitude saves against poison and disease.
 
 ### Feats
 
@@ -127,7 +130,7 @@ humanoid/aberration (shapechanger)
 
 ### Languages
 
-- Common, Ysoki, Shirren
+- Common, Ysoki, Shirren, Castrovelian
 
 ## Gear
 

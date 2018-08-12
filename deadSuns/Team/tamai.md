@@ -4,7 +4,7 @@
 
 (image here)
 
-Male Human Tempered Pilgrim Solarian 1  
+Male Human Tempered Pilgrim Solarian 2  
 humanoid (human)  
 **Homeworld**: Akiton
 
@@ -16,22 +16,22 @@ humanoid (human)
 
 | Save | Fort (Con) | Reflex (Dex) | Will (Wis) |
 | ---- | :--------: | :----------: | :--------: |
-| Mod | +2 | +1 | +0 |
+| Mod | +3 | +1 | +3 |
 
-| Skill | Mod | Ranks (5) | Notes
+| Skill | Mod | Ranks (10) | Notes
 | ---- | :--: | :---: | ----- |
-| **Acrobatics (Dex)** | +1 |||
-| **Athletics (Str)** | +6 |1||
+| **Acrobatics (Dex)** | +5 |1||
+| **Athletics (Str)** | +7 |2||
 | Bluff (Cha) | +3 |||
 | Computers (Int:T) | - |||
-| **Culture (Int:T)** | +5 |1|theme|
-| **Diplomacy (Cha)** | +7 |1||
+| **Culture (Int:T)** | +6 |2|theme|
+| **Diplomacy (Cha)** | +8 |2||
 | Disguise (Cha) | +3 |||
 | Engineering (Int:T) | - |||
 | **Intimidate (Cha)** | +7 |1||
 | Life Science (Int:T) | - |||
 | Medicine (Int) | +0 |||
-| **Mysticism (Wis:T)** | +4 |1||
+| **Mysticism (Wis:T)** | +5 |2||
 | **Perception (Wis)** | +0 |||
 | **Physical Science (Int:T)** | - |||
 | Piloting (Dex) | +1 |||
@@ -49,7 +49,7 @@ humanoid (human)
 
 | Stamina | Hit Points | Resolve |
 | :-----: | :--------: | :-----: |
-| 8/8 | 11/11 | 4/4 |
+| 16/16 | 18/18 | 4/4 |
 
 #### Defense
 
@@ -61,16 +61,16 @@ humanoid (human)
 | :-: | :-: | :------: |
 | 12 | 14 | 20 |
 
-#### Attack Bonuses : BAB +1
+#### Attack Bonuses : BAB +2
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
-| +3 | +2 | +3 |
+| +4 | +3 | +4 |
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-| solar katana | - | +3 | 1d6+2 S | - | - | L |   |
-| semi-auto pistol, tactical | 1 |+2|1d6 P|-|9/1|L| analog |
+| solar katana | - | +4 | 1d6+2 S | - | - | L |   |
+| semi-auto pistol, tactical | 1 |+3|1d6 P|-|9/1|L| analog |
 
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
@@ -109,6 +109,8 @@ humanoid (human)
 	- **Supernova (2d6)**: When you’re fully photon-attuned, as a standard action, you can deal 1d6 fire damage plus 1d6 additional fire damage per solarian level to all creatures within 10 feet of you. A creature that succeeds at a **DC13 Reflex** save takes half damage.
 		- After you use this revelation, you immediately become unattuned.
 		- Supernova functions as a zenith revelation for the purposes of abilities that reference them.
+  - **Dark Matter (DR 1/-)**: As a move action, Tamai can draw on the properties of dark matter to increase your density, allowing you to resist physical damage. This benefit lasts for 1 round or until you leave graviton mode.
+    - You gain damage reduction 1/—. When you are attuned or fully attuned, your DR from dark matter is equal to half your solarian level.
 
 ### Feats
 
@@ -131,7 +133,7 @@ humanoid (human)
 
 ### Languages
 
-- Common, Akitonian, Castrovelian, Kasatha
+- Common, Akitonian, Castrovelian, Kasatha, +1
 
 ## Gear
 

@@ -4,7 +4,7 @@
 
 (image here)
 
-Male Android Mercenary Soldier (Guard) 1  
+Male Android Mercenary Soldier (Guard) 2  
 humanoid (android)  
 **Homeworld**: Aballon
 
@@ -16,12 +16,12 @@ humanoid (android)
 
 | Save | Fort (Con) | Reflex (Dex) | Will (Wis) |
 | ---- | :--------: | :----------: | :--------: |
-| Mod | +3 | +3 | +2 |
+| Mod | +4 | +3 | +4 |
 
-| Skill | Mod | Ranks (5) | Notes
+| Skill | Mod | Ranks (10) | Notes
 | ---- | :--: | :---: | ----- |
-| **Acrobatics (Dex)** | +7 |1||
-| **Athletics (Str)** | +7 |1|theme|
+| **Acrobatics (Dex)** | +7 |2|ACP|
+| **Athletics (Str)** | +7 |2|theme, ACP|
 | Bluff (Cha) | -1 |||
 | Computers (Int:T) | - |||
 | Culture (Int:T) | - ||||
@@ -34,12 +34,12 @@ humanoid (android)
 | Mysticism (Wis:T) | - |||
 | Perception (Wis) | +0 |||
 | Physical Science (Int:T) | - |||
-| **Piloting (Dex)** | +3 |||
+| **Piloting (Dex)** | +7 |1||
 | **Profession (mercenary) (Wis:T)** | +4 |1||
 | Sense Motive (Wis) | -2 ||racial|
-| Sleight of Hand (Dex:T) | - |||
-| Stealth (Dex) |  +4 |1||
-| **Survival (Wis)** | +0 |||
+| Sleight of Hand (Dex:T) | - ||ACP|
+| Stealth (Dex) |  +4 |2|ACP|
+| **Survival (Wis)** | +4 |1||
 
 | Size | Speed | Init |
 | :--: | :---: | :--: |
@@ -49,7 +49,7 @@ humanoid (android)
 
 | Stamina | Hit Points | Resolve |
 | :-----: | :--------: | :-----: |
-| 8/8 | 11/11 | 4/4 |
+| 18/18 | 18/18 | 4/4 |
 
 #### Defense
 
@@ -61,16 +61,16 @@ humanoid (android)
 | :-: | :-: | :------: |
 | 15 | 17 | 25 |
 
-#### Attack Bonuses : BAB +1
+#### Attack Bonuses : BAB +2
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
-| +3 | +4 | +3 |
+| +4 | +5 | +4 |
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-| azimuth artillery laser | 1 | +5 | 1d10 F | burn 1d6 | 20/2 | 3 | 120ft range, penetrating |
-| tactical baton | 1 | +3 | 1d4+2 B | - | - | L | analog, operative  |
+| azimuth artillery laser | 1 | +6 | 1d10 F | burn 1d6 | 20/2 | 3 | 120ft range, penetrating |
+| tactical baton | 1 | +4 | 1d4+2 B | - | - | L | analog, operative  |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
@@ -100,6 +100,9 @@ humanoid (android)
 ### Feats
 
 - **Weapon Focus (heavy weapons)**: +1 attack bonus to heavy weapons
+- **Toughness**: For every character level Nevos-352 has (and whenever he gains a new level), he gains 1 Stamina Point.
+  - +4 bonus to Constitution checks to continue running, to avoid damage from a forced march, to hold your breath, and to avoid damage from starvation or thirst.
+  - +4 bonus to Fortitude saving throws to avoid taking damage from hot or cold environments, to withstand the harmful effects of thick and thin atmospheres, to avoid choking when breathing in heavy smoke, and to avoid fatigue caused by sleep deprivation.
 
 ### Augmentations
 

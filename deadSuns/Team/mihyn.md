@@ -4,7 +4,7 @@
 
 (image here)
 
-Female Verthani Cyberborn Mechanic (Exo-cortex) 1  
+Female Verthani Cyberborn Mechanic (Exo-cortex) 2  
 humanoid (verthani)  
 **Homeworld**: Verces
 
@@ -16,24 +16,24 @@ humanoid (verthani)
 
 | Save | Fort (Con) | Reflex (Dex) | Will (Wis) |
 | ---- | :--------: | :----------: | :--------: |
-| Mod | +4 | +4 | +0 |
+| Mod | +5 | +7 | +0 |
 
-| Skill | Mod | Ranks (7) | Notes
+| Skill | Mod | Ranks (14) | Notes
 | ---- | :--: | :---: | ----- |
 | Acrobatics (Dex) | +1 |1|ACP|
-| **Athletics (Str)** | +1 |1|ACP|
+| **Athletics (Str)** | +2 |2|ACP|
 | Bluff (Cha) | +0 |||
-| **Computers (Int:T)** | +9 |1|theme, bypass|
-| Culture (Int:T) | - |||
+| **Computers (Int:T)** | +10 |2|theme, bypass|
+| Culture (Int:T) | +4 |1||
 | Diplomacy (Cha) | +0 |||
 | Disguise (Cha) | +0 |||
-| **Engineering (Int:T)** | +8 |1|bypass|
+| **Engineering (Int:T)** | +9 |2|bypass|
 | Intimidate (Cha) | +0 |||
 | Life Science (Int:T) | - |||
-| **Medicine (Int)** | +3 |||
+| **Medicine (Int)** | +7 |1||
 | Mysticism (Wis:T) | - |||
-| **Perception (Wis)** | +4 |1||
-| **Physical Science (Int:T)** | +10 |1|memoryModule|
+| **Perception (Wis)** | +5 |2||
+| **Physical Science (Int:T)** | +11 |2|memoryModule|
 | **Piloting (Dex)** | +6 |1||
 | **Profession (varies:T)** | - |||
 | Sense Motive (Wis) | +0 |||
@@ -43,13 +43,13 @@ humanoid (verthani)
 
 | Size | Speed | Init |
 | :--: | :---: | :--: |
-| Medium | 25 | +2 |
+| Medium | 25 | +4 |
 
 ### Combat
 
 | Stamina | Hit Points | Resolve |
 | :-----: | :--------: | :-----: |
-| 8/8 | 10/10 | 4/4 |
+| 16/16 | 16/16 | 4/4 |
 
 #### Defense
 
@@ -61,16 +61,16 @@ humanoid (verthani)
 | :-: | :-: | :------: |
 | 14 | 16 | 24 |
 
-#### Attack Bonuses : BAB +0 / CT +1
+#### Attack Bonuses : BAB +1 / CT +2
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
-| -1 | +2 | -1 |
+| 0 | +3 | 0 |
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-| pulsecaster rifle | 1 | +3 | 1d6 E | - | 40/2 | 1 | 50 ft, nonlethal |
-| survival knife | 1 | -1 | 1d4-1 S | - | - | L | analog |
+| pulsecaster rifle | 1 | +4 | 1d6 E | - | 40/2 | 1 | 50 ft, nonlethal |
+| survival knife | 1 | 0 | 1d4-1 S | - | - | L | analog |
 
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
@@ -102,6 +102,9 @@ humanoid (verthani)
   - **Combat Tracking**: As a move action during combat, Mihyn can designate a foe for her exocortex to track. As long as that target is in sight, the exocortex feeds her telemetry, vulnerabilities, and combat tactics, allowing her to make attacks against that target with base attack bonus equal to her mechanic level.
   - **Memory Module**: Once per day, as a reaction while not in combat, Mihyn can reroll a failed skill check to recall knowledge.
     - exocortex grants you the Skill Focus feat as a bonus feat. Every time you gain a mechanic level, you can rebuild your exocortex’s memory module, replacing the exocortex’s bonus Skill Focus feat with Skill Focus in a different skill.
+- **Mechanic Tricks**
+  - **Overclocking**: Mihyn has augmented the performance of her AI for maximum response timing.
+    - +2 insight bonus to initiative checks and Reflex saves.
 
 ### Feats
 
@@ -126,7 +129,7 @@ humanoid (verthani)
 
 ### Languages
 
-- Common, Vercite, Triaxian, Vesk, Ysoki
+- Common, Vercite, Triaxian, Vesk, Ysoki, Draconic
 
 ## Gear
 

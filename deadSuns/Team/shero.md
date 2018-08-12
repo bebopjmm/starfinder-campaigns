@@ -4,7 +4,7 @@
 
 (image here)
 
-Female Lashunta Priest Mystic (Xenodruid) 1  
+Female Lashunta Priest Mystic (Xenodruid) 2  
 humanoid (lashunta)  
 **Homeworld**: Castrovel
 
@@ -16,30 +16,30 @@ humanoid (lashunta)
 
 | Save | Fort (Con) | Reflex (Dex) | Will (Wis) |
 | ---- | :--------: | :----------: | :--------: |
-| Mod | -1 | +2 | +5 |
+| Mod | -1 | +2 | +6 |
 
-| Skill | Mod | Ranks (7) | Notes
+| Skill | Mod | Ranks (14) | Notes
 | ---- | :--: | :---: | ----- |
 | Acrobatics (Dex) | - |||
 | Athletics (Str) | - |||
 | **Bluff (Cha)** | - |||
 | Computers (Int:T) | +4 |1|racial|
-| **Culture (Int:T)** | - |||
+| **Culture (Int:T)** | +5 |1||
 | **Diplomacy (Cha)** | - |||
 | **Disguise (Cha)** | - |||
 | Engineering (Int:T) | - |||
 | **Intimidate (Cha)** | - |||
-| **Life Science (Int:T)** | +7 |1|racial|
-| **Medicine (Int)** | +5 |1||
-| **Mysticism (Wis:T)** | +8 |1|theme|
-| **Perception (Wis)** | +7 |1||
+| **Life Science (Int:T)** | +9 |2|racial, channelSkill|
+| **Medicine (Int)** | +6 |2||
+| **Mysticism (Wis:T)** | +9 |2|theme|
+| **Perception (Wis)** | +8 |2||
 | Physical Science (Int:T) | - |||
 | Piloting (Dex) | - |||
 | **Profession (varies:T)** | - |||
-| **Sense Motive (Wis)** | +7 |1||
+| **Sense Motive (Wis)** | +8 |2||
 | Sleight of Hand (Dex:T) | - |||
 | Stealth (Dex) |  - |||
-| **Survival (Wis)** | +7 |1||
+| **Survival (Wis)** | +9 |2|channelSkill|
 
 | Size | Speed | Init |
 | :--: | :---: | :--: |
@@ -49,7 +49,7 @@ humanoid (lashunta)
 
 | Stamina | Hit Points | Resolve |
 | :-----: | :--------: | :-----: |
-| 5/5 | 10/10 | 4/4 |
+| 10/10 | 16/16 | 4/4 |
 
 #### Defense
 
@@ -61,16 +61,16 @@ humanoid (lashunta)
 | :-: | :-: | :------: |
 | 13 | 14 | 22 |
 
-#### Attack Bonuses : BAB +0
+#### Attack Bonuses : BAB +1
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
-| +0 | +2 | +0 |
+| +1 | +3 | +0 |
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-| battle staff | 1 | +0 | 1d4 B | Knockdown | - | 1 | analog, block |
-| azimuth laser pistol | 1 | +2 | 1d4 F | Burn 1d4 | 20/1 | L |   |
+| battle staff | 1 | +1 | 1d4 B | Knockdown | - | 1 | analog, block |
+| azimuth laser pistol | 1 | +3 | 1d4 F | Burn 1d4 | 20/1 | L |   |
 
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
@@ -78,7 +78,7 @@ humanoid (lashunta)
 
 ### Spells
 
-#### 0 - Known: 4 - DC 13
+#### 0 - Known: 5 - DC 13
 
 | Name | Effect |
 | ---- | ------ |
@@ -86,18 +86,20 @@ humanoid (lashunta)
 | [telekinetic projectile](http://www.starjammersrd.com/magic-and-spells/spells/t/telekinetic-projectile/) | stdAct (1rd) 30ft range. Telekinetically hurl an object (ranged attack vs KAC), dealing 1d6 damage to the target and object |
 | [detect affliction](http://www.starjammersrd.com/magic-and-spells/spells/d/detect-affliction/) | stdAct 30ft range. Determine whether a creature or object has been poisoned, is diseased, is cursed, or is suffering a similar affliction. |
 | [token spell](http://www.starjammersrd.com/magic-and-spells/spells/t/token-spell/) | stdAct (1hr) 10ft range. minor magical effects, e.g. illuminate object to shed dim light in 30ft rad |
+| detect magic   |   |
 
 #### 1 - DC 14
 
 | Known | Remaining / Slots per Day |
 | :---: | :-----------------------: |
-| 2 | 1/3 |
+| 3 | 1/3 |
 
 | Name | Effect |
 | ---- | ------ |
 | [life bubble](http://www.starjammersrd.com/magic-and-spells/spells/l/life-bubble/) | stdAct 110ft. surround the target creatures with a constant and movable 1-inch shell of tolerable living conditions customized for each creature|
 | [mystic cure](http://www.starjammersrd.com/magic-and-spells/spells/m/mystic-cure/) | stdAct touch. 1d8+3 HP. No AoO when casting|
 | [mind thrust](http://www.starjammersrd.com/magic-and-spells/spells/m/mind-thrust/) | stdAct 30ft. 2d10 damage to the target (Will save for 1/2) |
+| share language |   |
 
 ## Abilities
 
@@ -122,6 +124,7 @@ humanoid (lashunta)
   - **Speak With Animals**: Shero can communicate with any creature of the animal type, though this doesn’t make it friendly.
     - If an animal is friendly toward her, it may do her favors
     - Shero can use Intimidate to bully animals, and can use any other language-dependent effect against animals.
+  - **Channel Skill (+1)**: Life Science, Survival
 
 ### Feats
 
@@ -141,7 +144,7 @@ humanoid (lashunta)
 
 ### Languages
 
-- Common, Castrovelian
+- Common, Castrovelian, Elven, Kasatha
 
 ## Gear
 
