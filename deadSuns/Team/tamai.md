@@ -18,10 +18,14 @@ humanoid (human)
 | ---- | :--------: | :----------: | :--------: |
 | Mod | +3 | +1 | +3 |
 
+**Save Adjustments**
+- *Graviton Mode*
+- *Toughness*
+
 | Skill | Mod | Ranks (10) | Notes
 | ---- | :--: | :---: | ----- |
-| **Acrobatics (Dex)** | +5 |1||
-| **Athletics (Str)** | +7 |2||
+| **Acrobatics (Dex)** | +4 |1|ACP|
+| **Athletics (Str)** | +6 |2|ACP|
 | Bluff (Cha) | +3 |||
 | Computers (Int:T) | - |||
 | **Culture (Int:T)** | +6 |2|theme|
@@ -37,7 +41,7 @@ humanoid (human)
 | Piloting (Dex) | +1 |||
 | **Profession (varies:T)** | - |||
 | **Sense Motive (Wis)** | +0 |||
-| Sleight of Hand (Dex:T) | - |||
+| Sleight of Hand (Dex:T) | - ||ACP|
 | **Stealth (Dex)** | +1 |||
 | **Survival (Wis)** | +0 |||
 
@@ -69,13 +73,17 @@ humanoid (human)
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-| solar katana | - | +4 | 1d6+2 S | - | - | L |   |
+| solar katana | - | +4 | 1d6+5 S +1 E| - | - | L | stun (electron shard) |
 | semi-auto pistol, tactical | 1 |+3|1d6 P|-|9/1|L| analog |
 
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
 | small arms rounds | 1 | 9/9/9/3  | L |   |
+
+**Solarian Weapon Crystal**
+- *Electron Shard*:
+  - *Soulfire Fusion*: add Charisma bonus to damage done in addition to Strength
 
 ## Abilities
 
@@ -98,15 +106,17 @@ humanoid (human)
   - Forming or dismissing a solar weapon is a move action that takes the same amount of effort as drawing or sheathing a weapon (and can be combined with a move as a single move action or used with the Quick Draw feat).
   - solar weapon is automatically dismissed if it ever leaves your hand.
   - No other creature or effect can affect your solar manifestation in any way, including disarming or sundering it.
-- **Stellar Mode**: As long as you have 1 or 2 attunement points in a mode, you are attuned to that mode. Once you reach 3 attunement points in a mode, you become fully attuned to that mode.
-	- **Graviton Mode**: When you enter graviton mode, you gain 1 graviton attunement point and become graviton-attuned. Some of your stellar revelations are graviton powers and get stronger if you’re graviton-attuned. While graviton-attuned, you gain a +1 insight bonus to Reflex saves.
-	- **Photon Mode**: When you enter photon mode, you gain 1 photon attunement point and become photon-attuned. Some of your stellar revelations are photon powers and get stronger if you’re photon-attuned. While photon-attuned, you gain a +1 insight bonus to damage rolls (including damage rolls for your stellar powers).
-	- **Unattuned**: While unattuned, you gain no attunement points and you are neither photon-attuned nor graviton-attuned. You lose all attunement points you’ve accrued so far and gain no benefits while unattuned.
+- **Stellar Mode**: Stellar mode can only be activated and remain active when Tamai is in combat facing a significant enemy.
+	- **Graviton Mode**: Upon entering graviton mode, Tamai gains 1 graviton attunement point and becomes graviton-attuned, 3 points for fully attuned. Some of his stellar revelations are graviton powers and get stronger when he's graviton-attuned.
+    - +1 insight bonus to Reflex saves.
+	- **Photon Mode**: Upon entering photon mode, Tamai gain 1 photon attunement point and become photon-attuned, 3 points for fully attuned. Some of his stellar revelations are photon powers and get stronger when he's photon-attuned.
+    - +1 insight bonus to damage rolls (including damage rolls for your stellar powers).
+	- **Unattuned**: While unattuned, Tamai gains no attunement points and he is neither photon-attuned nor graviton-attuned. He loses all attunement points accrued so far and gains no benefits while unattuned.
 - **Stellar Revelation**:
 	- **Black Hole**: When you’re fully graviton-attuned, as a standard action, you can pull any number of creatures within 20 feet of you closer. You choose which creatures are affected and which ones aren’t. Each target must succeed at a **DC13 Fortitude** save or be pulled 10 feet toward you. The range of this revelation and the distance pulled increase by 5 feet at 5th level and every 4 levels thereafter. Solid objects do not block this ability, but any creature that runs into a solid object ceases moving closer to you. Creatures moved by this ability do not provoke attacks of opportunity from this movement.
 		- After you use this revelation, you immediately become unattuned.
 		- Black hole functions as a zenith revelation for the purposes of abilities that reference them.
-	- **Supernova (2d6)**: When you’re fully photon-attuned, as a standard action, you can deal 1d6 fire damage plus 1d6 additional fire damage per solarian level to all creatures within 10 feet of you. A creature that succeeds at a **DC13 Reflex** save takes half damage.
+	- **Supernova (3d6)**: When you’re fully photon-attuned, as a standard action, you can deal 1d6 fire damage plus 1d6 additional fire damage per solarian level to all creatures within 10 feet of you. A creature that succeeds at a **DC13 Reflex** save takes half damage.
 		- After you use this revelation, you immediately become unattuned.
 		- Supernova functions as a zenith revelation for the purposes of abilities that reference them.
   - **Dark Matter (DR 1/-)**: As a move action, Tamai can draw on the properties of dark matter to increase your density, allowing you to resist physical damage. This benefit lasts for 1 round or until you leave graviton mode.
@@ -133,7 +143,7 @@ humanoid (human)
 
 ### Languages
 
-- Common, Akitonian, Castrovelian, Kasatha, +1
+- Common, Akitonian, Castrovelian, Kasatha, Eoxian
 
 ## Gear
 
@@ -152,6 +162,7 @@ humanoid (human)
 | industrial backpack | 1 | - |   |
 | personal comm unit  | L | 80/ 1/hr |   |
 | healing serum, mk1b | L | 1 | (2) 5hp healing |
+| flashlight | L | 10/ 1/hr | requires one hand |
 
 ## Background
 

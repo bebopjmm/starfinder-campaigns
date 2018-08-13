@@ -18,6 +18,9 @@ humanoid/aberration (shapechanger)
 | ---- | :--------: | :----------: | :--------: |
 | Mod | -1 | +6 | +4 |
 
+**Save Adjustments**
+- *Inoculation*
+
 | Skill | Mod | Ranks (22) | Notes
 | ---- | :--: | :---: | ----- |
 | **Acrobatics (Dex)** | +9 |2|edge|
@@ -70,13 +73,14 @@ humanoid/aberration (shapechanger)
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
 | semi-auto pistol, tactical | 1 | +4 | 1d6 P | - | 9/1  | L | analog |
-| pulsecaster pistol | 1 | +4 | 1d4 E | - | 20/1 | L | nonlethal |
+| pulsecaster pistol | 1 | +4 | 1d4 E | - | 20/1 | L | nonlethal, *glamered fusion* |
 | tactical baton | 1 | +1 | 1d4 B | - | - | L | analog, operative |
-
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
-| small arms rounds | 1 | 9/9/9/3  | L |   |
+| small arms rounds | 1 | 9/9/8  | L |   |
+
+*Glamered Fusion*: As a standard action, a weapon with the glamered fusion can be commanded to change its appearance to assume the form of another object of similar size. The weapon retains all its properties (including bulk) when disguised but does not radiate magic. Only true seeing or similar magic reveals the true nature of a glamered weapon while it is in disguise. After a glamered weapon is used to make an attack, this fusion is suppressed for 1 minute.
 
 ## Abilities
 
@@ -102,11 +106,10 @@ humanoid/aberration (shapechanger)
 
 ### Operative (Detective)
 
-- **Operative Edge**: +1 insight bonus to initiative and skill checks
+- **Operative Edge (+1)**: insight bonus to initiative and skill checks
 - **Trick Attack (+1d4)**: As a full action, you can move up to your speed. Whether or not you moved, you can then make an attack with a melee weapon with the operative special property or with any small arm. Just before making your attack, attempt a Bluff, Intimidate, or Stealth check with a DC equal to 20 + your target’s CR. If you succeed at the check, you deal additional damage and the target is flat-footed. You can’t use this ability with a weapon that has the unwieldy special property or that requires a full action to make a single attack.
-	- You can attempt a Sense Motive check with a +4 bonus to make a trick attack by reading your foe.
+	- Renlih can attempt a Sense Motive check with a +4 bonus to make a trick attack by reading your foe.
 - **Specialization Skills (Skill Focus,Free Skill Rank)**: Culture, Sense Motive
-  - Renlih can attempt a Sense Motive check with a +4 bonus to make a trick attack by reading their foe.
 - **Evasion**: If Renlih succeeds at a Reflex save against an effect that normally has a partial effect on a successful save, he instead suffers no effect. He gains this benefit only when unencumbered and wearing light armor or no armor, and he loses the benefit when he is helpless or otherwise unable to move.
 - **Operative Exploits**
   - **Inoculation(+1)**: Renlih trained to resist various chemical and biological weapons, toxins, and pathogens he come across in the course of his missions. He add your operative’s edge bonus to Fortitude saves against poison and disease.
@@ -120,6 +123,9 @@ humanoid/aberration (shapechanger)
 - **Starfinder Society Subdermal Graft (right hand)**: This implant rests underneath the skin and can be activated/deactivated as a swift action.
   - activation causes a rendition of the Starfinder Society’s symbol to glow underneath the skin, acting as a mark that lets others know the bearer is a member of the Society
   - activation increases light level within 5ft by one step
+- **Standard Datajack (brain)**: This cybernetic includes a programmable data port that allows Renlih to access different types of computers and digital storage media.
+  - Any handheld computer can be inserted directly into the port, while larger systems need to be connected by an adapter cable.
+  - Having the system connected directly to your nervous system obviates the need for an interface to access data on a system. Actually operating the system requires you to use the Computers skill as usual. Some closed systems don’t allow data access or require you to do some rewiring to connect with a datajack (usually an Engineering check).
 
 ### Proficiencies
 
@@ -150,6 +156,8 @@ humanoid/aberration (shapechanger)
 | personal comm unit  | L | 80/ 1/hr |   |
 | binders (4) | 1 | - | single use, stdAction to helpless, pinned, or willing target. DC 21 Acrobatics to escape |
 | healing serum, mk1b | L | 1 | (2) 5hp healing |
+| Starstone compass | L | - | astrogation bonus within Pact Worlds |
+| Ring of whispers | - |   |   |
 
 ## Background
 

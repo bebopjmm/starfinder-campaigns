@@ -18,6 +18,11 @@ humanoid (android)
 | ---- | :--------: | :----------: | :--------: |
 | Mod | +4 | +3 | +4 |
 
+**Save Adjustments**
+- *Constructed*
+- *Radiation Buffer*
+- *Toughness*
+
 | Skill | Mod | Ranks (10) | Notes
 | ---- | :--: | :---: | ----- |
 | **Acrobatics (Dex)** | +7 |2|ACP|
@@ -70,6 +75,7 @@ humanoid (android)
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
 | azimuth artillery laser | 1 | +6 | 1d10 F | burn 1d6 | 20/2 | 3 | 120ft range, penetrating |
+| thunderstrike pulse gauntlet | 2 | +4 | 1d6+2 B & So | Knockdown | 20/1 | 1 | powered |
 | tactical baton | 1 | +4 | 1d4+2 B | - | - | L | analog, operative  |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
@@ -85,7 +91,8 @@ humanoid (android)
 	- do not breathe or suffer the normal environmental effects of being in a vacuum.
 - **Exceptional Vision**: low-light and darkvision 60 ft
 - **Flat Effect**: -2 penalty to Sense Motive checks, +2 to DC of Sense Motive checks against them
-- **Upgrade Slot**: single armor upgrade slot in their bodies. Regardless of whether androids are wearing physical armor, they can use this slot to install any one armor upgrade that could be installed into light armor.
+- **Upgrade Slot**: single armor upgrade slot in their bodies. Regardless of whether androids are wearing physical armor, they can use this slot to install any one armor upgrade that could be installed into light armor
+	- *Radiation Buffer*: +2 bonus to initial saving throw against radiation in addition to any bonuses from your armor’s environmental protection. This doesn’t provide any bonus to saves against the secondary effects of radiation.
 
 ### Mercenary
 
@@ -134,7 +141,7 @@ humanoid (android)
 | ----- | ------ |
 | Unencumbered | 0-8 |
 | Encumbered | 9-16 |
-| Current | 6.3 |
+| Current | 7.3 |
 
 ### Equipment
 

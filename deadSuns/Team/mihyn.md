@@ -18,6 +18,9 @@ humanoid (verthani)
 | ---- | :--------: | :----------: | :--------: |
 | Mod | +5 | +7 | +0 |
 
+**Save Adjustments**
+- *Overclocking*
+
 | Skill | Mod | Ranks (14) | Notes
 | ---- | :--: | :---: | ----- |
 | Acrobatics (Dex) | +1 |1|ACP|
@@ -94,12 +97,11 @@ humanoid (verthani)
 ### Mechanic (Exo-cortex)
 
 - **Bypass (+1)**: Mihyn is skilled at getting inside computer systems and electronic devices and gains a +1 insight bonus to Computers and Engineering skill checks.
-- **Custom Rig**: Mihyn has created a customized toolkit she can use to hack systems and items.
-  - can be configured to take up an upgrade slot on your armor or can be installed as a cybernetic augmentation system in your brain (though it can be combined with a datajack for the same price as installing a datajack normally), your eyes, or an arm. Alternatively, you can configure it to be a handheld device, meaning that you must retrieve it and hold it to use it effectively.
+- **Custom Rig**: Mihyn has created a customized toolkit, installed as a cybernetic augmentation system in her brain, that she can use to hack systems and items.
   - While using this rig, she always count as having the appropriate tool or basic kit for any Computers or Engineering skill check she attempts.
   - she can use her custom rig as a Mk I comm unit
 - **Artificial Intelligence**: Mihyn has an exo-cortex implanted within her brain that interacts with and augments her biological brain’s cognitive function
-  - **Combat Tracking**: As a move action during combat, Mihyn can designate a foe for her exocortex to track. As long as that target is in sight, the exocortex feeds her telemetry, vulnerabilities, and combat tactics, allowing her to make attacks against that target with base attack bonus equal to her mechanic level.
+  - **Combat Tracking (BAB +2)**: As a move action during combat, Mihyn can designate a foe for her exocortex to track. As long as that target is in sight, the exocortex feeds her telemetry, vulnerabilities, and combat tactics, allowing her to make attacks against that target with base attack bonus equal to her mechanic level.
   - **Memory Module**: Once per day, as a reaction while not in combat, Mihyn can reroll a failed skill check to recall knowledge.
     - exocortex grants you the Skill Focus feat as a bonus feat. Every time you gain a mechanic level, you can rebuild your exocortex’s memory module, replacing the exocortex’s bonus Skill Focus feat with Skill Focus in a different skill.
 - **Mechanic Tricks**
@@ -112,7 +114,9 @@ humanoid (verthani)
 
 ### Augmentations
 
-- **Hideaway limb (left leg)**: +2 bonus to Sleight of Hand checks to conceal items of negligible or light bulk. Move action to retrieve
+- **Technopathy Node (throat)**: A small metallic node etched with arcane symbols implanted in Mihyn's voice box allows her to silently vocalize messages to constructs with the technological subtype or to nearby computers designed to receive messages.
+  - As a standard action, she can send a short message in a language she knows to up to three target creatures or computers she is observing within 100 feet and potentially receive a short reply, per telepathic message.
+  - Alternatively, as a standard action, she can send a short message in a language she knows to a single target computer she is observing within 100 feet and have that computer display that message, allowing anyone observing that computer to read it without leaving any trace of the message’s origin.
 - **Starfinder Society Subdermal Graft (right hand)**: This implant rests underneath the skin and can be activated/deactivated as a swift action.
   - activation causes a rendition of the Starfinder Society’s symbol to glow underneath the skin, acting as a mark that lets others know the bearer is a member of the Society
   - activation increases light level within 5ft by one step
@@ -137,15 +141,15 @@ humanoid (verthani)
 
 | Carry | Weight |
 | ----- | ------ |
-| Unencumbered | 0-5 |
-| Encumbered | 5-11 |
+| Unencumbered | 0-6 |
+| Encumbered | 6-13 |
 | Current | 4.3 |
 
 ### Equipment
 
 | Item | Bulk | Capacity/Usage | Notes |
 | ---- | :--: | :------------: | ----- |
-| industrial backpack | 1 | - |   |
+| Starfinder backpack | 1 | - | retrieve objects as if you were drawing a weapon. In addition, you can stow objects of 1 bulk or less in the pack as if you were sheathing a weapon.  |
 | healing serum, mk1b | L | 1 | (2) 5hp healing |
 
 ## Background

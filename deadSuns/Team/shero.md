@@ -16,7 +16,7 @@ humanoid (lashunta)
 
 | Save | Fort (Con) | Reflex (Dex) | Will (Wis) |
 | ---- | :--------: | :----------: | :--------: |
-| Mod | -1 | +2 | +6 |
+| Mod | +0 | +2 | +6 |
 
 | Skill | Mod | Ranks (14) | Notes
 | ---- | :--: | :---: | ----- |
@@ -71,7 +71,7 @@ humanoid (lashunta)
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
 | battle staff | 1 | +1 | 1d4 B | Knockdown | - | 1 | analog, block |
 | azimuth laser pistol | 1 | +3 | 1d4 F | Burn 1d4 | 20/1 | L |   |
-
+| pulsecaster pistol | 1 | +3 | 1d4 E | - | 20/1 | L | nonlethal |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
@@ -163,6 +163,8 @@ humanoid (lashunta)
 | industrial backpack | 1 | - |   |
 | personal comm unit  | L | 80/ 1/hr |   |
 | basic medkit | 1 | - |   |
+| *identify* spell gem | - | 1 |   |
+| mk1 ring of resistance | - | - | +1 to Fort save |
 
 ## Background
 
