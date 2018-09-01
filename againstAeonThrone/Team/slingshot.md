@@ -116,7 +116,7 @@ humanoid (ysoki)
 
 ### Languages
 
-- Common, Ysoki, Akitonian, +1
+- Common, Ysoki, Akitonian, Vercite, Vesk, Eoxian
 
 ## Gear
 
