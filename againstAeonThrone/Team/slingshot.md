@@ -18,6 +18,8 @@ humanoid (ysoki)
 | ---- | :--------: | :--------: | :--------: |
 | Mod | +1 | +5 | +2 |
 
+**Respiration Compounder**: +2 bonus to saving throws against inhaled poisons or other airborne toxins.
+
 | Skill | Mod | Ranks (12) | Notes
 | ---- | :--: | :---: | ----- |
 | **Acrobatics** (Dex) | +10 |1|skillFocus|
@@ -49,27 +51,32 @@ humanoid (ysoki)
 
 | Stamina | Hit Points | Resolve |
 | :-----: | :--------: | :-----: |
-| 7 | 8 | 0 |
+| 7 | 8 | 4 |
 
 #### Defense
 
 | Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
 | ----- | :-: | :-: | :-: | :-----: | :---: | :---: | :---: | :--: |
+| second skin | 1 | +1 | +2 | +5 | - | - | 1 | L |
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
+| 14 | 15 | 23 |
 
 #### Attack Bonuses : BAB +0
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
+| -1 | +3 | -1 |
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-
+| tactical semi-auto pistol | 1 | +3 | 1d6 P | - | 9/1  | L | analog |
+| survival knife | 1 | -1 | 1d4-1 S | - | - | L | analog, operative |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
+| small arms rounds | 1 | 9/9/9  | L |   |
 
 ## Abilities
 
@@ -106,6 +113,11 @@ humanoid (ysoki)
 
 ### Augmentations
 
+- **Respiration Compounder** (lungs): A respiration compounder consists of a series of modules that attach to your lungs, letting you survive longer without having to breathe. This doesn’t protect you from other dangers of an airless environment.
+  - 24 Constitution score for the purpose of how long you can hold your breath.
+  - +4 bonus to Constitution checks to continue holding your breath.
+  - +2 bonus to saving throws against inhaled poisons or other airborne toxins.
+
 
 ### Proficiencies
 
@@ -120,7 +132,7 @@ humanoid (ysoki)
 
 ## Gear
 
-**Credits:** 1000
+**Credits:** 38
 
 | Carry | Weight |
 | ----- | ------ |
@@ -132,6 +144,8 @@ humanoid (ysoki)
 
 | Item | Bulk | Capacity/Usage | Notes |
 | ---- | :--: | :------------: | ----- |
+| personal comm | L | 80 / 1/hr ||
+| healing serum mk1b | L | - | 6hp (1)|
 
 ## Background
 
