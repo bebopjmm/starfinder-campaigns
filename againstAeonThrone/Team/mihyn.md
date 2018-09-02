@@ -55,22 +55,21 @@ humanoid (verthani)
 
 | Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
 | ----- | :-: | :-: | :-: | :-----: | :---: | :---: | :---: | :--: |
-| lashunta ringwear 1 | 1 | +2 | +4 | +2 | -2 | -5 | 0 | 2 |
+| estex suit I | 1 | +0 | +1 | +5 | -1 | - | 2 | 1 |
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
-| 14 | 16 | 24 |
+| 12 | 13 | 21 |
 
 #### Attack Bonuses : BAB +0 / CT +1
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
-| -1 | +2 | -1 |
+| -1 / +0CT | +2 / +3CT | -1 / +0 CT |
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-| pulsecaster rifle | 1 | +3 | 1d6 E | - | 40/2 | 1 | 50 ft, nonlethal |
-| survival knife | 1 | -1 | 1d4-1 S | - | - | L | analog |
+| numbing beam, tactical | 1 | +3/+4CT | 1d6C | Staggered | 20/1 | 1 | Nonlethal |
 
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
@@ -127,7 +126,7 @@ humanoid (verthani)
 
 ## Gear
 
-**Credits:** 215
+**Credits:** 59
 
 | Carry | Weight |
 | ----- | ------ |
@@ -139,7 +138,9 @@ humanoid (verthani)
 
 | Item | Bulk | Capacity/Usage | Notes |
 | ---- | :--: | :------------: | ----- |
-| industrial backpack | 1 | - |   |
+| gear clamp | L | - |   |
+| flashlight | L | 10 / 1/hr  |   |
+| healing serum mk1b | L | - | 6hp (1)|
 
 ## Background
 
