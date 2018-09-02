@@ -20,8 +20,8 @@ humanoid (kasatha)
 
 | Skill | Mod | Ranks (3) | Notes
 | ---- | :--: | :---: | ----- |
-| **Acrobatics** (Dex) | +3 ||racial|
-| **Athletics** (Str) | +9 |1|racial|
+| **Acrobatics** (Dex) | +3 /+1 ACP ||racial|
+| **Athletics** (Str) | +9 / +1 ACP |1|racial|
 | Bluff (Cha) | +0 |||
 | Computers (Int:T) |-|||
 | Culture (Int:T) | +1 ||racial|
@@ -38,7 +38,7 @@ humanoid (kasatha)
 | **Profession** (bounty hunter:T) | +5 |1||
 | Sense Motive (Wis) | +0 |||
 | Sleight of Hand (Dex:T) |-|||
-| Stealth (Dex) | +1 |||
+| Stealth (Dex) | +1 / -1 ACP |||
 | **Survival** (Wis) | +6 |1|theme|
 
 | Size | Speed | Init |
@@ -55,17 +55,22 @@ humanoid (kasatha)
 
 | Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
 | ----- | :-: | :-: | :-: | :-----: | :---: | :---: | :---: | :--: |
+| lashunta ringwear 1 | 1 | +2 | +4 | +3 | -2 | -5 | 0 | 2 |
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
+| 13 | 15 | 23 |
 
 #### Attack Bonuses : BAB +1
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
+| +4 | +2 | +4 |
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
+| longsword | 1 | +5 | 1d8+3 S | - | - | 1 | runed |
+| basic handaxe | 1 | +4  | 1d4 S | - | - | L | Analog, thrown (20ft) |
 
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
@@ -122,7 +127,7 @@ humanoid (kasatha)
 
 ## Gear
 
-**Credits:** 1000
+**Credits:** 33
 
 | Carry | Weight |
 | ----- | ------ |
@@ -134,6 +139,9 @@ humanoid (kasatha)
 
 | Item | Bulk | Capacity/Usage | Notes |
 | ---- | :--: | :------------: | ----- |
+| personal comm | L | 80 / 1/hr ||
+| binders | - | - | (4) |
+| healing serum mk1b | L | - | 6hp (1)|
 
 ## Background
 
