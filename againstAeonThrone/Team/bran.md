@@ -20,8 +20,8 @@ humanoid (human)
 
 | Skill | Mod | Ranks (9) | Notes
 | ---- | :--: | :---: | ----- |
-| **Acrobatics** (Dex) | +6 |1||
-| **Athletics** (Str) | +0 |||
+| **Acrobatics** (Dex) | +6 / +5 ACP |1||
+| **Athletics** (Str) | +0 / -1 ACP |||
 | **Bluff** (Cha) | +7 |1||
 | **Computers** (Int:T) |-|||
 | **Culture** (Int:T) | +4 |1||
@@ -38,7 +38,7 @@ humanoid (human)
 | **Profession** (varies:T) |-|||
 | **Sense Motive** (Wis) | +0 |1|expertise|
 | **Sleight of Hand** (Dex:T) |-|||
-| **Stealth (Dex)** | +6 |1||
+| **Stealth (Dex)** | +6 / +5 ACP |1||
 | Survival (Wis) | +0 |||
 
 | Size | Speed | Init |
@@ -55,21 +55,27 @@ humanoid (human)
 
 | Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
 | ----- | :-: | :-: | :-: | :-----: | :---: | :---: | :---: | :--: |
+| kasatha microcord 1 | 2 | +1 | +3 | +3 | -1 | - | 0 | 1 |
+
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
+| 13 | 15 | 23 |
 
 #### Attack Bonuses : BAB +0
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
+| +0 | +2 | +0 |
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
+| azimuth laser pistol | 1 | +3 | 1d4 F | burn 1d4 | 20/1 | L | 80ft range |
 
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
+| battery | 1 | 20 | - ||
 
 ## Abilities
 
@@ -112,7 +118,7 @@ humanoid (human)
 
 ## Gear
 
-**Credits:** 1000
+**Credits:** 62
 
 | Carry | Weight |
 | ----- | ------ |
@@ -124,6 +130,9 @@ humanoid (human)
 
 | Item | Bulk | Capacity/Usage | Notes |
 | ---- | :--: | :------------: | ----- |
+| personal comm | L | 80 / 1/hr ||
+| healing serum mk1b | L | - | 6hp (1)|
+| flashlight | L | 10 / 1/hr  |   |
 
 ## Background
 

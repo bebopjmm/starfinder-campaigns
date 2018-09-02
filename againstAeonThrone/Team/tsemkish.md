@@ -49,23 +49,28 @@ humanoid (Shirren)
 
 | Stamina | Hit Points | Resolve |
 | :-----: | :--------: | :-----: |
-| 7 | 12 | 0 |
+| 7 | 12 | 4 |
 
 #### Defense
 
 | Armor | Lvl | EAC | KAC | Max Dex | ACP | Speed | Slots | Bulk |
 | ----- | :-: | :-: | :-: | :-----: | :---: | :---: | :---: | :--: |
+| preserver's mantle I | 2 | +1 | +2 | +6 | - | - | 0 | L |
 
 | EAC | KAC | AC vs CM |
 | :-: | :-: | :------: |
+| 12 | 14 | 22 |
 
 #### Attack Bonuses : BAB +0
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
+| +0 | +1 | +0 |
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
+| battle staff | 1 | +0 | 1d4 B | Knockdown | - | 1 | analog, block |
+| electrocellular plasma claw | 1| +1 | 1d4 E&F | - | 20/2 | L | living |
 
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
@@ -122,7 +127,7 @@ humanoid (Shirren)
 
 ### Feats
 
-- **Mystic Strike**: Shero's melee and ranged attacks count as magic for the purposes of bypassing damage reduction and other situations, such as attacking incorporeal creatures.
+- **Mystic Strike**: T'semkish's melee and ranged attacks count as magic for the purposes of bypassing damage reduction and other situations, such as attacking incorporeal creatures.
 
 ### Augmentations
 
@@ -139,7 +144,7 @@ humanoid (Shirren)
 
 ## Gear
 
-**Credits:** 1000
+**Credits:** 13
 
 | Carry | Weight |
 | ----- | ------ |
@@ -151,6 +156,8 @@ humanoid (Shirren)
 
 | Item | Bulk | Capacity/Usage | Notes |
 | ---- | :--: | :------------: | ----- |
+| basic medkit | 1 | - ||
+| personal comm | L | 80 / 1/hr ||
 
 ## Background
 

@@ -72,7 +72,7 @@ humanoid (ysoki)
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
 | tactical semi-auto pistol | 1 | +3 | 1d6 P | - | 9/1  | L | analog |
-| survival knife | 1 | -1 | 1d4-1 S | - | - | L | analog, operative |
+| survival knife | 1 | +3 | 1d4-1 S | - | - | L | analog, operative |
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
 | ---------- | :-: | :-----: | :--: | ----- |
