@@ -12,16 +12,16 @@ humanoid (kasatha)
 
 |**Ability**|**STR** \*|**DEX**|**CON**|**INT**|**WIS**|**CHA**|
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|Mod (Val)| +3 (16) | +1 (13) | +2 (14) | -1 (8) | +1 (12) | +0 (10) |
+|Mod (Val)| +3 (16) | +2 (14) | +1 (13) | -1 (8) | +1 (12) | +0 (10) |
 
 | Save | Fort (Con) | Refl (Dex) | Will (Wis) |
 | ---- | :--------: | :--------: | :--------: |
-| Mod | +4 | +1 | +3 |
+| Mod | +3 | +2 | +3 |
 
 | Skill | Mod | Ranks (3) | Notes
 | ---- | :--: | :---: | ----- |
-| **Acrobatics** (Dex) | +3 /+1 ACP ||racial|
-| **Athletics** (Str) | +9 / +1 ACP |1|racial|
+| **Acrobatics** (Dex) | +4 /+2 ACP ||racial|
+| **Athletics** (Str) | +10 / +8 ACP |1|racial|
 | Bluff (Cha) | +0 |||
 | Computers (Int:T) |-|||
 | Culture (Int:T) | +1 ||racial|
@@ -34,22 +34,22 @@ humanoid (kasatha)
 | Mysticism (Wis:T) |-|||
 | Perception (Wis) | +0 |||
 | Physical Science (Int:T) |-|||
-| **Piloting** (Dex) | +1 |||
+| **Piloting** (Dex) | +2 |||
 | **Profession** (bounty hunter:T) | +5 |1||
 | Sense Motive (Wis) | +0 |||
 | Sleight of Hand (Dex:T) |-|||
-| Stealth (Dex) | +1 / -1 ACP |||
+| Stealth (Dex) | +2 / +0 ACP |||
 | **Survival** (Wis) | +6 |1|theme|
 
 | Size | Speed | Init |
 | :--: | :---: | :--: |
-| Medium | 30 | +1 |
+| Medium | 25 | +1 |
 
 ### Combat
 
 | Stamina | Hit Points | Resolve |
 | :-----: | :--------: | :-----: |
-| 9 | 11 | 4 |
+| 8 | 11 | 4 |
 
 #### Defense
 
@@ -65,12 +65,12 @@ humanoid (kasatha)
 
 | Melee | Ranged | Thrown |
 | :---: | :----: | :----: |
-| +4 | +2 | +4 |
+| +4 | +3 | +4 |
 
 | Weapon | Lvl | Atk | Dmg | Crit | Cap/Use | Bulk | Notes |
 | ------ | :-: | :-: | :-: | :--: | :-----: | :--: | ----- |
-| longsword | 1 | +5 | 1d8+3 S | - | - | 1 | runed |
-| basic handaxe | 1 | +4  | 1d4 S | - | - | L | Analog, thrown (20ft) |
+| longsword | 1 | +5 | 1d8+3 S | - | - | 1 | |
+| tactical starknife | 1 | +5 | 1d4 P | - | - | L | Analog, thrown (20ft) |
 
 
 | Ammunition | Lvl | Charges | Bulk | Notes |
@@ -93,13 +93,10 @@ humanoid (kasatha)
   - Once a mark is defeated, as an action that takes 1 minute, Retwan can study dossiers and database information about another individual to be their new mark. Retwan can instead abandon his mark for a new one without defeating it, but if he does so, he take a –2 penalty to all skill checks for 1 week.
   - +1 bonus to Survival checks.
 
-### Soldier (Arcane Assailant)
+### Soldier (Hit-and-Run)
 
-- **Rune of the Eldritch Knight**: Retwan can imbue a weapon with a magic sigil, the rune of the eldritch knight
-  - allows the weapon to act as a magic weapon for the purposes of bypassing DR and affecting incorporeal creatures.
-  - takes 10 minutes, and he can imbue only a single weapon at a time.
-  - changing weapon imbued causes any previously imbued weapon loses this benefit.
-  - treat weapon imbued as item level 5 higher when calculating its hit points and hardness
+- **Opening Volley**: Retwan's ranged assault leaves his foes disoriented and vulnerable to his next melee attack.
+  - Whenever Retwan deals damage to an opponent with a ranged attack on his first turn in a combat, he gains a +2 circumstance bonus to his next melee attack roll against that opponent. This melee attack must occur before the end of his next turn.
 
 ### Feats
 
@@ -127,7 +124,7 @@ humanoid (kasatha)
 
 ## Gear
 
-**Credits:** 33
+**Credits:** 13
 
 | Carry | Weight |
 | ----- | ------ |
