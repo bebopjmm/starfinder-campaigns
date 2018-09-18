@@ -52,6 +52,10 @@ After talking to Mustar and Kora, the team grabs some lunch. Not long after they
 Isabel and Solagi-432 let the team into the apartment, which is extremely unkempt.
 - detectives make is clear that they believe nothing will come of this
 
+Tamai chats up the detectives about the gangs involved in the shootout, aided by Renlih (22 Diplomacy), whom the detectives know by reputation.
+- (Diplomacy 24): while the detectives don't have much to share about the Level 21 Crew, they do know a bit more about the Downside Kings.
+> Isabel: Turnover among the Downside Kings’ leadership is high, but the gang’s current boss is a barbarous human woman named Ferani Nadaz.
+
 Mihyn goes to the computer terminal
 - (Computers 23): easily gets into Duravor's personal files
 - (Computers 25): assembles collection of info describing his activities outside the Starfinder Society including:
@@ -74,4 +78,7 @@ Mihyn goes to the computer terminal
 
 Nevos-352 and Shero search through belongings
 - Nevos-352(14 Perception): apparent that Durovor subsisted on beer and cheap take-out food
-- Shero(25 Perception):
+- Shero(25 Perception): while inspecting the citrus tree, she notices something buried in the soil, but does not call attention to it.
+  - she and Renlih convince detectives to let her take the tree to keep it from dying.
+
+The team returns to the Moons of Sleep, where Shero shows them the item she found... 
